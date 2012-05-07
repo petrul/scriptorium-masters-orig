@@ -1,0 +1,3020 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/P4X/DTD/tei2.dtd">
+<TEI.2 lang="" TEIform="TEI.2">
+<teiHeader type="text" status="new" TEIform="teiHeader">
+<fileDesc TEIform="fileDesc">
+<titleStmt TEIform="titleStmt">
+<title TEIform="title">O noapte furtunoasa</title>
+<author TEIform="author">Ion-Luca Caragiale</author>
+</titleStmt>
+<editionStmt TEIform="editionStmt">
+<edition TEIform="edition">
+<date TEIform="date">2004-05-03T20:15:46</date>
+</edition>
+</editionStmt>
+<publicationStmt TEIform="publicationStmt">
+<authority TEIform="authority"/>
+<address TEIform="address">
+<email/>
+</address>
+</publicationStmt>
+<sourceDesc default="NO" TEIform="sourceDesc">
+<p TEIform="p">Written by OpenOffice</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc TEIform="profileDesc">
+<langUsage default="NO" TEIform="langUsage">
+<language id="" TEIform="language">ISO </language>
+</langUsage>
+</profileDesc>
+<revisionDesc TEIform="revisionDesc">
+<change TEIform="change">
+<date TEIform="date">2004-05-04T00:57:38</date>
+<respStmt TEIform="respStmt">
+<name TEIform="name">Adrian Petru Dimulescu</name>
+</respStmt>
+<item TEIform="item">revision</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text TEIform="text">
+<front TEIform="front">
+
+
+<titlePage TEIform="titlePage">
+		<docTitle TEIform="docTitle"><titlePart type="main" TEIform="titlePart">O noapte furtunoas&#259;</titlePart></docTitle>
+		<docAuthor TEIform="docAuthor">Ion-Luca Caragiale</docAuthor>
+</titlePage>
+
+
+<castList TEIform="castList">
+<head TEIform="head">PERSOANELE</head>
+<castItem type="role" TEIform="castItem">JUPÂN DUMITRACHE TITIRC&#258; INIM&#258;-REA, cherestigiu, c&#259;pitan în garda civic&#259;</castItem>
+<castItem type="role" TEIform="castItem">NAE IPINGESCU, ipistat, amic politic al c&#259;pitanului</castItem>
+<castItem type="role" TEIform="castItem">CHIRIAC, tejghetar, om de încredere al lui Dumitrache, sergent în gard&#259;</castItem>
+<castItem type="role" TEIform="castItem">SPIRIDON, b&#259;iat pe procopseal&#259; în casa lui Titirc&#259;</castItem>
+<castItem type="role" TEIform="castItem">RIC&#258; VENTURIANO, arhivar la o judec&#259;torie de ocol, student în drept &#351;i publicist</castItem>
+<castItem type="role" TEIform="castItem">VETA, consoarta lui Jupân Dumitrache</castItem>
+<castItem type="role" TEIform="castItem">ZI&#354;A, sora ei</castItem>
+</castList>
+<set TEIform="set">
+<p TEIform="p">În Bucure&#351;ti, la Dumitrache</p>
+</set>
+</front>
+<body TEIform="body">
+<div type="act" org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">ACTUL I</head>
+<stage TEIform="stage">
+<p TEIform="p">(O odaie de mahala. U&#351;&#259; în fund dând în sala de intrare; de amândou&#259; p&#259;r&#355;ile u&#351;ii din fund, câte o fereastr&#259;. Mobile de lemn &#351;i paie. La stânga, în planul întâi &#351;i-n planul din fund câte o u&#351;&#259;; în dreapta, pe planul al doilea alt&#259; u&#351;&#259;. În dreapta în fund, r&#259;zemat&#259; de fereastr&#259;, o pu&#351;c&#259; de gardist cu spanga atârnat&#259; lâng&#259; ea.)</p>
+</stage>
+<p TEIform="p"> </p>
+<div type="scene" org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA I</head>
+<stage TEIform="stage">
+<p TEIform="p">JUPÂN DRUMITRACHE, în haine de c&#259;pitan de gard&#259; f&#259;r&#259; sabie, &#351;i NAE IPINGESCU</p>
+</stage>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(urmând o vorb&#259; început&#259;)</p>
+</stage>
+<p TEIform="p">Iaca, ni&#351;te papugii... ni&#351;te scâr&#355;a-scâr&#355;a pe hârtie! 'I &#351;tim noi! M&#259;nânc&#259; pe datorie, bea pe veresie, trag lumea pe sfoar&#259; cu pi&#351;icherlicuri... &#351;i seara... se g&#259;tesc frumos &#351;i umbl&#259; dup&#259; nevestele oamenilor s&#259; le fac&#259; cu ochiul. N-ai s&#259; mai ie&#351;i cu o femeie pe uli&#355;&#259;, c&#259; se ia bagabon&#355;ii laie dup&#259; dumneata. Un &#259;la... un pr&#259;p&#259;dit de amploiat, n-are chiar&#259; în pung&#259; &#351;i se &#355;ine dup&#259; nevestele negustorilor, s&#259; le sparg&#259; casele, domnule!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Nu se ia dup&#259; toate, jupân Dumitrache; dup&#259; cum e &#351;i femeia: dac&#259; trage la ei cu coada ochiului &#351;i face fasoane, vezi bine! bagabon&#355;ii atât a&#351;teapt&#259;.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Ba s&#259; am pardon! &#350;tiu eu ce vrei dumneata s&#259; zici... Dar nevast&#259;-mea nu-i d-alea, domnule.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Vai de mine! jupân Dumitrache, adic&#259;, gânde&#351;ti c&#259; am vrut pentru ca s&#259;-&#355;i fac un atac? Îmi pare r&#259;u!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Nu, nene Nae; dar vreau s&#259; zic adic&#259; c&#259; nevasta mea nu-i d-alea cum zise&#351;i, &#351;i iaca, dup&#259; mine de ce s-a luat?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">S-a luat bagabon&#355;ii &#351;i dup&#259; dumneata?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">S-a luat &#351;i se ia...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">&#350;i cum e&#351;ti dumneata!...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Eu am ambi&#355;, domnule, când e vorba la o adic&#259; de onoarea mea de familist...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Rezon!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Apoi s&#259; &#351;tiu de bine c&#259; intru în cremenal! S&#259; mai v&#259;z eu numai c&#259; se &#355;ine bagabontul dup&#259; mine, las&#259;-l...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Cara bagabont?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Ei! iaca... un bagabont! de unde-l cunosc eu?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Apoi, dac&#259; nu-l cuno&#351;ti, de unde &#351;tii c&#259;-i bagabont?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Asta-i Una vorbim &#351;i ba&#351;ca ne-n&#355;elegem. Dar de! ai dreptul; nu &#351;tii ce mi s-a întâmplat, nu &#351;tii cum m&#259; fierbe el pe mine de dou&#259; s&#259;pt&#259;mâni de zile... Nu c&#259; mi-e fric&#259; de ceva, adic&#259; de nevast&#259;-mea... s&#259; nu...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">'Aida de! Coana Veta! Mie-mi spui? n-o &#351;tiu eu?...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Nu c&#259; mi-e fric&#259;... dar am ambi&#355;, domnule; când e vorba la o adic&#259; de onoarea mea de familist...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Rezon!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Bagabontul...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">C&#259; bine zici! începuse&#351;i s&#259;-mi spui istoria.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Stai s-o iau de la cap.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Stau.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">&#350;tii dumneata c&#259; la l&#259;sata secului am mers la gr&#259;din&#259; la "Iunion"; erau eu, consoarta mea &#351;i cumnat&#259;-mea Zi&#355;a. Ne punem la o mas&#259;, ca s&#259; vedem &#351;i noi comediile alea de le joac&#259; Ionescu. Trece a&#351;a pre&#355; ca la un sfert de ceas, &#351;i numai ce m&#259; pomenesc cu un &#259;la, cu un bagabont de amploiat...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">De unde &#351;tii c&#259; era amploiat?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Dup&#259; port nu sem&#259;na a fi negustor. M&#259; pomenesc c&#259; vine &#351;i se pune la alt&#259; mas&#259; al&#259;turi, cu fa&#355;a spre masa noastr&#259; &#351;i cu spatele la comedie. &#350;ade rezemat într-un pe&#351;, &#351;ade, &#351;ade, &#351;ade, &#351;i se uit&#259; lung &#351;i gali&#351; la cocoane, se uit&#259;, se... Eu, cum m-a f&#259;cut Dumnezeu cu ambi&#355;, m&#259; scol ca s&#259; plec&#259;m; cocoanele nu! c&#259; s&#259; mai &#351;edem, c&#259; înc&#259; nu s-a ispr&#259;vit comedia. Încep s&#259; m&#259;-ncruntez la bagabontul &#351;i mai c&#259;-mi venea s&#259;-l cârpesc, dar mi-era ru&#351;ine de lume; eu de! negustor, s&#259; m&#259; pui în poblic cu un coate-goale nu vine bine... Mai m&#259; uit eu încolo, mai m&#259; fac c&#259; nu m&#259; sinchisesc de el... bagabontul cu ochii zgâi&#355;i la cocoane; ba înc&#259;-&#351;i pune &#351;i ochilarii pe nas. Tii! frata Nae, s&#259; fi fost el aici s&#259; m&#259; fiarb&#259; a&#351;a, c&#259;-i s&#259;rea ochilarii din ochi &#351;i giubenul din cap, de auzea câinii din Giurgiu.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Rezon!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">În sfâr&#351;it, se ispr&#259;ve&#351;te comedia. Ne scul&#259;m s&#259; plec&#259;m; coate-goale se scoal&#259; &#351;i dumnealui. Plec&#259;m noi, pleac&#259; &#351;i dumnealui dup&#259; noi. Eu îl vedeam cu coada ochiului; dar nu vream s&#259; le spui cocoanelor, ca s&#259; nu le ru&#351;inez. &#350;tii cum e Veta mea,... ru&#351;inoas&#259;.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Mie-mi spui? n-o &#351;tiu eu?... Ei?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Ei! Apuc&#259;m pe la Sfântul Ionic&#259; ca s&#259; ie&#351;im pe Podul-de-p&#259;mânt, &#8212; papugiul cât colea dup&#259; noi; ie&#351;im în dosul Agiei, &#8212; coate-goale dup&#259; noi; ajungem la Sfântul Ilie în Gorgani, &#8212; moftangiul dup&#259; noi; mergem pe la Mihai-Vod&#259; ca s&#259; apuc&#259;m spre Stabilament, &#8212; ma&#355;e-fripte dup&#259; noi... Eu tr&#259;geam cu coada ochiului... fierbeam în mine, dar nu vream s&#259; spui cocoanelor...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Rezon! ca s&#259; nu le ru&#351;inezi.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">&#350;tii cum e Veta mea...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Ru&#351;inoas&#259;, mie-mi spui?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Când apuc&#259;m de la Stabilament în sus, m&#259; uit înapoi cu coada ochiului &#351;i nu mai v&#259;d pe coate-goale. Mai mergem ce mai mergem, m&#259; uit iar... m&#259; iertase bagabontul.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Jupân Dumitrache, adic&#259; s&#259; am pardon de impresie, eu gândesc c&#259; numa' &#355;i-ai f&#259;cut spaim&#259; degeaba. Poate c&#259; omul o fi &#351;ezând prin partea locului, pe Dealul Spirii. Ei! a venit &#351;i el la gr&#259;din&#259; ca &#351;i dumneavoastr&#259;, a stat &#351;i el pân&#259; la ispr&#259;vitul comediei, &#351;i s-a nemerit s&#259; apuca&#355;i tot pe-un drum ca s&#259; v&#259; înturna&#355;i la domiciliu. El a r&#259;mas la al lui &#351;i dumneavoastr&#259; a&#355;i mers înainte.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">A&#351;a am crezut &#351;i eu întâi, dar stai s&#259; vezi!... A trecut dup&#259; aia o s&#259;pt&#259;mân&#259; la mijloc. Îmi ca &#351;i uitasem eu de istoria bagabondului; gândeam &#351;i eu: poate c-o fi stâng coate-goale prin partea locului, &#8213; bunioar&#259; vorba dumitale. A&#351;a, zice cumnat&#259;-mea ieri: "Nene, hai desear&#259; la «Iunion» la Ionescu!" Cum auzii eu de "Iunion", m&#259; f&#259;cui verde la fa&#355;&#259;. "Ce s&#259; mai c&#259;ut&#259;m la comediile alea nem&#355;e&#351;ti, ni&#351;te mofturi; d&#259;m parale &#351;i nu în&#355;elegem nimica; mai bine punem banii în buzunarul &#259;l&#259;lalt &#351;i zicem c&#259; ne-am dus." &#8213; "'Aide, nene, z&#259;u! parol! s&#259; n-ai parte de mine &#351;i de Veta!" Ei! când am auzit a&#351;a vorb&#259; mare, n-am putut pentru ca s-o tratez cu refuz.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Rezon!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Ei! haide!... dar unde m&#259; gândeam eu c&#259; o s&#259; mi se întâmple un a&#351;a ceva. Ne ducem. &#350;edem la o mas&#259; mai la o parte; &#351;edem cât &#351;edem, &#351;i începe comedia. Nu &#351;tiu cum m&#259;-ntorc cu ochii înapoi, &#351;i pe cine gânde&#351;ti c&#259; v&#259;z la masa de la spate?...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Pe bagabontul...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Pe coate-goale, domnule, pe moftangiul, pe ma&#355;e-fripte, domnule! Fir-ai al dracului de punga&#351;!... Bagabontul, nene, cu sticlele-n ochi, cu giubenul în cap &#351;i cu basmaua iac-a&#351;a scoas&#259;. Cum m-a v&#259;zut, &#8213; c&#259; trebuie s&#259; fi fost schimbat la fa&#355;&#259;, cum sunt eu când m&#259; nec&#259;jesc (<stage TEIform="stage">î&#351;i mângâie favoritele</stage>) &#8213; cum m-a v&#259;zut, a sfeclit-o... A întorsc capu-ncolo &#351;i a început s&#259; bea din &#355;igar&#259; &#351;tii a&#351;a, niznai. Dar m&#259; tr&#259;gea cu coada ochiului. M&#259;-ntorc eu iar la loc &#351;i m&#259; fac c&#259; m&#259; uit la comedii, se-ntoarce &#351;i bagabontul iar cu ochii la cocoane!... m&#259; uit iar la el, iar se-ntoarce-ncolo;... m&#259;-ntorc iar la comedii, iar se uit&#259; la cocoane;... m&#259; uit iar la el, iar se-ntoarce-ncolo; m&#259;-ntorc iar comedii...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Iar se uit&#259; la cocoane...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Ei! iac-a&#351;a m-a fiert f&#259;r&#259; ap&#259; toat&#259; seara...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">În sfâr&#351;it?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">În sfâr&#351;it... plec&#259;m; coate-goale dup&#259; noi. Era s&#259; m&#259;-ntorc în poarta "Iunionului", s&#259;-i zic numa': "Ce pofte&#351;ti, m&#259; musiu?" &#351;i s&#259;-l &#351;i umflu; dar &#351;tii, am ambi&#355;; m-am gândit: eu negustor... s&#259; m&#259; pui în poblic cu un bagabont ca &#259;la, nu face...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Rezon!... Ei! pe urm&#259;?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Pe urm&#259; s-a &#355;inut iar gaie dup&#259; mine.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Pân&#259; la Stabilament...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Da, pân&#259; la Stabilament! S-a &#355;inut dup&#259; mine pân&#259; la r&#259;scruci, &#351;tii, unde vrei s-apuci spre cazarm&#259;. Ce ziceam eu? "Haide, drace, haide! s&#259; intri tu pe strada lui Marcu Aoleriu ori Catilina &#351;i las&#259;!" Aveam de gând s&#259; intru cu cocoanele în cas&#259;, s&#259; trimit repede pe Chiriac pe poarta de din dos pe maidan s&#259;-i ias&#259; înainte, &#351;i eu s&#259;-l iau pe la spate,... s&#259;-l apuc&#259;m la mijloc pentru ca s&#259;-l întreb: "Ce pofte&#351;ti, m&#259; musiu?" &#351;i s&#259;-l &#351;i umflu!... &#350;i dac&#259; nu-i ajungea, s&#259;-mi tai mie favuridele! (<stage TEIform="stage">î&#351;i mângâie favoritele</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Ei! dac&#259; nu-i ajungea, desp&#259;r&#355;irea e aproape; s&#259; fi poftit la mine la desp&#259;r&#355;ire cu l&#259;cr&#259;ma&#355;ie, c&#259;-i împlineam eu cât i mai lipsea.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">A avut noroc! mare noroc a avut bagabontul; a sc&#259;pat!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Iii! p&#259;cat... Cum?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Când am trecut eu de r&#259;scruci cu coaoene, &#351;i bagabontul era s&#259; intre dup&#259; noi în uli&#355;&#259;, a ie&#351;it haita de câini de la maiorul din col&#355;, &#351;i i-a t&#259;iat drumul lui coate-goale. Am l&#259;sat pe Zi&#355;a acas&#259;, m-am suit degrab cu Veta sus, am trimis pe Chiriac repede pe maidan, eu i-am ie&#351;it înainte peste uluci tocmai pe la pr&#259;v&#259;lia lui Bursuc; dar... geaba! pân&#259; s&#259; ie&#351;im noi, fugise bagabontul!</p>
+<stage TEIform="stage">
+<p TEIform="p">(Se aude glasul lui Chiriac, strigând afar&#259;: "Spiridoane! Spiridoane!")</p>
+</stage>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Iac&#259;t&#259; vine Chiriac. S&#259; n-auz&#259;.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">A&#351;! de el nu m&#259; sfiesc. La din contra, el &#351;tie toat&#259; istoria, i-am spus-o de la început... Atâta om de încredere am... B&#259;iat bun!... &#355;ine la onoarea mea de familist. Dac&#259; nu l-a&#351; fi avut pe el, mi-ar fi mers treaba greu. Eu, &#351;tii, cu negustoria, mai mergi colo, mai du-te dincolo, m&#259; rog, ca omul cu daraveri, toat&#259; ziua trebuie s&#259; lipsesc de-acas&#259;. Pe de alt&#259; parte, ce s&#259;-&#355;i spui! am ambi&#355;, &#355;iu când e vorba la o adic&#259; la onoarea mea de familist. De! când lipsesc eu de-acas&#259;, cine s&#259;-mi p&#259;zeasc&#259; onoarea? Chiriac s&#259;racul! N-am ce zice! onorabil b&#259;iat! De-aia m-am hot&#259;rât &#351;i eu, cum m-oi vedea la un fel cu meremetul caselor, îl fac tovar&#259;&#351; la parte &#351;i-l &#351;i însor!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Da'... coana Veta ce zice?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Consoarta mea?... Ce s&#259; zic&#259;?... De! ca muierea... mai ursuz&#259;. Am cam b&#259;gat eu de seam&#259; c&#259; nu-l prea are ea la ochi buni pe Chiriac; dar &#8213; &#351;tii cum m-a f&#259;cut Dumnezeu pe mine, nu-i trec muierii nici atitica din al meu, &#8213; i-am zis pe &#351;leau: "Nevast&#259;, e b&#259;iat onorabil &#351;i credincios; n-ai ce-i face: ce-i al omului e al omului!"</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Rezon!</p>
+<stage TEIform="stage">
+<p TEIform="p">ACEIA&#350;I &#8211; CHIRIAC</p>
+</stage>
+</sp>
+</div>
+<div type="scene" org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA II</head>
+<stage TEIform="stage">
+<p TEIform="p">ACEIA&#350;I &#8211; CHIRIAC</p>
+</stage>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(intrând prin fund)</p>
+</stage>
+<p TEIform="p">Jupâne, trebuie s&#259; facem mandat de arestare pentru Tache pantofarul de la Sf. Lefteri; nu vrea s&#259; ias&#259; mâine la izirci&#355; cu nici un pre&#355;.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Dar pentru ce nu vrea?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Zice c&#259;-i bolnav. Am trimis gornistul de trei ori la el cu biletul, &#351;i l-a primit cu refuz. Zice m&#259;-sa c&#259; nu poate umbla, c&#259; de-abia s-a sculat dup&#259; lingoare.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">S&#259; dea ceferticat medical.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">M-am dus eu la el chiar în persoan&#259;; zic: pe ce baz&#259; nu vrei s&#259; vii mâine la ezirci&#355;, domnule? zice: sunt bolnav, domnule sergent, zice, de-abia m&#259; &#355;iu pe picioare, nu pot s&#259; merg nici pân' la pr&#259;v&#259;lie, zice; zic: nu cunosc la un a&#351;a rezon f&#259;r&#259; motiv; zice: aduc martori, domnule sergent, c&#259; am z&#259;cut o lun&#259; de zile, zice, întreab&#259; &#351;i pe popa Z&#259;bav&#259; de la Sfântul Lefterie, zice, alalt&#259;ieri m-a grijit, m-a spovedit; zic: n-am eu de-a face cu popa Z&#259;bav&#259;, nu-l am pe list&#259;, zic, eu pe dumneata te am pe list&#259;; s&#259; te prezan&#355;i mâini la companie. &#8213; Acu, trebuie s&#259;-i d&#259;m mandat, pentru ca s&#259;-l iau mâine diminea&#355;&#259;.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">S&#259;-i d&#259;m, s&#259;-l iei! Ala-i de-al ciocoilor, îl &#351;tiu eu; cât a umblat dânsul fel &#351;i chip s&#259; scape de gard&#259;...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">&#350;i eu îl am însemnat pe musiu Tache la catastiful meu; e finul lui Popa Tache.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Ei! vezi!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Las&#259;-l c&#259; nu se sfin&#355;e&#351;te el cu mine, jupâne, îl poc&#259;iesc eu... Ei! dup&#259; aia pe nea Ghi&#355;&#259; &#354;irc&#259;d&#259;u nu l-a putut g&#259;si gornistul deloc. A fost la el &#351;i ieri &#351;i ast&#259;zi cu biletul; cic&#259; n-a dat pe-acas&#259; de trei zile!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Pricopsitul de cumnatu-meu, n-a&#351; fi mai avut parte de el! Cine &#351;tie în ce cârcium&#259; s-a-nfundat!...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">L-am v&#259;zut eu azi diminea&#355;&#259;, trece pe la desp&#259;r&#355;ire.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">M&#259; duc s&#259;-i trime&#355; gornistul cu biletul pentru mâine. (<stage TEIform="stage">iese repede</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Era afumat r&#259;u nenea Ghi&#355;&#259;.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Ei! bravos! asta e una la mân&#259;. Om stricat, domnule! P&#259;i de ce am dezvor&#355;at-o pe Zi&#355;a de el, gânde&#351;ti? Nu mai putea tr&#259;i cu mitocanul, domnule...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Rezon!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Fat&#259; frumoas&#259;, modist&#259; &#351;i înv&#259;&#355;at&#259; &#351;i trei ani la pasion, s&#259;-&#351;i m&#259;nânce ea tinere&#355;ele cu un &#259;la... Tot gândeam la început, c&#259; de! e tân&#259;r, o s&#259;-i treac&#259; mai încolo, o s&#259;-&#351;i vie la poc&#259;in&#355;&#259;. A&#351;, &#355;i-ai g&#259;sit! &#354;irc&#259;d&#259;u &#351;i om de treab&#259;! Eu, ca &#259;la, cumnat mai mare, cum am zice ca &#351;i un frate, tot i dam pove&#355;e fetii s&#259; mai rabde, s&#259; nu strice casa. Cu azi, cu mâine, a r&#259;bdat biata fat&#259; &#8213; biat&#259; s&#259; nu fie! &#8213; a r&#259;bdat cât a r&#259;bdat, pân&#259; m-am pomenit într-o zi c&#259; vine &#355;ipând la mine, pe cum c&#259;: "Nene, moart&#259;, t&#259;iat&#259;, nu mai stau cu mitocanul, scap&#259;-m&#259; de pastramagiul! s&#259; &#351;tiu de bine c&#259; m&#259; duc la m&#259;n&#259;stire, pâine &#351;i sare nu mai m&#259;nânc cu el!" Ei! dac&#259; am v&#259;zut &#351;-am v&#259;zut, zic: "Las&#259;, Zi&#355;o, zic, î&#355;i g&#259;se&#351;ti tu norocul, n-a intrat zilele-n sac! acu e vremea ta! Lac s&#259; fie, c&#259; broa&#351;te destul!" &#8213; &#351;-am &#351;i dezvor&#355;at-o. Apoi nu mai era de suferit a&#351;a trai. N-o mai maltrata, domnule, m&#259;car cu o vorb&#259; bun&#259;. M&#259; rog, o dat&#259; ce nu e b&#259;rbatul levent, ce fel de cas&#259; s&#259; mai fie &#351;-aia?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Mie-mi spus? Nu i-am încheiat eu procestul-verbal atuncea noaptea, când a tratat-o cu insulte &#351;i cu b&#259;taie?</p>
+<stage TEIform="stage">
+<p TEIform="p">(Chiriac reintr&#259;)</p>
+</stage>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Apoi de ! n-a avut dreptul muierea s&#259;-l? Om f&#259;r&#259; ambi&#355;, domnule, nu &#355;inea la onoarea lui de familist! Un mitocan, m&#259; rog; zice c&#259;-i negustor, alege-s-ar praful!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Jupâne, da' desear&#259; c&#259; e&#351;ti de rond... mergi?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Mai e vorb&#259;? cum s&#259; nu merg? De ce m-am îmbr&#259;cat? nu vezi?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Jupâne, da' face toate posturile? nu-i a&#351;a? Nu sunt multe... pân&#259; pe dou&#259; dup&#259; dou&#259;spce le ispr&#259;ve&#351;ti.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">A&#351;a, cam pe la dou&#259; dup&#259; dou&#259;spce, ca totdeauna... Chiriac b&#259;iete (<stage TEIform="stage">îl trage la o parte</stage>) ia vezi tu... m&#259; &#351;tii c&#259; am ambi&#355;, când e vorba la o adic&#259;, &#355;iu la...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Las&#259;, jupâne, c&#259; doar nu m&#259; cuno&#351;ti de ieri de-alalt&#259;ieri.</p>
+<stage TEIform="stage">
+<p TEIform="p">ACEIA&#350;I &#8213; SPIRION (aducând o gazet&#259;)</p>
+</stage>
+</sp>
+</div>
+<div type="scene" org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA III</head>
+<stage TEIform="stage">
+<p TEIform="p">ACEIA&#350;I &#8213; SPIRION (aducând o gazet&#259;)</p>
+</stage>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(lui Spiridon)</p>
+</stage>
+<p TEIform="p">Dar mai mult nu puteai s&#259; &#351;ezi, m&#259;?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<p TEIform="p">Vezi c&#259; era mul&#355;i mu&#351;tirii, jupâne, pân&#259; s&#259;-mi dea madama gazeta.</p>
+<p TEIform="p">(Ipingescu ia gazeta)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">M&#259; Spiridoane, fii b&#259;iat de treab&#259;, m&#259;, c&#259; iau pe sfântul Niculae din cui; &#351;tii c&#259; i-am pus sfârcul nou de ibri&#351;im s&#259; nu-i fac saftea pe spinarea ta!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<p TEIform="p">Da' de ce, jupâne?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Atâta-&#355;i spui eu &#355;ie: 'aida! du-te iute &#351;i cere cocoanii s&#259;-mi dea sabia &#351;i cintironul. (<stage TEIform="stage">Spiridon pleac&#259;.</stage>) Chiriac b&#259;iete, (<stage TEIform="stage">îl ia la o parte</stage>) ia vezi, &#351;tii c&#259; am ambi&#355;, &#355;iu când e la o adic&#259;...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Las&#259;, jupâne, m&#259; &#351;tii c&#259; consim&#355; la onoarea dumitale de familist.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Ei! ia vezi...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">N-ai grije, jupâne... Eu m&#259; duc s&#259; închiz cantorul &#351;i magazia. (<stage TEIform="stage">c&#259;tr&#259; Ipingescu, care, de când a adus Spiridon gazeta, a sorbit-o cu ochii pe toate fe&#355;ele.</stage>) Bonsoar, nene Nae.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Salutare, onorabile!</p>
+<p TEIform="p">(Chiriac iese, prin fund, dup&#259; ce a schimbat gesturi de în&#355;elegere, despre onoarea de familist, cu jupân Dumitrache.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(vine din dreapta cu sabia &#351;i cintironul)</p>
+</stage>
+<p TEIform="p">Iaca, na, jupâne, poftim.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Ce f&#259;cea cocoana, m&#259;?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<p TEIform="p">Cosea galoanele la mondirul lui nea Chiriac.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Ce a zis?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<p TEIform="p">Zicea c&#259; s&#259; vii mai devreme la noapte, c&#259;-i e urât singur&#259;-n cas&#259;.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Uit&#259; m&#259;! Ce &#355;i-e cu muierea fricoas&#259;! (<stage TEIform="stage">strajnic</stage>) Da' Chiriac nu-i aicea?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<p TEIform="p">Jupâne, nea Chiriac mi-a zic s&#259;-nchidem mai degrab&#259;, c&#259; ai s&#259; pleci de rond.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Du-t' de ado cheile &#351;i le du lui Chiriac jos. (<stage TEIform="stage">Spiridon iese.</stage>) Nene Nae, auzi&#351;i cum îmi poart&#259; Chiriac de grija rondului? Ei! i-e tot fric&#259; s&#259; nu uit reglementul. Are ambi&#355; b&#259;iatul, ca s&#259; fie compania noastr&#259; ceva mai abitir din toate. Gânde&#351;ti dumneata c&#259; mai primeam eu s&#259; fiu c&#259;pitan dac&#259; nu-l alegea pe el sergent? &#350;tii cum a regulat compania? E prima domnule, poci s&#259; zic...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Bravos!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Face s&#259;-i dea &#351;i dicora&#355;ie!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">S&#259;-i dea! de ce s&#259; nu-i dea? &#350;i el e d-ai no&#351;tri, b&#259;iat din popor...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Fire&#351;te, dicor&#259;&#355;iile nu sunt f&#259;cute tot din sudoarea poporului?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Rezont!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(venind din fund)</p>
+</stage>
+<p TEIform="p">S-a închis, jupâne; acuma eu... m&#259; duc s&#259; m&#259; culc?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Da, dar tutun &#351;i c&#259;rticic&#259; &#355;i-ai luat? Chibrituri ai?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<p TEIform="p">Ce tutun, jupâne?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Te face c&#259; nu în&#355;elegi, ai? Nu &#351;tii ce tutun? Eu n-am aflat c&#259; tragi &#355;igar&#259;? Aoleo, Spiridoane, nu te-oi prinde odat&#259;!... S&#259;racul sf. Niculae! i &#351;tii tu p&#259;para lui...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<p TEIform="p">Z&#259;u, jupâne.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Haida pleac&#259;. (<stage TEIform="stage">Spiridon pleac&#259;.</stage>) M&#259;! spune lui nen-tu Chiriac s&#259; nu uite de ce ne-a fost vorba... s&#259; fie cu ochii-n patru.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(ie&#351;ind)</p>
+</stage>
+<p TEIform="p">Bine, jupâne.</p>
+<stage TEIform="stage">
+<p TEIform="p">IPINGESCU, JUPÂN DUMITRACHE</p>
+</stage>
+</sp>
+</div>
+<div type="scene" org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA IV</head>
+<stage TEIform="stage">
+<p TEIform="p">IPINGESCU, JUPÂN DUMITRACHE</p>
+</stage>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(&#351;ezând pe scaun)</p>
+</stage>
+<p TEIform="p">Hei! ia s&#259; vedem acu ce mai zice politica. Citi&#351;i ceva?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Bravos ziar, domnule! &#258;sta &#351;tiu c&#259; combate bine.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Apoi nu-i zice lui degeaba "Vocea Patriotului Na&#355;ional"!...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(cite&#351;te greoi &#351;i f&#259;r&#259; interpuncta&#355;ie)</p>
+</stage>
+<p TEIform="p">"Bucure&#351;ti 15/27 R&#259;pciune.&#8213;Amicul &#351;i colaboratorele nostru R. Vent. ..., un june scriitor democrat, a c&#259;rui asinuitate o cunoa&#351;te demult publicul cititor, ne trimite urm&#259;toarea prefa&#355;iune a unui nou op al s&#259;u. I d&#259;m ast&#259;zi locul de onoare, recomandând cu c&#259;ldur&#259; poporului suveran scrierea amicului nostru. <stage TEIform="stage">Republica &#351;i Reac&#355;iunea</stage> sau <stage TEIform="stage">Venitorele &#351;i Trecutul.</stage>&#8213;Prefa&#355;iune.&#8213;Democra&#355;iunea roman&#259;, sau mai bine zis &#355;inta Democra&#355;iunii romane este de a persuada pe cet&#259;&#355;eni, c&#259; nimeni nu trebuie a mânca de la datoriile ce ne impun solemnaminte pactul nostru fundamentale, sfânta Constitu&#355;iune..."</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(mul&#355;umit)</p>
+</stage>
+<p TEIform="p">Ei, bravos! Aici a adus-o bine.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(c&#259;utând &#351;irul unde a r&#259;mas)</p>
+</stage>
+<p TEIform="p">"... A mânca... sfânta Constitu&#355;iune..."</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(cam nedomirit)</p>
+</stage>
+<p TEIform="p">Adic&#259;, cum s-o m&#259;nânce?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Stai s&#259; vei... c&#259; spune el... "Sfânta Constitu&#355;iune, &#351;i mai ales cei din masa poporului..."</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(nedomirit)</p>
+</stage>
+<p TEIform="p">E scris adânc.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Ba nu-i adânc deloc. Nu pricepi? Vezi cum vine vorba lui: s&#259; nu mai m&#259;nânce nimeni din sudoarea bunioar&#259; a unuia ca mine &#351;i ca dumneata, care suntem din popor; adic&#259; s&#259; &#351;az&#259; numai poporul la mas&#259;, c&#259; el e st&#259;pân.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(l&#259;murit)</p>
+</stage>
+<p TEIform="p">Ei! a&#351;a mai vii de-acas&#259;. Bravos! Zi-i nainte.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Stai s&#259; vezi: acuma vine un ce &#351;i mai tare.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Ei?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(urmând citirea)</p>
+</stage>
+<p TEIform="p">"... A mânca poporul mai ales, este o gre&#351;al&#259; neiertat&#259;, ba putem zice chiar o crim&#259;..."</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(cu deplin&#259; aprobare)</p>
+</stage>
+<p TEIform="p">&#350;tii c&#259; &#351;i aici love&#351;te bine! Da! cine m&#259;nânc&#259; poporul s&#259; mearg&#259; la cremenal!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(b&#259;tând cu mâna-n gazet&#259;)</p>
+</stage>
+<p TEIform="p">Apoi de ce scrie el, sireacul!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">D&#259;-i nainte, c&#259;-mi place.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">"... Ba putem zice chiar o crim&#259;. (<stage TEIform="stage">schimbând tonul &#351;i mai grav.</stage>) Nu! Orice s-ar zice &#351;i orice s-ar face, cu toate zbieretele reac&#355;iunii, ce se zvârcole&#351;te sub dispre&#355;ul strivitor al opiniunii publice; cu toate urletele acelora ce cu neru&#351;inare se intituleaz&#259; sistematici opozan&#355;i..."</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(care la fiece accent al lui Ipingescu a dat mereu din cap în semn de aprobare, îl întrerupe cu entuziasm)</p>
+</stage>
+<p TEIform="p">Hahahaha! i-a-nfundat!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(urmând cu t&#259;rie)</p>
+</stage>
+<p TEIform="p">"... Nu! în van! noi am spus-o &#351;i o mai spune: situa&#355;iunea Romaniei nu se va putea chiarifica; ceva mai mult, nu vom putea intra pe calea viritabilelui progres, pân&#259; ce nu vom avea un <stage TEIform="stage">sufragiu</stage> universale..." (<stage TEIform="stage">amândoi r&#259;mân foarte încurca&#355;i.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Adic&#259;tele, cum vine vorba asta?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(dup&#259; adânc&#259; reflec&#355;ie)</p>
+</stage>
+<p TEIform="p">A! în&#355;eleg! bate în ciocoi, unde m&#259;nânc&#259; sudoarea poporului suveran... &#351;tii: mas&#259;... sufragiu...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Ei! acu în&#355;eleg eu unde bate vorba lui! Ei! bravos! bine vorbe&#351;te...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">&#258;sta combate, domnule, nu &#355;i-am spus eu!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Apoi, nu-i zice lui degeaba "Vocea Patriotului Na&#355;ional"!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">"... Pân&#259; ce nu vom avea un <stage TEIform="stage">sufragiu</stage> universal. Am zis &#351;i subsemnez! R. Vent... studinte în drept &#351;i publicist."</p>
+<stage TEIform="stage">
+<p TEIform="p">(Când înc&#259; nu sfâr&#351;e&#351;te bine Ipingescu de citit, se aude afar&#259;, în strad&#259;, la dreapta, ceart&#259; mare.)</p>
+</stage>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">UN GLAS DE B&#258;RBAT</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(de afar&#259;)</p>
+</stage>
+<p TEIform="p">Las&#259;, cocoan&#259;! Poate c&#259; s&#259; mor &#351;i s&#259; nu &#355;i-o fac!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">GLASUL ZI&#354;II</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(de afar&#259;)</p>
+</stage>
+<p TEIform="p">Mitocane! pastramagiule! la poli&#355;iune! (<stage TEIform="stage">amândou&#259; glasurile vorbesc deodat&#259;.</stage>) Nene Dumitrache!<lb TEIform="lb"/>(Jupân Dumitrache &#351;i Nae Ipingescu r&#259;mân uimi&#355;i.)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(ascultând)</p>
+</stage>
+<p TEIform="p">S&#259;i, nene Nae!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Urgent! </p>
+<stage TEIform="stage">
+<p TEIform="p">(strânge repede gazeta &#351;i scoate fluierul de la cheotoarea mondirului. Amândoi ies fuga prin fund, Ipingescu &#351;uierând signalul de alarm&#259;.)</p>
+</stage>
+</sp>
+</div>
+<div type="scene" org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA V</head>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(singur, intr&#259; din dreapta f&#259;cându-&#351;i o &#355;igar&#259;)</p>
+</stage>
+<p TEIform="p">M&#259;&#259;! al dracului rumân &#351;i jupânul nostru! Bine l-a botezat cine l-a botezat "Titirc&#259; Inim&#259;-Rea". Ce are el cu mine? Z&#259;u! Biata cocoan&#259; &#351;i cu nea Chiriac! Cu ei mai am noroc, ei mai m&#259; scap&#259; de afurisitul, c&#259; despre partea lui jupân Titirc&#259; Inim&#259;-Rea, halal s&#259; fie de oasele mele! m-ar cotonogi. Ieri s&#259;pt&#259;mâna, când s-a întors de la gr&#259;din&#259; cu cocoanele, m-a g&#259;sit de&#351;tept: "Bravos, musiu Spiridoane! zice, nu te-ai culcat pân-acuma; mâine diminea&#355;&#259; jupânul s&#259;racul s&#259; deschiz&#259; pr&#259;v&#259;lia; ai stat pân-acuma s&#259; bei la tutun, 'ai? &#8213; Nu jupâne, zic, da' dac&#259; nu mi-e somn. &#8213; Nu &#355;i-s somn, 'ai? stai c&#259;-&#355;i fac eu &#355;ie poft&#259; de culcat!"... Bietul nea Chiriac m-a sc&#259;pat, c&#259; luase pe sfântul Niculae din cui... Ieri sear&#259; m-a g&#259;sit dormind: "Bravos, musiu Spiridoane! zice; dormi, ce-&#355;i mai pas&#259;! tutun ai tras destul, acum te-ai pus s&#259; tragi la aghioase; trai, neneaco, cu banii b&#259;bachii! &#8213; Nu, jupâne, da' dac&#259; mi-a fost somn, zic. &#8213; Somn, 'ai? Te trage traiul îl bun la somn! (Auzi, cu sfântul Niculae trai bun, c&#259;de-i-ar bunul pe inim&#259; lui jupânul!) Tragi la somn? Stai c&#259; am eu leac s&#259;-&#355;i tai de piroteal&#259;." &#350;i mi-a &#351;i pus mâna-n p&#259;r. Dac&#259; nu era cocoana s&#259; sar&#259; pentru mine tocmai la apropot, m&#259; rupea, c&#259; nu-&#351;' ce-avea, era turbat r&#259;u de tot (<stage TEIform="stage">s-aude zgomot</stage>). Auliu! Vine! (<stage TEIform="stage">stinge repede &#355;igara cu degetele &#351;i o bag&#259; în buzunar.</stage>)</p>
+<stage TEIform="stage">
+<p TEIform="p">SPIRIDON, ZI&#354;A (intr&#259; agitat&#259;)</p>
+</stage>
+</sp>
+</div>
+<div type="scene" org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA VI</head>
+<stage TEIform="stage">
+<p TEIform="p">SPIRIDON, ZI&#354;A (intr&#259; agitat&#259;)</p>
+</stage>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">Auzi mizerabilul! s&#259; se-ntinz&#259; pân&#259;-ntr-atâta ca s&#259;-mi fac&#259; un afront.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<p TEIform="p">Dumneata e&#351;ti, cocoan&#259; Zi&#355;o? Bine c&#259; veni&#351;i. Eu n-am putut s&#259; viu. Mi-era fric&#259; s&#259; nu m&#259; spuie nea Chiriac lui jupânul, c&#259; am umblat noaptea pe drum...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(repede)</p>
+</stage>
+<p TEIform="p">Ei! L-ai g&#259;sit? I-ai vorbit? I-ai dat? I-ai spus?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<p TEIform="p">Da, cocoan&#259;.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">Ce-a zis?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<p TEIform="p">"Mersi!"</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">&#350;i tu ce i-ai spus?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<p TEIform="p">"Pentru pu&#355;in."</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">Nu i-ai spus cum &#355;i-am zis eu?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<p TEIform="p">Ba da, l-am luat s&#259;-i ar&#259;t casa.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">Nu mai trebuia s&#259;-i ar&#259;&#355;i nimic, c&#259;-i scrisesem eu în bilet unde s&#259; vie.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<p TEIform="p">A&#351;a mi-a zis, s&#259;-i ar&#259;t casa, ca s&#259; mearg&#259; la sigur... Dar când s&#259; ies de p&#259; maidan cu dumnealui, tocmai trecea jupânul de la vale; am l&#259;sat pe persoana în chestiune s&#259; m-a&#351;tepte pe maidan &#351;i eu am s&#259;rit peste uluci prin fundul cur&#355;ii, c&#259; mi-era fric&#259; s&#259; nu dea jupânul cu ochii de mine, ori s&#259; vie acas&#259; &#351;i s&#259; nu m&#259; g&#259;seasc&#259;.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">Prostule! Nu &#351;tii c&#259; nenea e de rond la noapte? Nu mai d&#259; pe-acas&#259; pân&#259; la ziu&#259;.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<p TEIform="p">Dar dac&#259; m&#259; g&#259;sea pe uli&#355;&#259;, pl&#259;teai dumneata pielea mea?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">Ei! &#350;i zi persoana în chestiune a&#351;teapt&#259; pe maidan?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<p TEIform="p">Da, &#351;i mi-a dat &#351;i biletul &#259;sta ca s&#259; &#355;i-l aduc.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(luând biletul)</p>
+</stage>
+<p TEIform="p">&#350;i nu mi-l dai mai curând! Adu s&#259; v&#259;z. (<stage TEIform="stage">merge la o parte &#351;i cite&#351;te.</stage>) "Angel radios! De când te-am v&#259;zut întâia&#351;i dat&#259; pentru prima oar&#259;, mi-am pierdut uzul ra&#355;iunii... (<stage TEIform="stage">î&#351;i comprim&#259; palpita&#355;iile.</stage>) Te iubesc la nemurire, <stage TEIform="stage">Je vous aime et vous adore: que prétendez-vous encore</stage>? Inima-mi palpit&#259; de amoare. Sunt într-o pozi&#355;iune pitoreasc&#259; &#351;i mizericordioas&#259; &#351;i suf&#259;r peste poate. O da! Tu e&#351;ti aurora sublim&#259;, care deschide bolta azurie într-o adora&#355;iune poetic&#259; infinit&#259; de suspine misterioase, pline de reverie &#351;i inspira&#355;iune, care m-a f&#259;cut pentru ca s&#259;-&#351;i fac aci anexata poezie:<lb TEIform="lb"/>
+<lb TEIform="lb"/>"E&#351;ti un crin plin de candoare, e&#351;ti o fragil&#259; zambil&#259;,<lb TEIform="lb"/>E&#351;ti o roz&#259; parfumat&#259;, e&#351;ti o tân&#259;r&#259; lalea!<lb TEIform="lb"/>Un poet nebun &#351;i tandru te ador&#259;, ah! copil&#259;!<lb TEIform="lb"/>De a lui pozi&#355;iune turmentat&#259; fie-&#355;i mil&#259;;<lb TEIform="lb"/>Te iubesc la nemurire &#351;i î&#355;i dedic lira mea!<lb TEIform="lb"/>Al t&#259;u pentru o eternitate &#351;i <stage TEIform="stage">per toujours.</stage>"</p>
+<stage TEIform="stage">
+<p TEIform="p">(Foarte aprins&#259;, î&#351;i face vânt cu scrisoarea &#351;i se plimb&#259; repede.)</p>
+</stage>
+<p TEIform="p">Spiridoane b&#259;iete, du-te, du-te iute; te a&#351;teapt&#259; siguralmente... du-te... spune-i s&#259; a&#351;tepte, viu &#351;i eu dup&#259; tine numaidecât, numai s&#259; vorbesc ceva&#351;ilea cu &#355;&#259;&#355;ica.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<p TEIform="p">Nu pot, cocoan&#259;, s&#259; m&#259; duc, pân&#259; nu mi-o da voie ori nea Chiriac, ori cocoana.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">Unde-i Chiriac?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<p TEIform="p">Nu &#351;tiu, pân curte.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">Dar &#355;a&#355;a?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<p TEIform="p">Lucreaz&#259; dincolo. (<stage TEIform="stage">Zi&#355;a porne&#351;te spre u&#351;a din stânga, când u&#351;a se deschide &#351;i Veta intr&#259;.</stage>) Iac&#259;t&#259;-i cocoana.</p>
+<stage TEIform="stage">
+<p TEIform="p">ACEIA&#350;I &#8211; VETA</p>
+</stage>
+</sp>
+</div>
+<div type="scene" org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA VII</head>
+<stage TEIform="stage">
+<p TEIform="p">ACEIA&#350;I &#8211; VETA</p>
+</stage>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(intr&#259; cu lucrul în mân&#259;; coase galoanele la un mondir de sergent de gard&#259; civic&#259;; este obosit&#259; &#351;i distrat&#259;, vorbe&#351;te rar &#351;i încet)</p>
+</stage>
+<p TEIform="p">Cine-i aici? (<stage TEIform="stage">v&#259;zând pe Zi&#355;a.</stage>) A! Tu erai? m&#259; miram cine-i. (<stage TEIform="stage">trece încet s&#259; &#351;az&#259; cu lucrul la masa din dreapta.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">Eu, &#355;&#259;&#355;ico; te rog las&#259; pe Spiridon s&#259; se duc&#259; pân' la mine acas&#259;, ca s&#259;-mi aduc&#259; mantelul; bate vântul &#351;i mi-e fric&#259; s&#259; nu r&#259;cesc când m-o întoarce... (<stage TEIform="stage">t&#259;cere. Veta &#351;ade la dreapta &#351;i lucreaz&#259; adâncit&#259; în gânduri.</stage>) Îl la&#351;i, &#355;a&#355;o? (<stage TEIform="stage">se apropie de ea.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">'Ai? Ce s&#259; las?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">S&#259; la&#351;i pe Spiridon s&#259;-mi aduc&#259; ceva de acas&#259;.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Da, îl las.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">Du-te, Spiridoane.</p>
+<stage TEIform="stage">
+<p TEIform="p">(Spiridon, dup&#259; ce schimb&#259; privire &#351;i semne cu Zi&#355;a, iese.)</p>
+</stage>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Dar tu, Zi&#355;o, la ce-ai venit? (<stage TEIform="stage">lucreaz&#259; înainte.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">Stai s&#259;-&#355;i spui... Dar nu m&#259;-ntrebi, &#355;a&#355;o, s&#259;-&#355;i povestesc ce am p&#259;&#355;it cu mitocanul! S&#259; vezi, e halima... Auzi, mizerabilul! s&#259;-ndr&#259;zneasc&#259; s&#259;-mi &#355;ie drumul ca s&#259;-mi fac&#259; un atac... Stai, &#355;a&#355;o, s&#259;-&#355;i spui &#351;i s&#259; te cruce&#351;ti, nu altceva. Mai adineaori &#351;edeam acas&#259;. Tu&#351;ica, cum &#351;tii c-a f&#259;cut-o Dumnezeu, se culc&#259; o dat&#259; cu g&#259;inile. Eram ambetat&#259; absolut. "Dramele Parisului" câte au ie&#351;it pân&#259; acuma le-am citit de trei ori. Ce s&#259; fac? N-aveam ce citi. Zic: hai s&#259; m&#259; duc la &#355;a&#355;a, dac&#259; nu s-o fi culcat, s&#259; mai st&#259;m de vorb&#259;. Sco&#355; iv&#259;rul de la &#351;alon &#351;i plec. Când s&#259; trec pe maidan, m&#259; pomenesc cu mitocaul, cu pricopsitul de &#354;irc&#259;d&#259;u, c&#259;-mi taie drumul. "Bonsoar-bonsoar", &#351;i &#351;tii a&#351;a deodat&#259;, sanfasò: "Hei, cocoan&#259;, zice, mai bine &#355;i-e acuma v&#259;duv&#259;? &#8213; Pardon, domnule, zic, n-am de-a face cu dumneta, &#351;i mai întâi când e la o adic&#259;, nu sunt v&#259;duv&#259;, sunt liber&#259;, tr&#259;iesc cum îmi place, cine ce are cu mine! Acu mi-e timpul: jun&#259; sunt, de nimini nu depand, &#351;i când oi vrea, îmi g&#259;se&#351;te nenea Dumitrache b&#259;rbat mai de onoarea ca dumneata. &#8213; Mi c&#259; t-ei c&#259;i! &#8213; Zic: pardon, domnule, nu-&#355;i permit s&#259; te-ntinzi mai mult la un a&#351;a afront; m&#259;-n&#355;elegi? &#8213; zice..."</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(întrerupând-o scurt)</p>
+</stage>
+<p TEIform="p">Zi&#355;o... ce e când &#355;i se bate tâmpla a dreapt&#259;?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">Î&#355;i vine o bucurie.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Mie, bucurie?... nu crez.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">Da' de ce nu?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Dar când &#355;i se bate a stâng&#259;?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">Te-mpaci cu o persoan&#259; cu care e&#351;ti certat&#259;.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(ridicând capul cu mult interes)</p>
+</stage>
+<p TEIform="p">Da? (<stage TEIform="stage">dând din umeri.</stage>) Cu cine s&#259; m&#259;-mpac?... Nu sunt certat&#259; cu nimeni.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">A&#351;a... zic mitocanului... &#355;a&#355;o, c&#259; era tr&#259;snit... Am auzit c&#259; de la o vreme-ncoace într-o b&#259;utur&#259; o duce. Uf! &#355;&#259;&#355;ico, ma&#351;er, bine c&#259; m-a sc&#259;pat Dumnezeu de traiul cu pastramagiul! S&#259; tr&#259;iesc eu cu un mitocan! Nu era de mine; eu sunt o persoan&#259; delicat&#259;; bine c&#259; m-am v&#259;zut liber&#259;!... A&#351;a &#8213; s&#259; nu-mi uit vorba &#8213; zic mitocanului: "Nu-&#355;i permit, domnule, s&#259; te naintezi la un a&#351;a afront! Da' el: "Gânde&#351;ti, zice, c&#259; o s&#259; te m&#259;ri&#355;i, cocoan&#259;? -Asta m&#259;-mport&#259; pe mine, cine ce treab&#259; are! &#8213; S&#259; te m&#259;ri&#355;i, 'ai? Cât o tr&#259;i Ghi&#355;&#259; &#354;irc&#259;d&#259;u, ori s&#259; te-nh&#259;itezi cu vreunul? S&#259;rcul! Dar s&#259; &#351;tiu de bine c&#259; merg cu el de gât pân&#259; la Dumnezeu, tot n-ai dumneata parte de un a&#351;a ceva; încai dac&#259; m-ai l&#259;sat pe mine, s&#259; te duci la m&#259;n&#259;stire, c&#259; a&#351;a te l&#259;udai la trebunar!... -Mitocane, pastramagiul! La poli&#355;iune! Vardist! Nene Dumitrache!..." Am avut &#355;a&#355;o, parte c&#259; a s&#259;rit nenea Dumitrache &#351;i cu Nae ipistatul! aminteri, mitocanul scosese &#351;icul de la baston pentru ca s&#259; m&#259; sinucid&#259;... Ei! Ce zici dumneata, &#355;&#259;&#355;ico, de nasul care &#351;i l-a luat mitocanul? (<stage TEIform="stage">Veta nu r&#259;spunde; Zi&#355;a s-apropie de ea &#351;i o observ&#259;.</stage>) "&#354;a&#355;o! Ce ai? Plângi?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(&#351;tergându-se la ochi)</p>
+</stage>
+<p TEIform="p">Eu? De ce s&#259; plâng? M&#259; doare capul, mi-e cam r&#259;u.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">Î&#355;i sunt ochii turburi grozav...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Nu-&#351;' ce am; parc&#259; m&#259;-ncearc&#259; ni&#351;te friguri.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">Nenea e de rond la noapte?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Da. (<stage TEIform="stage">s-apuc&#259; iar de lucru.</stage>) Tu mai stai, Zi&#355;o</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">Nu, &#355;a&#355;o; o s&#259; m&#259; duc &#351;i eu s&#259; m&#259; culc; trebuie s&#259; fie târziu.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(intr&#259; &#351;i trece repede lâng&#259; Zi&#355;a)</p>
+</stage>
+<p TEIform="p">Cocoan&#259;! (<stage TEIform="stage">încet.</stage>) Pân&#259; acu am a&#351;teptat degeaba. L-am c&#259;utat peste tot, &#351;i pe maidan, &#351;i pe uli&#355;&#259;, nu e nic&#259;ieri.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(încet)</p>
+</stage>
+<p TEIform="p">Biletul, zici c&#259; i l-ai dat.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<p TEIform="p">Nu &#351;tii? I l-am dat de când m-am dus la tutungerie, când m-a trimes jupânul. (<stage TEIform="stage">iese în dreapta</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">Bine. (<stage TEIform="stage">c&#259;tr&#259; Veta.</stage>) Ei! &#355;a&#355;o, eu m&#259; duc, bonsoar, alevoa. Culc&#259;-te &#351;i matale, nu mai lucra dac&#259; &#355;i-e r&#259;u.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Las&#259; s&#259;-mi fie r&#259;u. (<stage TEIform="stage">râzând silit.</stage>) Mai bine ar fi s&#259; mor.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">Vai de mine! Ce vorb&#259;-i asta? Ce, &#355;i-e r&#259;u de tot? S&#259; trimitem s&#259; caute pe nenea.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">A&#351;! E&#351;ti nebun&#259;! Nu vezi c&#259; glumesc. M&#259; doare capul; nu &#355;i-am spus? Am lucrat mult la lumânare. (<stage TEIform="stage">are un fior.</stage>) M-a tras &#351;i fereastra... Cum m-oi culca, îmi trece.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">Atunci, alevoa, bonsoir, &#355;a&#355;o. (<stage TEIform="stage">pleac&#259; &#351;i se întoarce.</stage>) A! s&#259; nu uit; mâine ne vedem, &#351;tii c&#259;-i s&#259;rb&#259;toare. S&#259; ne leg&#259;m de nenea s&#259; ne duc&#259; la "Iunion".</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(repede)</p>
+</stage>
+<p TEIform="p">La "Iunion"? Nu Zi&#355;o, nu mai merg la "Iunion".</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">Da' de ce?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Pentru c&#259;... pentru c&#259; nu-mi face nici o pl&#259;cere acolo, nu-n&#355;eleg comediile alea... Ei! Ce s&#259;-&#355;i spui! Nu voi.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">Ei, Doamne! &#354;ato, parol, &#351;tii c&#259; e&#351;ti curioas&#259;! Ce, pentru comediile alea mergem noi? Mergem s&#259; mai vedem &#351;i noi lumea. Ce, adic&#259; to&#355;i câ&#355;i merg acolo în&#355;eleg ceva, gânde&#351;ti? Merg numai a&#351;a de un capri&#355;, de un pamplezir; de ce s&#259; nu mergem &#351;i noi?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">De ce, de ne-ce, nu voi s&#259; merg.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">'Aide, z&#259;u, &#355;a&#355;o; i zic eu lui nenea,... vrei?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Nu voi, &#355;i-am spus o dat&#259;, &#351;i nici dumnealui nu mai vrea s&#259; mearg&#259;; mi-a spus de azi diminea&#355;&#259;: degeaba-i zici.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">Z&#259;u! &#354;&#259;&#355;ico, parol! S&#259; m&#259;-ngropi!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Nu merg, Zi&#355;o, nu. M&#259; &#351;tii tu; când zic o vorb&#259; e vorb&#259;.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">Zi, nu vrei s&#259; mergi, &#355;a&#355;o?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Nu.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(obidindu-se treptat)</p>
+</stage>
+<p TEIform="p">Nu?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Nu.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(podidind-o plânsul)</p>
+</stage>
+<p TEIform="p">Fir-ar a dracului de via&#355;&#259; &#351;-afurisit&#259;! C&#259; m-a f&#259;cut mama f&#259;r&#259; noroc! (<stage TEIform="stage">pleac&#259;.</stage>) N-am avut parte &#351;i eu pe lume m&#259;car de o comp&#259;timire! (<stage TEIform="stage">iese, plângând &#351;i trântind u&#351;a, prin fund. &#8213; Spiridon intr&#259; din dreapta.</stage>)</p>
+<stage TEIform="stage">
+<p TEIform="p">SPIRIDON, VETA</p>
+</stage>
+</sp>
+</div>
+<div type="scene" org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA VIII</head>
+<stage TEIform="stage">
+<p TEIform="p">SPIRIDON, VETA</p>
+</stage>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(las&#259; mondirul din mân&#259;)</p>
+</stage>
+<p TEIform="p">Spiridoane b&#259;iete, tu de ce mai stai? Mai ai vreo treab&#259;?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<p TEIform="p">Nu, cocoan&#259;.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Apoi, dut-t' te culc&#259;, ce mai a&#351;tep&#355;i? &#8213; Domnul Chiriac unde este?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<p TEIform="p">E jos pân curte; adineaori &#351;ede pe lavi&#355;a de la poart&#259;. Dar... nu &#351;tiu ce o fi având nea Chiriac, cocoan&#259;... parc&#259; nu-i sunt to&#355;i boii acas&#259;...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Cine &#351;tie ce-o fi având &#351;i dumnealui.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<p TEIform="p">E nec&#259;jit foc; un ceas s-a tot plimbat pe jos; când am trecut pân curte, umbla de colo pân&#259; colo, parc&#259; vorbea singur &#351;i se b&#259;tea cu pumnii-n piept...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">O fi sup&#259;rat, cine &#351;tie!... Spune-i s&#259;-nchiz&#259; poarta. Galoanele i le-am cusut; uite mondirul, s&#259; i-l duci.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<p TEIform="p">Bine, cocoan&#259;. (<stage TEIform="stage">vrea s&#259; plece cu mondirul.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Pe urm&#259;, s&#259;-i spui... nu; pe urm&#259;, s&#259; te duci s&#259; te culci, nu mai ai ce c&#259;uta p-aci. S&#259; nu vie dumnealui s&#259; te g&#259;seasc&#259; de&#351;tept, c&#259; iar o pa&#355;i.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(aparte)</p>
+</stage>
+<p TEIform="p">Ei, c&#259; parc&#259; dac&#259; m-o g&#259;si dormind nu-i tot un drac!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">'Aide, du-te.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<p TEIform="p">M&#259; duc; noapte bun&#259;, cocoan&#259;.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Noapte bun&#259;, Spiridoane. (<stage TEIform="stage">Spiridon iese.</stage>) Noapte bun&#259;!... S&#259;racul Spiridon! Nu &#351;tie el ce-i pe sufletul meu, nu &#351;tie el cum râde de mine! Eu &#351;i noapte bun&#259;!... (<stage TEIform="stage">merge încet la fereastra din dreapta u&#351;ii din fund, se uit&#259; în curte, apoi se-ntoarce tot adâncit&#259; în gânduri.</stage>) Ei! Iac&#259; nu vrea omul, nu vrea! Dragoste cu sila nu se poate. &#8213; Nu-i mai place, nu mai vrea!... Bine! N-o s&#259; mor nici eu!... De unde &#351;tii? Poate mai bine c&#259; s-a întâmplat a&#351;a... A! De ce mai d&#259; Dumnezeu omului fericire, dac&#259; e s&#259; i-o ia înapoi!? De ce nu moare omul când e fericit!? De ce am mai tr&#259;it eu s-ajung la a&#351;a ceva!?... (<stage TEIform="stage">plânge; se aude zgomot.</stage>) Vine! (<stage TEIform="stage">se &#351;terge la ochi repede &#351;i vrea s&#259; plece.</stage>) Nu! Nu mai voi s&#259; fiu proast&#259;: dragoste cu sila nu se poate! (<stage TEIform="stage">porne&#351;te s&#259; ias&#259; spre stânga, când intr&#259; Chiriac, care r&#259;mâne un moment la u&#351;&#259;. Veta st&#259; locului. T&#259;cere.</stage>)</p>
+<p TEIform="p"> </p>
+<stage TEIform="stage">
+<p TEIform="p">CHIRIAC, VETA, apoi de afar&#259; JUPÂN DUMITRACHE &#351;i IPINGESCU</p>
+</stage>
+</sp>
+</div>
+<div type="scene" org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA IX</head>
+<stage TEIform="stage">
+<p TEIform="p">CHIRIAC, VETA, apoi de afar&#259; JUPÂN DUMITRACHE &#351;i IPINGESCU</p>
+</stage>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Dumneata m-ai chemat?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Eu?... Nu.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Spiridon mi-a spus c&#259;...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Da... am zis lui Spiridon s&#259;-&#355;i aduc&#259; mondirul; l-am cusut.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Mersi!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Pentru pu&#355;in.</p>
+<stage TEIform="stage">
+<p TEIform="p">(Pauz&#259;)</p>
+</stage>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Poarta... am închis-o.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Bine. (<stage TEIform="stage">întoarce capul în fa&#355;a scenii; e mi&#351;cat&#259;.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Alt nimic nu mai ai s&#259;-mi porunce&#351;ti?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Ce! Eu s&#259;-&#355;i poruncesc dumitale?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">S&#259;-mi porunce&#351;ti, fire&#351;te; nu-mi e&#351;ti st&#259;pân&#259;?... Nu sunt slug&#259; în casa dumitale, cu simbrie?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(întorcându-se cu fa&#355;a spre Chiriac)</p>
+</stage>
+<p TEIform="p">Bine, domnule Chiriac, bine; zi înainte, c&#259; n-ai zis destule.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(înainteaz&#259;)</p>
+</stage>
+<p TEIform="p">Ei! De ieri seama pân&#259; acu cum ai petrecut? &#354;i-e mai bine a&#351;a?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(scoborând un pas spre a se dep&#259;rta de el)</p>
+</stage>
+<p TEIform="p">Da.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Î&#355;i pare bine de ce-ai f&#259;cut?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Nu m&#259; &#351;tiu s&#259; fi f&#259;cut nimic; dar nu-mi pare r&#259;u c&#259; s-a-ntâmplat a&#351;a.</p>
+<stage TEIform="stage">
+<p TEIform="p">(Pauz&#259;)</p>
+</stage>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(mai apropiindu-se)</p>
+</stage>
+<p TEIform="p">Mâine sear&#259; mergi iar la "Iunion"?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Dac&#259; o vrea dumnealui s&#259; mergem, trebuie s&#259; merg, fire&#351;te.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Ca s&#259; te curtezi cu amploiatul dumitale?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(tres&#259;rind &#351;i ridicând capul spre el)</p>
+</stage>
+<p TEIform="p">Domnule, te-am rugat s&#259; fii bun s&#259; nu-mi mai zici vorba asta. Dac&#259; n-ai avut destul vreme s&#259; m&#259; cuno&#351;ti, p&#259;cat! Eu te credeam pe dumneata mai de&#351;tept.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(st&#259; la îndoial&#259;, apoi se mai apropie)</p>
+</stage>
+<p TEIform="p">Jur&#259;-te înc&#259; o dat&#259;!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">S&#259; m&#259; mai jur &#8213; eu?... Nu m-am jurat? N-am plâns? Cu ce m-am ales? Nu mai m&#259; jur, pentru c&#259; nu m&#259; crezi; de plâns a&#351; mai plânge, dar nu mai pot... Dar... în sfâr&#351;it, nu strici dumneata... eu stric... nu trebuia s&#259;-mi pui mintea cu un copil ca dumneata... D-aia zic &#351;i eu mai bine c&#259; s-a întâmplat a&#351;a. Tot trebuia s&#259; ispr&#259;vim odat&#259;... Am ispr&#259;vit...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Jur&#259;-te înc&#259; o dat&#259; &#351;i...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(cu emo&#355;ie din ce în ce mai nest&#259;pânit&#259;)</p>
+</stage>
+<p TEIform="p">Ce folos! Dumneata crezi mai mult în prostiile &#351;i în b&#259;nuielile lui b&#259;rbatu-meu, decât în jur&#259;mântul meu, &#351;i gândesc c&#259; trebuia s&#259; ne cuno&#351;ti destul de bine &#351;i pe mine &#351;i pe dânsul. Dar... foarte bine ai f&#259;cut s&#259; nu m&#259; crezi. A&#351;a e. Eu sunt o femeie rea; am vrut numai s&#259; râz de dumneata. Eu te las pe dumneata ca p-o slug&#259; "cu simbrie" s&#259; p&#259;ze&#351;ti casa, &#351;i târ&#259;sc pe dumnealui pe la gr&#259;dini ca s&#259; curtez cu al&#355;ii. Eu sunt o femeie mincinoas&#259;; n-am sim&#355;it nimic când &#355;i-am spus c&#259; nu &#351;tiu s&#259; mai fi tr&#259;it pân&#259; s&#259; nu te cunosc pe dumneata... Toate le-am f&#259;cut pentru dumneata numai din pref&#259;c&#259;torie... totdeauna alta &#355;i-am spus &#351;i alta am gândit; te-am min&#355;i, te-am am&#259;git, am râs de dumneata atâta vreme... Acuma, bine c&#259; &#355;i-ai deschis &#351;i dumneata în sfâr&#351;it ochii ca s&#259; vezi cine sunt. De! &#354;i-am f&#259;cut r&#259;u, dar... ai sc&#259;pat de mine. Las&#259;! Ce-a fost a trecut... Bonsoar. (<stage TEIform="stage">vrea s&#259; plece spre stânga.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(ie&#351;indu-i cu un pas înainte)</p>
+</stage>
+<p TEIform="p">Te duci?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">La ce s&#259; mai stau? Ce mai am eu cu dumneata?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Nu-mi mai zice "dumneata".</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Cum pofte&#351;ti s&#259;-&#355;i zic?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Cum mi-ai zis pân&#259; ieri.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Azi e azi, ieri a trecut. (<stage TEIform="stage">porne&#351;te s&#259; ias&#259;.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(t&#259;indu-i drumul)</p>
+</stage>
+<p TEIform="p">&#350;i nu vrei s&#259; se mai întoarc&#259;?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(scoboar&#259; un pas, dep&#259;rtându-se de el la dreapta)</p>
+</stage>
+<p TEIform="p">Nu.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(apropiindu-se)</p>
+</stage>
+<p TEIform="p">Veto!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Nu; las&#259;-m&#259;... Ce folos cât&#259; fericire am avut un an, dac&#259; într-o zi mi-am plâns-o toat&#259;! Nu, nu mai voi; mai bine mi-este a&#351;a cum sunt...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Dar eu.. eu ce s&#259; fac?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Ce fac &#351;i eu... Înv&#259;&#355;ul are &#351;i dezv&#259;&#355;, nu &#351;tii dumneata?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Dezv&#259;&#355;! Lesne din gur&#259;. Îi sco&#355;i rumânului ochii &#351;i dup&#259; aia-i zici: "Las&#259; c&#259; nu e r&#259;u &#351;i f&#259;r&#259; s&#259; mai vezi... mai bine c&#259; s-a întâmplat a&#351;a! N-o s&#259; mori f&#259;r&#259; luminile ochilor!... Înv&#259;&#355;ul are &#351;i dezv&#259;&#355;!..." Dar dac&#259; n-oi vrea eu s&#259; mai tr&#259;iesc a&#351;a!... care va s&#259; zic&#259; s&#259; mor, 'ai?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Ei, bine ar fi s&#259; poat&#259; muri omul când vrea; dar... nu moare nimeni de asta!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Dar dac&#259; eu oi muri? (<stage TEIform="stage">se repede &#351;i ia spanga de la pu&#351;c&#259;.</stage>) Vezi dumneata spanga asta?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(se redepe la el &#351;i vrea s&#259; i-o smuceasc&#259;)</p>
+</stage>
+<p TEIform="p">Chiriac!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(luptându-se cu ea)</p>
+</stage>
+<p TEIform="p">Fugi!... Las&#259;-m&#259;!...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Nu te las! Te &#351;tiu eu cine e&#351;ti. Nu te las! Nu voi s&#259; &#355;i se trag&#259; moartea de la mine.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Las&#259;-m&#259;! Las&#259;-m&#259;!... (<stage TEIform="stage">se lupt&#259;.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(desperat&#259;)</p>
+</stage>
+<p TEIform="p">Chiriac! (<stage TEIform="stage">înecându-se.</stage>) Dac&#259; vrei s&#259; te omori, omoar&#259;-m&#259; întâi pe mine! (<stage TEIform="stage">se lupt&#259; din putere.</stage>) Chiriac!... Nu &#355;i-e mil&#259; &#355;ie de mine? Toate, toate de un an &#351;i mai bine le-ai uitat într-o zi?... Chiriac!...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Tocmai pentru c&#259; nu le-am uitat, vreau mai bine s&#259; mor. Dac&#259; nu mai este nimic între noi, spune-mi dumneata cum s&#259; mai tr&#259;iesc! Dac&#259; m&#259; la&#351;i, dac&#259; nu mai m&#259; vrei, tot mort sunt eu; mai bine, las&#259;-m&#259;: adio, via&#355;&#259;! (<stage TEIform="stage">se smuce&#351;te.</stage>) Las&#259;-m&#259;!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(&#355;inându-l strâns)</p>
+</stage>
+<p TEIform="p">Chiriac! Vrei s&#259; strig? E&#351;ti nebun?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Da! Sunt nebun, fire&#351;te c&#259; sunt nebun; m-ai înnebunit dumneata; dumneata s&#259;-mi tragi p&#259;catul! Câte gânduri &#351;i dor m-a ars pe mine, nu m&#259;-ntrebi?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Dar tu pe mine nu m&#259;-ntrebi?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Nu mai voi s&#259; &#351;tiu de nimic, nu mai &#351;tiu cine sunt! Am vrut s&#259; m&#259; omor adineori în curte, dar &#355;i-am v&#259;zut trecând umbra peste perdeaua de la fereastr&#259;, &#351;-am vrut s&#259; te mai v&#259;z o dat&#259;. Încai s&#259; mor lâng&#259; tine, cum am tr&#259;it. (<stage TEIform="stage">cu vorbele acestea Chiriac s-a mai domolit.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Chiriac, ascult&#259;. Nu mi-ai zis tu s&#259; m&#259; jur înc&#259; o dat&#259;? Dac&#259; m-oi jura, m&#259; crezi?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Te crez.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(repede)</p>
+</stage>
+<p TEIform="p">Drag&#259; Chiriac, s&#259; n-am parte de ochii mei, s&#259; n-am parte de via&#355;a ta, s&#259; nu mai apuc m&#259;car o zi fericit&#259; cu tine &#8213; na! Ce mai vrei? &#8213; Dac&#259; &#351;tiu eu ceva la sufletul meu din câte &#355;i le-a sporit dumnealui.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">De ce te-ai dus la gr&#259;din&#259;?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">M-am dus numai de gura sorii-mii Zi&#355;ii. Era lume mult&#259;, de n-aveam unde sta; cânta muzica; juca comedii; n-am auzit nimic, n-am v&#259;zut nimic. Toatea seara în uietul gr&#259;dinii m-am gândit numai la tine; parc&#259; dormeam &#351;i visam ceva... &#350;tiam eu c&#259; o s&#259; mi se întâmple mie un necaz mare; mi se f&#259;cuse semn: r&#259;sturnasem de diminea&#355;&#259; candela.. Înc&#259; dumnealui, dac&#259; m-a v&#259;zut c&#259; m&#259; speriu, zice: "Ei ce e dac&#259; s-a r&#259;sturnat! Nu mai crede în prostii de-alea. Ce! Ce-o s&#259; ni se-ntâmple? S&#259;-mi arz&#259; cherestigiria? Arz&#259; s&#259;n&#259;toas&#259;! Nu m-a f&#259;cut ea pe mine! Este asiguripsit&#259;... Atâta pagub&#259;!..." R&#259;sturnasem candela; pe urm&#259; ochiul &#259;l drept mi se b&#259;tea într-una de vreo trei zile. Pe tine te l&#259;sasem acas&#259; &#351;tergându-&#355;i pu&#351;ca: &#351;tii c&#259; ruginise înc&#259;rc&#259;tura în&#259;untru &#351;i te apucase&#351;i s-o sco&#355;i cu vergeaua. Nu puteam s&#259;-mi iau gândul de la pu&#351;c&#259;. M&#259; gândeam: dac&#259; s-o desc&#259;rca, Doamne fere&#351;te! Pu&#351;ca în mâna lui, ce s&#259; m&#259; fac eu când l-oi g&#259;si mort întins acas&#259;!... Da' de ce nu i-am spus s&#259; bage de seam&#259;! De ce nu l-am rugat s&#259; o lase cu gândurile toat&#259; seara. N-am v&#259;zut, z&#259;u! N-am v&#259;zut nimic, n-am auzit nimic! M&#259; jur pe ce vrei tu; m&#259; crezi?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(biruit cu des&#259;vâr&#351;ite)</p>
+</stage>
+<p TEIform="p">Te crez! (<stage TEIform="stage">arunc&#259; departe spanga &#351;i ia pe Veta în bra&#355;e.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(strângându-l cu putere)</p>
+</stage>
+<p TEIform="p">Chiriac! (<stage TEIform="stage">r&#259;mân o clip&#259; îmbr&#259;&#355;i&#351;a&#355;i în t&#259;cere.</stage>) Chiriac, s&#259; nu mai faci ce mi-ai f&#259;cut, c&#259; mor... z&#259;u! m&#259; omori...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Nu, nu mai fac.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Îmi f&#259;g&#259;duie&#351;ti? Te juri?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Da.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">&#350;i o s&#259; m&#259; crezi c&#259; eu numai la tine m&#259; gândesc?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Da.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">C&#259; numai pentru tine tr&#259;iesc?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Da.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">&#350;i n-o s&#259;-mi mai zici nici o vorb&#259; rea?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Nu.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">&#350;i n-o s&#259; mai m&#259; faci s&#259; plâng?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Nu! Nu! Nu! Dar m&#259; ier&#355;i?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Dar tu pe mine m&#259; ier&#355;i?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Eu te-am iertat de mult (<stage TEIform="stage">se strâng bine în bra&#355;e</stage>).</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(de afar&#259;, sub fereastr&#259;)</p>
+</stage>
+<p TEIform="p">Chiriac! Chiriac!</p>
+<stage TEIform="stage">
+<p TEIform="p">(Cei îmbr&#259;&#355;i&#351;a&#355;i r&#259;mân încremeni&#355;i ascultând.)</p>
+</stage>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Hii! Dumnealui...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(repede, f&#259;r&#259; s-o lase din bra&#355;e, merge spre fereastr&#259;)</p>
+</stage>
+<p TEIform="p">Nu-i nimic! Trece la posturile dinspre Marmizon... (<stage TEIform="stage">c&#259;tr&#259; jupân Dumitrache, pe fereastr&#259;.</stage>) Dumneata e&#351;ti, jupâne?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">(de afar&#259;)</p>
+<p TEIform="p">Dar ce, Chiriac puiule, nu te-ai mai culcat?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Înc&#259; nu, jupâne, acu m&#259; culc.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(de afar&#259;)</p>
+</stage>
+<p TEIform="p">Somn u&#351;or!...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(asemenea)</p>
+</stage>
+<p TEIform="p">&#350;i vise pl&#259;cute, onorabile!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(dep&#259;rtându-se treptat)</p>
+</stage>
+<p TEIform="p">Chiriac, puiule, ia vezi de ce am vorbit, fii cu ochii-n patru, d-aproape de tot: m&#259; &#351;tii c&#259; &#355;iu când e la o adic&#259;...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(strângând pe Veta cu putere)</p>
+</stage>
+<p TEIform="p">Las&#259;, jupâne, m&#259; &#351;tii c&#259; consim&#355; la onoarea dumitale de familist!...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">(Cortina)</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(Aceea&#351;i odaie. &#8213; O lamp&#259; cu gaz arde pe mas&#259;)</p>
+</stage>
+<stage TEIform="stage">
+<p TEIform="p">VETA, CHIRIAC</p>
+</stage>
+</sp>
+</div>
+</div>
+<div type="act" org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">ACTUL II</head>
+<stage TEIform="stage">
+<p TEIform="p">(Aceea&#351;i odaie. &#8213; O lamp&#259; cu gaz arde pe mas&#259;)</p>
+</stage>
+<div type="scene" org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA I</head>
+<stage TEIform="stage">
+<p TEIform="p">VETA, CHIRIAC</p>
+</stage>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Du-te, puiule, du-te; fii cuminte, sunt aproape de unsprezece... Cine &#351;tie? Vine f&#259;r&#259; veste!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">A&#351;! Mai are dou&#259; ceasuri bune de alergat; nu poate veni a&#351;a degrab'.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">De unde &#351;tii ce se-ntâmpl&#259;? Paza bun&#259; trece primejdia rea.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">N-ai grij&#259;, drag&#259;, când î&#355;i spui eu c&#259; nu vine; are s&#259; mearg&#259; pân&#259; la Cotroceni, ce te gânde&#351;ti? Nu-l &#351;tii pe el c&#259; umbl&#259; agalea?...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Bine, dar a&#351; vrea &#351;i eu s&#259; m&#259; culc; z&#259;u, sunt obosit&#259; grozav. &#350;tii tu c&#259; de ieri sear&#259; de când ne-am certat, pân&#259; acum n-am închis ochii?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Ei! D-apoi eu i-am închis!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Tocmai d-aia; s&#259;rut&#259;-m&#259; înc&#259; o dat&#259; &#351;i du-te &#351;i tu de te culc&#259;. Mâine ai s&#259; ie&#351;i la ezirci&#355;; ai uitat c&#259; trebuie s&#259; te scoli pân&#259;-n ziu&#259;?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Bine zici! Cum s&#259; uit, se poate? Mâine trebuie s&#259; m&#259; scol la patru ceasuri. Are s&#259; vie gornistul, s&#259; mergem s&#259; lu&#259;m doi oameni din companie, ca s&#259; ridic&#259;m pe Tache pantofarul de la Sfântul Lefterie.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Apoi mi-a spus leli&#355;a Safta, c&#259;-i bolnav de lingoare.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Ce treab&#259; am eu cu boala lui? Ce, eu sunt bolnav? Nu m&#259; prive&#351;te pe mine. Îl am pe list&#259;, trebuie s&#259; se prezante la ezirci&#355;.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(tres&#259;rind, ca cum ar fi auzit ceva)</p>
+</stage>
+<p TEIform="p">Ia taci! (<stage TEIform="stage">ascult&#259;.</stage>) Mi s-a p&#259;rut c&#259; umbl&#259; cineva pe porti&#355;&#259;. 'Aide, Chiriac, s&#259;rut&#259;-m&#259; &#351;i du-te.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(o s&#259;rut&#259;)</p>
+</stage>
+<p TEIform="p">Mâine sear&#259; nu te mai duci la "Iunion"?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Nu, nu mai m&#259; duc f&#259;r&#259; tine... Dar tu... nu ui&#355;i ce mi-ai f&#259;g&#259;duit, &#8213; n-o s&#259; m&#259; mai nec&#259;je&#351;ti niciodat&#259;?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Niciodat&#259;. (<stage TEIform="stage">o s&#259;rut&#259;, o strânge-n bra&#355;e &#351;i pleac&#259;.</stage>) Bonsoar. (<stage TEIform="stage">se mai întoarce spre a repeta jocul &#351;i iese în stânga planul din fund.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(singur&#259;, fredoneaz&#259; încet, coborând la mas&#259;)</p>
+</stage>
+<p TEIform="p">"Într-un moment de fericire,<lb TEIform="lb"/>Stelele s-au umplut de dor<lb TEIform="lb"/>&#350;i, printr-o perl&#259; de iubire,<lb TEIform="lb"/>Mi-au rev&#259;rsat raze lor."<lb TEIform="lb"/>
+<lb TEIform="lb"/>(<stage TEIform="stage">fredoneaz&#259; din ce în ce mai încet.</stage>) Trebuie s&#259; fie trecute de unsprezece... S&#259; m&#259; culc... Ce obosit&#259; sunt! Nu mai pot... (<stage TEIform="stage">&#351;ade lâng&#259; mas&#259;, deschide albumul &#351;i d&#259; de portretul lui Chiriac.</stage>) Ah! Ah! Chiriac! (<stage TEIform="stage">fredoneaz&#259; întâia strof&#259; din "Portretul" de d. G. Sion.</stage>)<lb TEIform="lb"/>
+<lb TEIform="lb"/>"Când ore de-ntristare vor turbura vreodat&#259;<lb TEIform="lb"/>Frumoasa-&#355;i inimioar&#259;, tu vei portretul meu,<lb TEIform="lb"/>&#350;i crede c&#259; eu sufer cu tine deodat&#259;,<lb TEIform="lb"/>&#350;i c-amândoi atuncea comp&#259;timim mereu."</p>
+<stage TEIform="stage">
+<p TEIform="p">(Urmeaz&#259; mai încet; mic&#351;oreaz&#259; lumina l&#259;mpii de tot &#351;i începe a se preg&#259;ti de culcare. &#8213; U&#351;a din fund se deschide încet în vremea asta, &#351;i se arat&#259; Ric&#259; Venturiano; odaia este foarte slab luminat&#259; de flac&#259;ra închis&#259; a l&#259;mpii.)</p>
+</stage>
+<p TEIform="p"> </p>
+<stage TEIform="stage">
+<p TEIform="p">VETA &#351;i RIC&#259; VENTURIANO, apoi JUPÂN DUMITRACHE<lb TEIform="lb"/>&#351;i IPINGESCU de afar&#259;</p>
+</stage>
+</sp>
+</div>
+<div type="scene" org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA II</head>
+<stage TEIform="stage">
+<p TEIform="p">VETA &#351;i RIC&#259; VENTURIANO, apoi JUPÂN DUMITRACHE<lb TEIform="lb"/>&#351;i IPINGESCU de afar&#259;</p>
+</stage>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(intr&#259;, se opre&#351;te pe prag, vede pe Veta în spate, r&#259;sufl&#259; din adânc, pune mâna la inim&#259; &#351;i înainteaz&#259; în vârful degetelor pân&#259; la spatele scaunului ei; cade în genunchi &#351;i începe cu putere)</p>
+</stage>
+<p TEIform="p">Angel radios!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(d&#259; un &#355;ip&#259;t, se scoal&#259; &#351;i fuge în partea ceailalt&#259; a scenii f&#259;cându-&#351;i cruce &#351;i scuipându-&#351;i în sân)</p>
+</stage>
+<p TEIform="p">A!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(întorcându-se în genunchi spre partea unde a fugit ea)</p>
+</stage>
+<p TEIform="p">Angel radios! Precum am avut onoarea a v&#259; comunica în precedenta mea epistol&#259;, de când te-am v&#259;zut întâia&#351;i dat&#259; pentru prima oar&#259; mi-am pierdut uzul ra&#355;iunii; da! Sunt nebun...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Nebun! (<stage TEIform="stage">strigând.</stage>) S&#259;ri&#355;i, Chiriac! Spiridoane!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<p TEIform="p">Nu striga, madam, (<stage TEIform="stage">se târ&#259;&#351;te un pas în genunchi</stage>) fii mizericordioas&#259;! Sunt nebun de amor; da, fruntea mea îmi arde, tâmplele-mi se bat, sufer peste poate, parc&#259; sunt turbat.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Turbat?... Domnule, spune-mi degrab', c-aminteri, strig: cine e&#351;ti, ce pofte&#351;ti, ce cau&#355;i pe vremea asta în casele oamenilor?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(se ridic&#259; &#351;i se apropie de dânsa t&#259;indu-i drumul)</p>
+</stage>
+<p TEIform="p">Cine sunt? M&#259; întrebi cine sunt? Sunt un june tân&#259;r &#351;i neferic, care sufere peste poate &#351;i iube&#351;te la nemurire.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Ei! &#350;-apoi? Ce-mi pas&#259; mie! (<stage TEIform="stage">dup&#259; o mic&#259; reflec&#355;ie.</stage>) Vai de mine! &#258;sta e vun punga&#351;: a aflat c&#259; nu-i dumnealui acas&#259; &#351;i umbl&#259; s&#259; ne pung&#259;&#351;easc&#259;. (<stage TEIform="stage">tare strigând.</stage>) Chiriac! Spiridoane! S&#259;ri&#355;i! Ho&#355;ii!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(cu mâinile rug&#259;toare)</p>
+</stage>
+<p TEIform="p">Nu striga! Nu striga! Fii mizericordioas&#259;; aibi pietate! M-ai întrebat s&#259;-&#355;i spui cine sunt, &#355;i-am spus. M&#259; întrebi s&#259;-&#355;i spui ce caut... Ingrato! Nu mi-ai scris chiar tu însu&#355;i în original?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Eu?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<p TEIform="p">Da! (<stage TEIform="stage">se ridic&#259;.</stage>) Nu mi-ai scris s&#259; intru f&#259;r&#259; grij&#259; dup&#259; zece ceasuri la num&#259;rul 9, strada Catilina, când oi vedea la fereastr c&#259; se mic&#351;oreaz&#259; lampa? Iat&#259;-m&#259;. M-am transportat la localitate pentru ca s&#259;-&#355;i repet c&#259; te iubesc precum iube&#351;te sclavul lumina &#351;i orbul libertatea.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Adev&#259;rat, domnule, parol c&#259; e&#351;ti nebun. Visezi; &#355;i-am scris eu dumitale vreo scrisoare? Auzi obr&#259;znicie! &#350;tii dumneata cu cine vorbe&#351;ti?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<p TEIform="p">Cum s&#259; nu &#351;tiu? În van te aperi. &#350;i tu m&#259; iube&#351;ti pe mine, nu mai umbla cu mofturi. Te-am v&#259;zut d-atunci seara de la "Iunion"...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">De la "Iunion"? (<stage TEIform="stage">caut&#259; cu gândul.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<p TEIform="p">Da; chiar de atunci seara, când privirile noastre s-au întâlnit, am citit în ochii t&#259;i cei sublimi c&#259; &#351;i tu corespunzi la amoarea mea. M-am luat dup&#259; tine chiar în seara aceea pân&#259; la Stabiliment. Sim&#355;isem c&#259; mitocanul de cumnatu-t&#259;u m&#259; mirosise, &#351;tia c&#259; m&#259; &#355;iu dup&#259; voi; &#351;i, abandonându-m&#259; curajul de a mai intra într-o strad&#259; f&#259;r&#259; lampe gazoase, m-am întors înd&#259;r&#259;t, pentru c&#259;-mi era fric&#259; s&#259; nu pa&#355; vun conflict cu mitocanul. Alalt&#259;ieri sear&#259;, amoarea mi-a inspirat curaj; m-am &#355;inut dup&#259; voi pân&#259; în aceast&#259; suburbie, în col&#355;ul stradei; dar când s&#259;-&#355;i v&#259;z justaminte adresa, mi-a t&#259;iat drumul ni&#351;te câini. Când am aflat c&#259; &#351;ezi pe aci, te-am curtat la nemurire &#351;i m-am informat prin b&#259;iatul de la cherestegeria lui cumnatu-t&#259;u cum stai cu familia ta. Am aflat c&#259; acum e&#351;ti liber&#259;, &#355;i-am scris prima mea epistol&#259; într-un moment de inspira&#355;iune, ai primit-o, mi-ai r&#259;spuns s&#259; viu, &#351;i am venit... pentru ca s&#259;-&#355;i repet c&#259;: (<stage TEIform="stage">cade iar în genunchi</stage>) nu, orice s-ar zice &#351;i orice s-ar face, eu voi sus&#355;inea, sus &#351;i tare, c&#259; tu e&#351;ti aurora, care deschide bolta înstelat&#259; într-o adora&#355;ie poetic&#259;, plin&#259; de... (<stage TEIform="stage">urmeaz&#259; declara&#355;ia foarte iute pân&#259; ce-l întrerupe Veta.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(a ascultat cu mult interes toat&#259; tirada lui Ric&#259; &#351;i-l întrerupe izbucnind de râs)</p>
+</stage>
+<p TEIform="p">Ha! Ha! Ha! Acu în&#355;eleg eu tot! Ha! Ha! Ha!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<p TEIform="p">Râzi, râzi, ingrato, de amoarea mea?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Da' cum, Doamne iart&#259;-m&#259;! S&#259; nu râz?... Vezi bine c&#259; râz. Apoi &#351;tii dumneata cu cine vorbe&#351;ti?... M&#259; cuno&#351;ti?... &#350;tii bine cine sunt?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<p TEIform="p">Cum s&#259; nu &#351;tiu! Tu e&#351;ti angelul visurilor mele, tu e&#351;ti steaua, pot pentru ca s&#259; zic chiar luceaf&#259;rul, care str&#259;luce&#351;te sublim în noaptea tenebroas&#259; a existen&#355;ii mele, tu e&#351;ti...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(care trece la lamp&#259;, i m&#259;re&#351;te focul &#351;i se pune cu chipul în b&#259;taia luminii)</p>
+</stage>
+<p TEIform="p">Z&#259;u? Ia uite-te bine! (<stage TEIform="stage">râde.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(foarte încurcat, se scoal&#259; de jos &#351;i se d&#259; înapoi împiedicându-se)</p>
+</stage>
+<p TEIform="p">Madam! S&#259; am pardon! Scuza&#355;i! Cocoan&#259;! Considerând c&#259;... adic&#259;, vreau s&#259; zic, respectul... pardon... sub pretext c&#259; &#351;i pe motivul... scuza&#355;i... pardon...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(râzând)</p>
+</stage>
+<p TEIform="p">Bine, pardonul ca pardonul, dar te rog, dac&#259; &#355;ii la pielea dumitale, s&#259; te duci mai degrab&#259;, s&#259; ie&#351;i curând din casa asta, c&#259;, Doamne fere&#351;te! De te-o c&#259;lca aici b&#259;rbatu-meu (<stage TEIform="stage">accentuând</stage>) mitocanul... De!...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<p TEIform="p">Scuza&#355;i... pardon...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Apoi z&#259;u nu &#351;tiu ce s-o mai alege de dumneata. B&#259;rbatu-meu sufere grozav de gelozie &#351;i e în stare a fi capabil s&#259; te omoare.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(speriat)</p>
+</stage>
+<p TEIform="p">S&#259; m&#259; omoare!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Deja alalt&#259;ieri seara ai avut noroc de &#355;i-a t&#259;iat drumul câinii &#351;i nu te-a l&#259;sat s&#259; intri în uli&#355;a noastr&#259;. Aminteri, dumnealui s-a suit repede sus, a de&#351;teptat pe Chiriac...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<p TEIform="p">Chiriac!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Da, tejghetarul nostru, &#351;i au ie&#351;it amândoi, unul pe maidan &#351;i altul pe la poart&#259; ca s&#259; te prinz&#259; în uli&#355;&#259;. Înc&#259; Chiriac luase &#351;i levorverul; dar pân&#259; s&#259; ias&#259; ei, dumneata fugise&#351;i...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(îngrijat)</p>
+</stage>
+<p TEIform="p">Levorverul!... Madam, v&#259; rog binevoi&#355;i a-mi da drumul d-aici de urgen&#355;&#259;...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Ei! &#350;tii c&#259;-mi place! Ce! Te &#355;iu eu? Du-te, u&#351;a-i deschis&#259;; du-te repede, &#351;i bag&#259; de seam&#259; la poart&#259; s&#259; nu dai piept în piept cu dumnealui, c&#259; de-acum încolo trebuie s&#259; se întoarc&#259; acas&#259;. Apuc&#259; pe maidan &#351;i ie&#351;i devale spre Antim. Bag&#259; de seam&#259; s&#259; nu te întâlne&#351;ti cu b&#259;rbatu-meu, c&#259; te cunoa&#351;te, &#351;i cum te-o vedea, z&#259;u! Te umfl&#259;.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<p TEIform="p">M&#259; umfl&#259;!... (<stage TEIform="stage">vrea s&#259; plece, apoi st&#259; &#351;i se întoarce.</stage>) Cocoan&#259;, e&#351;ti o dam&#259; venerabil&#259;; profit de ocaziune, spre a v&#259; ruga (<stage TEIform="stage">cu mult&#259; volubilitate</stage>) s&#259; primi&#355;i asigurarea înaltei stime &#351;i profundului respect, cu care am onoare a fi al domniei-voastre prea supus &#351;i prea plecat, Ric&#259; Venturiano, arhivar la judec&#259;toria de pace circumscrip&#355;ia de galben, poet liric, colaboratore la ziarul "Vocea Patriotului Na&#355;ional", publicit &#351;i studinte în drept...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">În drept, în strâmb, ce-mi pas&#259; mie! Du-te odat&#259;, ori &#355;i s-a f&#259;cut pesemne de vun conflict...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<p TEIform="p">Nu, madam, nu; eu sunt june cu educa&#355;ie, nu voi s&#259; pa&#355; nici un conflict!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Apoi, atunci du-te! Ce mai stai?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<p TEIform="p">M&#259; duc; scuza&#355;i, pardon, bonsoar!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">'Aide! (<stage TEIform="stage">vrea s&#259;-l conduc&#259; pân&#259; la u&#351;&#259;; când vrea s&#259; deschiz&#259; u&#351;a ca s&#259;-i dea drumul, s-aude glasul lui jupân Dumitrache în curte. &#8213; Ric&#259; &#351;i Veta coboar&#259; însp&#259;imânta&#355;i.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(afar&#259; în curte)</p>
+</stage>
+<p TEIform="p">Î&#355;i spui c&#259; i-am v&#259;zut eu capul pe fereastr&#259;. E aici în cas&#259;. Chiriac! Spiridoane!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(îngrozit&#259;)</p>
+</stage>
+<p TEIform="p">Muziu! Domnule! M-ai nenorocit, &#351;i dumitale atâta &#355;i-a fost! Fugi, fugi, c&#259; te omoar&#259;!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<p TEIform="p">Aoleo! (<stage TEIform="stage">se repede s&#259; fug&#259; pe u&#351;&#259;.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(oprindu-l)</p>
+</stage>
+<p TEIform="p">Nu p-acolo!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(d-afar&#259;)</p>
+</stage>
+<p TEIform="p">Dac&#259; nu i-o ajunge ce i-oi da eu moftangiului, s&#259;-mi tai mie favuridele!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(tot d-afar&#259;)</p>
+</stage>
+<p TEIform="p">Rezon! (<stage TEIform="stage">se aud pa&#351;i repezi suind sc&#259;rile.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(desperat)</p>
+</stage>
+<p TEIform="p">Madam, cocoan&#259;! Ai mizericordie de un june român în prim&#259;vara existen&#355;ii sale! De-abia dou&#259;zeci &#351;i cince de roze &#351;i jum&#259;tate înnum&#259;r, dou&#259;zeci &#351;i &#351;ase le împlinesc tocmai la sfântul Andrei... Scap&#259;-m&#259;!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Da... dar pe unde? A! Pe fereastra asta; ie&#351;i curând, treci bini&#351;or pe schele la stânga, las&#259;-te pe scar&#259; în cap&#259;tul binalii; jos e o porti&#355;&#259; scurt&#259;, care d&#259; în maidan... Fugi iute!...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(iese pe fereastr&#259;, se love&#351;te cu capul de zid &#351;i-&#351;i turte&#351;te p&#259;l&#259;ria)</p>
+</stage>
+<p TEIform="p">Pardon!... Scuza&#355;i!... Bonsoar! (<stage TEIform="stage">dispare pe fereastr&#259;, pa&#351;ii se apropie.</stage>)</p>
+<p TEIform="p"> </p>
+<stage TEIform="stage">
+<p TEIform="p">VETA singur&#259;, apoi DUMITRACHE &#351;i IPINGESCU</p>
+</stage>
+</sp>
+</div>
+<div type="scene" org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA III</head>
+<stage TEIform="stage">
+<p TEIform="p">VETA singur&#259;, apoi DUMITRACHE &#351;i IPINGESCU</p>
+</stage>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">A sc&#259;pat s&#259;rmanul... Ce comedie! Doamne sfinte! Dac&#259;-l prindea Chiriac, îl omora. Vezi dumneata cine mi-a fost sor&#259;-mea Zi&#355;a! D-aia se &#355;inea dumneaei de capul meu s&#259; tot batem gr&#259;dinile; era amorezat&#259;. &#350;i eu, proast&#259;, s&#259; nu &#351;tiu nimic, &#351;i s&#259;-mi fac zile amare cu Chiriac din pricina lui musiu &#259;sta... Bine c&#259; a sc&#259;pat, vai de el; acum trebuie s&#259;-i sfârâie c&#259;lcâiele pe maidanul lui Bursuc. (<stage TEIform="stage">coboar&#259; la mas&#259; &#351;i se face c&#259; lucreaz&#259;. U&#351;a din fund se deschide de perete &#351;i intr&#259; furio&#351;i jupân Dumitrache &#351;i Ipingescu cu s&#259;biile scoase.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(înainteaz&#259; strajnic)</p>
+</stage>
+<p TEIform="p">Cocoan&#259;! Cine a fost acum aici? (<stage TEIform="stage">Ipingescu caut&#259; cu ochii în toate p&#259;r&#355;ile, se uit&#259; pe sub pat, pe sub mas&#259;, peste tot.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Cine s&#259; fie?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(fierbând)</p>
+</stage>
+<p TEIform="p">Cine s&#259; fie?... &#350;tiu eu cine s&#259; fie? Dac&#259; a&#351; &#351;ti, nu te-a&#351; întreba.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Rezon! (<stage TEIform="stage">caut&#259; mereu.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Ei! &#350;tii c&#259; e&#351;ti nu &#351;tiu cum! Ce vii a&#351;a turbat? Uite, cu sabia scoas&#259;, ca la b&#259;t&#259;lie.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Nu râde, cocoan&#259;, dup&#259; ce c&#259; pa&#355; un afront tocmai la ce-am &#355;inut eu, nu râde; du-te dincolo, cocoan&#259;!... De ce nu te-ai culcat pân-acum?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Z&#259;u, c&#259; nu e&#351;ti în toat&#259; firea! Auzi c&#259; de ce nu m-am culcat; pentru c&#259; nu mi-a fost somn. Ce! Vrei s&#259; m&#259; culc &#351;i s&#259;-mi las lucru? Mâine e s&#259;rb&#259;toare, trebuie s&#259; m&#259; g&#259;tesc s&#259; merg la biseric&#259;.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Rezon!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Cocoan&#259;, du-te dincolo, aci avem treab&#259;; du-te curând. (<stage TEIform="stage">umbl&#259; agitat, strigând.</stage>) Spiridoane! Spiridoane! Chiriac! Spiridoane! Chiriac! (<stage TEIform="stage">c&#259;tre Veta.</stage>) R&#259;u ai f&#259;cut, cocoan&#259;!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Ce r&#259;u? Ce visezi? Ce-am f&#259;cut?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">&#350;tii dumneata bine! Dumneata s&#259; tragi p&#259;catul de ce s-o întâmpla (<stage TEIform="stage">sinistru</stage>), c&#259; are s&#259; se întâmple lucru mare, cocoan&#259;, m&#259;car s&#259; &#351;tiu de bine c&#259; merg la cremenal!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">E&#351;ti nebun! (<stage TEIform="stage">aparte.</stage>) Acu nu mai mi-e fric&#259;.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(strajnic la culme)</p>
+</stage>
+<p TEIform="p">Du-te, cocoan&#259;, &#351;i nu râde.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Iaca, m&#259; duc. (<stage TEIform="stage">iese r&#259;zând în stânga planul întâi.</stage>)</p>
+<stage TEIform="stage">
+<p TEIform="p">JUPÂN DUMITRACHE, NAE IPINGESCU, apoi SPIRIDON</p>
+</stage>
+</sp>
+</div>
+<div type="scene" org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA IV</head>
+<stage TEIform="stage">
+<p TEIform="p">JUPÂN DUMITRACHE, NAE IPINGESCU, apoi SPIRIDON</p>
+</stage>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">&#350;tii (<stage TEIform="stage">se îneac&#259; de emo&#355;ie</stage>), m&#259; st&#259;pânesc, adic&#259;-i vorbesc cu perdea, nu voi s&#259;-i isplic lucru formal, ca s&#259; n-o ru&#351;inez.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Rezon!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">&#350;tii cum e dânsa...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Coana Veta? Ru&#351;inoas&#259;,... mie-mi spui?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(plimbându-se agitat)</p>
+</stage>
+<p TEIform="p">Adic&#259; chiar în casa mea s&#259; nu pot eu pune mâna pe bagabontul? C&#259; n-a avut pe unde ie&#351;i; alt&#259; scar&#259; nu mai are casa. (<stage TEIform="stage">strig&#259;.</stage>) Spiridoane! Chiriac! Chiriac! Spiridoane!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(vinde din dreapta, cu p&#259;rul vâlvoi, sculat z&#259;p&#259;cit din somn)</p>
+</stage>
+<p TEIform="p">Ce-i porunca, jupâne?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Porunca? Vino s&#259;-&#355;i dau porunc&#259;. (<stage TEIform="stage">îl ia de p&#259;r.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Hahahaha! D&#259;-l, d&#259;-l c&#259;&#355;eaua!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Apoi parc&#259; ne-a fost vorba, musiu Spiridoane b&#259;iete, s&#259; nu te mai g&#259;sesc dormind când m&#259;-ntorc acas&#259;! Na porunc&#259;! Na porunc&#259;! Mai na porunc&#259;! S&#259;-&#355;i mai treac&#259; de piroteal&#259;!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(plângând)</p>
+</stage>
+<p TEIform="p">Auliu, jupâne, auliu! Ce &#355;i-am f&#259;cut eu, jupâne, dac&#259; am dormit?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(strajnic c&#259;tr&#259; Spiridon)</p>
+</stage>
+<p TEIform="p">Pentru ce nu e&#351;ti prezent la apelul nominal?...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<p TEIform="p">Auliu! (<stage TEIform="stage">se jele&#351;te.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Taci! Unde-i Chiriac?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(fugind într-un col&#355;)</p>
+</stage>
+<p TEIform="p">Nu &#351;tiu...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(se repede la el; Spiridon fuge)</p>
+</stage>
+<p TEIform="p">Da' s&#259; m&#259;nânci &#351;i s&#259; dormi &#351;tii?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<p TEIform="p">Doarmne în odaia dumnealui, jupâne.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Doarme? To&#355;i dormi&#355;i, dormirea-&#355;i somnul &#259;l lung! Pâinea &#351;ti&#355;i s&#259; mi-o mânca&#355;i. Cheam&#259; pe Chiriac degrab&#259;... mergi!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(c&#259;tr&#259; Spiridon, b&#259;tându-i din picior)</p>
+</stage>
+<p TEIform="p">Urgent! (<stage TEIform="stage">Spiridon iese degrab' în stânga.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Chiriac! Chiriac!... Eu arz în foc &#351;i to&#355;i trag la aghioase! Eu arz de onoarea mea de familist &#351;i lor de somn le arde... Chiriac!</p>
+<stage TEIform="stage">
+<p TEIform="p">ACEIA&#351;I &#8213; CHIRIAC, apoi SPIRIDON</p>
+</stage>
+</sp>
+</div>
+<div type="scene" org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA V</head>
+<stage TEIform="stage">
+<p TEIform="p">ACEIA&#351;I &#8213; CHIRIAC, apoi SPIRIDON</p>
+</stage>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(&#350;tergându-se la ochi, în costum de noapte, vine moale de somn, din stânga)</p>
+</stage>
+<p TEIform="p">Ce-i jupâne? Ce s-a aprins? Arde? Unde arde?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(luându-l de mân&#259; &#351;i aducându-l în fa&#355;a scenii)</p>
+</stage>
+<p TEIform="p">Chiriac! (<stage TEIform="stage">scurt.</stage>) M-am nenorocit!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Pentru ce?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">S-a dus ambi&#355;ul!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Cum?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Tocmai la ce am &#355;inut...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Ce?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Mi s-a necinstit onoarea de familist!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">A&#351;! nu se poate; &#355;i s-a p&#259;rut!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Am v&#259;zut cu ochii.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">A&#351;! A&#351;a m-ai speriat &#351;i alalt&#259;ieri seara; a&#351;a &#355;i se n&#259;zare dumitale.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Chiriac, întreab&#259; &#351;i pe nenea Nae!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(grav)</p>
+</stage>
+<p TEIform="p">Aprob pozitiv.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(dezmeticit)</p>
+</stage>
+<p TEIform="p">Cum? Când? Unde? Cine?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Bagabontul!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Ei?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Ma&#355;e-fripte, Chiriac puiule, l-am v&#259;zut din uli&#355;&#259; pe fereastr&#259; aici în cas&#259;... cu ochelarii pe nas, cu giubenu-n cap.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Idem.</p>
+<stage TEIform="stage">
+<p TEIform="p">(Spiridon intr&#259; din dreapta.)</p>
+</stage>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Aici în cas&#259;? Nu m&#259; b&#259;ga-n p&#259;cate, jupâne!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(aparte)</p>
+</stage>
+<p TEIform="p">Cu ochelari? Cu giuben? E persoana cocoanii Zi&#355;ii. (<stage TEIform="stage">iese pe furi&#351; prin fund.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">L-am v&#259;zut cu ochii mei, &#351;i nu se poate s&#259; fi ie&#351;it d-aici, c&#259; n-avea pe unde! Pe scar&#259; m-am suit eu cu nenea Nae, trebuia s&#259; dau piept în piept cu el. Trebuie s&#259; fie aici în cas&#259; ascuns. &#8213; Trebuie s&#259;-l g&#259;sim. (<stage TEIform="stage">iese în dreapta.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(b&#259;tându-se-n piept)</p>
+</stage>
+<p TEIform="p">Las' pe mine, jupâne.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(care se afl&#259; la fereastra din stânga)</p>
+</stage>
+<p TEIform="p">S&#259; am pardon: fereastra asta d&#259; pe schele, schelele merg pân&#259;-n cap&#259;tul binalii.</p>
+<p TEIform="p">(Jupân Dumitrache reintr&#259; &#351;i iese c&#259;utând în stânga.)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Da.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Ei! Acolo nu-i scar&#259;? Dac&#259; o fi ie&#351;it pe aici pe fereastr&#259;, s-a dus, a sc&#259;pat pe maidanul lui Bursuc.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Nu se poate s&#259; fi g&#259;sit scara. Schelele se-nfund&#259; în podul grajdului; podul nu-i podit pân&#259; acuma, e gratie numa, &#351;i scara este în partea ailalt&#259;, în dosul binalii.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(reintr&#259; în stânga desperat)</p>
+</stage>
+<p TEIform="p">Mi s-a dus ambi&#355;ul, nu mai voi s&#259; &#351;tiu de nimic! Mi s-a necinstit onoarea de familist, acum nu mai îmi pas&#259; m&#259;car s&#259; intru &#351;i-n cremenal! (<stage TEIform="stage">c&#259;utând cu ochii, g&#259;se&#351;te bastonul lui Ric&#259; uitat pe scânduri lâng&#259; scaunul unde acesta a c&#259;zut în genunchi la intrare. &#8213; Chiriac &#351;i Ipingescu caut&#259; &#351;i ei în toate p&#259;r&#355;ile.</stage>) Chiriac! Chiriac! puiule, uite! (<stage TEIform="stage">arat&#259; bastonul.</stage>) Mai zi c&#259; mi s-a p&#259;rut.</p>
+<stage TEIform="stage">
+<p TEIform="p">ACEIA&#350;I &#8213; VETA (din stânga)</p>
+</stage>
+</sp>
+</div>
+<div type="scene" org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA VI</head>
+<stage TEIform="stage">
+<p TEIform="p">ACEIA&#350;I &#8213; VETA (din stânga)</p>
+</stage>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Ce e, frate, ce e?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(cu putere c&#259;tr&#259; ea)</p>
+</stage>
+<p TEIform="p">Nu scap&#259; el, cocoan&#259;, nici mort din gheara mea!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(asemenea)</p>
+</stage>
+<p TEIform="p">Da, cocoan&#259;, nici mort.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(asemenea)</p>
+</stage>
+<p TEIform="p">Absolut!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">'Aide, jupâne, 'aide, nene Nae! (<stage TEIform="stage">vrea s&#259; se repeaz&#259; peste fereastr&#259; cu pu&#351;ca-n mân&#259;.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(alearg&#259; &#351;i se pune în dreptul ferestrii)</p>
+</stage>
+<p TEIform="p">Sunte&#355;i nebuni? Vre&#355;i s&#259; se rup&#259; schelele cu voi? Chiriac, nu &#351;tii c&#259; schelele sunt p&#259;r&#259;site de trei s&#259;pt&#259;mâni? Vrei s&#259; te pr&#259;p&#259;de&#351;ti?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Las&#259;-ne cocoan&#259;! (<stage TEIform="stage">vrea s-o dea în l&#259;turi, ea nu se las&#259;.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(asemenea)</p>
+</stage>
+<p TEIform="p">Las&#259;-ne cocoan&#259;!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(asemenea)</p>
+</stage>
+<p TEIform="p">Pardon!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(lui Chiriac)</p>
+</stage>
+<p TEIform="p">Iar te iei dup&#259; vreo b&#259;nuial&#259; de-a dumnealui, iar? Ai uitat ce...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Da, b&#259;nuial&#259;... cu ochilari la nas &#351;i cu giobenu-n cap!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(se lupt&#259; cu Veta)</p>
+</stage>
+<p TEIform="p">Las&#259;-m&#259;, cocoan&#259;! (<stage TEIform="stage">scap&#259; din mâinile ei &#351;i iese pe fereastr&#259;.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(&#351;ov&#259;ie &#351;i cade pe scaun)</p>
+</stage>
+<p TEIform="p">Chiriac!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Înainte, Chiriac! Înainte, nene Nae! (<stage TEIform="stage">iese pe fereastr&#259;, Nae Ipingescu îl urmeaz&#259;.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(sculându-se &#351;ov&#259;ind, scoate capul pe fereastr&#259;)</p>
+</stage>
+<p TEIform="p">Chiriac! Chiriac! Bini&#351;or! S&#259; nu cazi!</p>
+<stage TEIform="stage">
+<p TEIform="p">VETA, ZI&#354;A</p>
+</stage>
+</sp>
+</div>
+<div type="scene" org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA VII</head>
+<stage TEIform="stage">
+<p TEIform="p">VETA, ZI&#354;A</p>
+</stage>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(intr&#259; prin fund repede)</p>
+</stage>
+<p TEIform="p">Ce e, &#355;a&#355;o? Ce s-a întâmplat? Mi-a spus Spiridon...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(sculându-se repede de pe scaun)</p>
+</stage>
+<p TEIform="p">Zi&#355;o, Zi&#355;o, tu mi le faci toate, tu m-au dus la "Iunion", tu ai dat nas amploiatului s&#259; se &#355;ie dup&#259; noi, de mi-am g&#259;sit beleaua cu Chiriac...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">Cu Chiriac?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(dregând-o)</p>
+</stage>
+<p TEIform="p">Cu dumnealui, cu Chiriac, cu to&#355;i; l-ai chemat s&#259; vie, &#351;i în loc s&#259; vie la tine a venit aici.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">&#350;i?...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">&#350;i tocmai când s&#259;-i dau drumul înapoi pe u&#351;e, iac&#259;t&#259;-i dumnealui cu Nae ipistatul se suia pe scar&#259; strigând ca ni&#351;te turba&#355;i...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">&#350;i pe urm&#259;?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">L-am f&#259;cut sc&#259;pat pe fereastr&#259;, i-am dat drumul pe schel&#259;, ca s&#259; ias&#259; pe la spatele binalii, pe porti&#355;a dinspre maidan.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(cu spaim&#259;)</p>
+</stage>
+<p TEIform="p">Pe porti&#355;a dinspre maidan!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Da, pentru c&#259; pe scara a mare s-ar fi întâlnit piept în piept cu dumnealui.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(zdrobit&#259;)</p>
+</stage>
+<p TEIform="p">&#354;a&#355;o! <stage TEIform="stage">Per l'amour di Dieu</stage>! Porti&#355;a dinspre maidan e încuiat&#259;; adineori am vrust s&#259; viu eu p-acolo, ca s&#259; nu mai ocolesc, &#351;i a trebuit s&#259; m&#259; întorc iar pe uli&#355;&#259; ca s&#259; intru în curte.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Încuiat&#259;? &#350;i ulucile sunt de doi stânjeni! Atunci persoana în chestie n-a putut fugi! Zi&#355;o, Zi&#355;o! E primejdie! dumnealui e grozav, Chiriac e nebun!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">Vai de mine! Mon&#351;erul meu! Mi-l omoar&#259;!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Chiriac a luat pu&#351;ca cu spang&#259; &#351;i dumnealui a scos sabia...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">Nu mai spune &#355;a&#355;o, c&#259; mor! (<stage TEIform="stage">se aude o d&#259;râmare de scânduri.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Taci! (<stage TEIform="stage">ascult&#259; amândou&#259;.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(de afar&#259;)</p>
+</stage>
+<p TEIform="p">A&#355;in'te, Chiriac!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(de afar&#259;)</p>
+</stage>
+<p TEIform="p">Stai! În numele Costitu&#355;iunii!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(îngrozit&#259;)</p>
+</stage>
+<p TEIform="p">L-a prins!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(asemenea)</p>
+</stage>
+<p TEIform="p">Ah! Mor!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Sunt în curte, 'aide s&#259; mergem degrab&#259;. Tu ai f&#259;cut încurc&#259;tura, tu s-o descurci! 'Aide repede de scap&#259; omul din primejdie.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">'Aide! (<stage TEIform="stage">Amândou&#259; pornesc s&#259; ias&#259; prin fund; când ele vor s&#259; p&#259;&#351;easc&#259; pragul, s-aude alt zgomot afar&#259; &#351;i strig&#259;te.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">GLASUL LUI JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Nu le l&#259;sa, Chiriac! (<stage TEIform="stage">zgomot, strig&#259;te &#351;i o detun&#259;tur&#259; de pu&#351;c&#259;.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Chiriac!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">Mon&#351;erul meu! (<stage TEIform="stage">ies amândou&#259; desperate.</stage>)</p>
+<stage TEIform="stage">
+<p TEIform="p">RIC&#258; VENTURIANO, apoi SPIRIDON</p>
+</stage>
+</sp>
+</div>
+<div type="scene" org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA VIII</head>
+<stage TEIform="stage">
+<p TEIform="p">RIC&#258; VENTURIANO, apoi SPIRIDON</p>
+</stage>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<p TEIform="p">(<stage TEIform="stage">Coboar&#259; încet pe fereastr&#259; pe unde a ie&#351;it; este pr&#259;fuit de var, ciment &#351;i c&#259;r&#259;mid&#259;; p&#259;rul îi este în neorânduial&#259;; p&#259;l&#259;ria rupt&#259;; e galben &#351;i tras la fa&#355;&#259;; tremur&#259; &#351;i i se încurc&#259; limba la vorb&#259;; i se n&#259;luce&#351;te a spaim&#259; din când în când &#351;i îl apuc&#259; sl&#259;biciune la încheieturi.</stage>) Am sc&#259;pat pân&#259; acum! Sfinte Andrei, scap&#259;-m&#259; &#351;i de acu încolo: sunt înc&#259; june! Geniu bun al venitorului României, protege-m&#259;; &#351;i eu sunt român! (<stage TEIform="stage">r&#259;sufl&#259; din greu &#351;i î&#351;i apas&#259; palpita&#355;iile.</stage>) O ce noapte furtunoas&#259;! Oribil&#259; tragedie! (<stage TEIform="stage">i se pare c&#259; aude ceva &#351;i tresare.</stage>) Ce de peripe&#355;iuni!... Ies pe fereastr&#259; &#351;i pornesc pe dibuite pe schele! M&#259; &#355;iu bini&#351;or de zid &#351;i ajung în cap&#259;tul binalii... Destinul m&#259; persecut&#259; implacabil... Schelele se-nfund&#259;; nici o scar&#259;... Cocoana perfid&#259; m&#259; indusese în eroare... Vreau s&#259; m&#259;-ntorc &#351;i d-odat&#259; auz pe inimici venind în fa&#355;a mea pe schele. O iau înapoi f&#259;r&#259; s&#259; &#351;tiu unde merg; m&#259; împiedic de un butoi cu &#355;iment... O inspira&#355;iune,... &#8213; eu ca poet am totdeauna inspira&#355;iuni! &#8213; m-ascunz în butoi! Pa&#351;ii inimicilor s-apropie în fuga mare, mul&#355;i in&#351;i trec iute pe lâng&#259; butoiul meu înjurându-m&#259;; eu, ca june cu educa&#355;iune, m&#259; fac c&#259; n-auz... To&#355;i se dep&#259;rteaz&#259;... Auz un zgomot, strig&#259;te, &#355;ipete de femei, în fine o împu&#351;c&#259;tur&#259;. Zgomotul apoi cu încetul se stinge, totul r&#259;mâne într-un silen&#355;iu lugubru, numai din dep&#259;rtare se aude orologiul de la Stabiliment b&#259;tând unsprezece &#351;i dou&#259;zeci... or&#259; fatal&#259; pentru mine! &#8213; Ies bini&#351;or din butoiul meu, m&#259; târ&#259;sc de-a bu&#351;ele pe schele &#351;i m&#259; pomenesc înapoi aci... Ce s&#259; fac? Pe unde s&#259; ies? Îmi trebuie o inspira&#355;iune ingenioas&#259;... (<stage TEIform="stage">pune mâna la frunte &#351;i caut&#259; în gând.</stage>) Da, am g&#259;sit-o! S&#259; ies pe u&#351;e. (<stage TEIform="stage">merge repede în vârful degetelor la u&#351;a din fund, o deschide; afar&#259;, în sal&#259;, e bezn&#259;.</stage>) Obscuritate absolut&#259;! (<stage TEIform="stage">merge la fereastr&#259;.</stage>) A! Auz pa&#351;i; vine cineva pe schele. (<stage TEIform="stage">se repede la u&#351;a din dreapta, a od&#259;ii lui Spiridon.</stage>) P-aici! (<stage TEIform="stage">Spiridon intr&#259; în acela&#351;i moment repede, &#351;i se lovesc amândoi în piept.</stage>) Ah! Cum m-ai speriat! (<stage TEIform="stage">îi vine r&#259;u.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<p TEIform="p">Domnule, musiu, tot aici e&#351;ti? E foc mare, trebuie s&#259; fugi! Dac&#259; o pune mâna pe dumneata, te omoar&#259;...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<p TEIform="p">M&#259; omoar&#259;?... Scap&#259;-m&#259;, b&#259;iete, scoate-m&#259; de aici... Pe unde s&#259; ies? (<stage TEIform="stage">pornind spre u&#351;a din dreapta, pe unde a intrat Spiridon.</stage>) Pe aici...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<p TEIform="p">Nu se poate. (<stage TEIform="stage">îi taie drumul.</stage>) Odaia d-acolo r&#259;spunde toto pe scara a mare; vrei s&#259; te-ntâlne&#351;ti cu ei piept în piept?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<p TEIform="p">Nu, nu voi; dar atunci ce-i de f&#259;cut! Existen&#355;a mi-este periclitat&#259;. Voi s&#259; scap. Scap&#259;-m&#259;: î&#355;i dau bac&#351;i&#351; trei sferturi de rubl&#259;.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<p TEIform="p">Trei sferturi de rubl&#259;: &#351;ase pachete de tutun! Te scap.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<p TEIform="p">Cum? Pe unde? Spune-mi iute, c&#259; mi-e degrab&#259;, îmi vine stenahorie.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<p TEIform="p">Dumneata st&#259;i aici. Eu m&#259; duc colea în od&#259;i&#355;&#259; (<stage TEIform="stage">la dreapta</stage>), deschiz u&#351;a care d&#259; în scar&#259;, cum i-oi vedea c&#259; se urc&#259; sus, te chem în odaie, închidem u&#351;a de la mijloc, &#351;i când or intra cu to&#355;ii aici, î&#355;i dau drumul pe dincolo pe scar&#259;, te cobori &#351;i ie&#351;i repede pe poart&#259;... Las&#259; c&#259; te scap, n-ai grij&#259;.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<p TEIform="p">Da, du-te degrab&#259;!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(cu &#351;iretenie)</p>
+</stage>
+<p TEIform="p">Apoi, nu-mi dai?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<p TEIform="p">Ce?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<p TEIform="p">Ce mi-ai f&#259;g&#259;duit.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<p TEIform="p">Ba da, î&#355;i dau. (<stage TEIform="stage">se caut&#259; în toate buzunarele &#351;i completeaz&#259; suma din m&#259;run&#355;ele; Spiridon o socote&#351;te cu scump&#259;tate.</stage>) B&#259;iete, (<stage TEIform="stage">solemn</stage>) tân&#259;rule! &#350;tii tu în ce pozi&#355;iune m&#259; g&#259;sesc? &#350;tii tu ce pericol m&#259; amenin&#355;&#259;?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<p TEIform="p">Ba bine c&#259; nu! Dac&#259; n-oi &#351;ti eu p&#259;para lui jupânul!... Hehei! Las&#259;; dac&#259; n-&#259;i putea sc&#259;pa...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<p TEIform="p">'Ai? (<stage TEIform="stage">&#351;ov&#259;ie.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<p TEIform="p">Ai s&#259; vezi &#351;i dumneata al dracului ce e... De ce-i zice lui "Titirc&#259; Inim&#259;-Rea"?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<p TEIform="p">Nu, nu voi s&#259; v&#259;z, scap&#259;-m&#259;.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SPIRIDON</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(cam rece)</p>
+</stage>
+<p TEIform="p">Ei! Las&#259;, dac&#259; oi putea, te scap eu, fire&#351;te.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<p TEIform="p">A! (<stage TEIform="stage">&#351;ov&#259;ie.</stage>) Auz zgomot pe scar&#259;; se suie... (<stage TEIform="stage">&#351;ov&#259;ie.</stage>) Alearg&#259;; scap&#259;-m&#259;! (<stage TEIform="stage">Spiridon iese încet în dreapta, num&#259;rând gologanii; Ric&#259; îl zore&#351;te de la spate.</stage>)</p>
+<stage TEIform="stage">
+<p TEIform="p">RIC&#258;, DUMITRACHE, CHIRIAC, IPINGESCU, ZI&#354;A &#351;i apoi VETA</p>
+</stage>
+</sp>
+</div>
+<div type="scene" org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA IX</head>
+<stage TEIform="stage">
+<p TEIform="p">RIC&#258;, DUMITRACHE, CHIRIAC, IPINGESCU, ZI&#354;A &#351;i apoi VETA</p>
+</stage>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(o clip&#259; singur; joc de scen&#259; mut&#259;; deodat&#259; se aud în odaia din dreapta palme, &#351;i Spiridon &#355;ipând)</p>
+</stage>
+<p TEIform="p">A! (<stage TEIform="stage">pa&#351;i pe scar&#259;; Ric&#259; se repede la u&#351;a din dreapta.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(întâmpinându-l cu sabia scoas&#259;)</p>
+</stage>
+<p TEIform="p">St&#259;i!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(dându-se înapoi)</p>
+</stage>
+<p TEIform="p">Sunt mort, sfinte Andrei! (<stage TEIform="stage">se repede la fereastra schelelor în stânga.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(întâmpinându-l, sare pe fereastr&#259; în scen&#259;, cu pu&#351;ca cu baionet&#259; în mân&#259;, ca de asalt)</p>
+</stage>
+<p TEIform="p">St&#259;i!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(dându-se înapoi &#351;ov&#259;ind)</p>
+</stage>
+<p TEIform="p">Geniu bun al venitorului României! (<stage TEIform="stage">se repede la u&#351;a din fund.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(întâmpinându-l cu sabia scoas&#259;)</p>
+</stage>
+<p TEIform="p">St&#259;i! (<stage TEIform="stage">recunoscând pe Ric&#259;, îi cade sabia din mân&#259;.</stage>) Nu m&#259; nebuni, onorabile! Dumneata e&#351;ti?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(tremurând grozav)</p>
+</stage>
+<p TEIform="p">Eu!</p>
+<stage TEIform="stage">
+<p TEIform="p">(Zi&#355;a intr&#259; prin fund.)</p>
+</stage>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Ce pofte&#351;ti, m&#259; musiu? (<stage TEIform="stage">se repede s&#259;-l umfle. Zi&#355;a i sare-n piept &#351;i-l opre&#351;te.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(trânte&#351;te pu&#351;ca &#351;i scuip&#259; în palme)</p>
+</stage>
+<p TEIform="p">Las&#259;-mi-l mie, jupâne! (<stage TEIform="stage">se repede &#351;i el s&#259;-l umfle.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(s&#259;rind &#351;i oprind în piept pe Chiriac)</p>
+</stage>
+<p TEIform="p">Nu da, onorabile!... îl cunosc eu.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(lui Ipingescu)</p>
+</stage>
+<p TEIform="p">D&#259;-te la o parte!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(lui Jupân Dumitrache)</p>
+</stage>
+<p TEIform="p">Nene Dumitrache, nu-mi asasina viitorul! (<stage TEIform="stage">se lupt&#259; cu el.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Las&#259;-l s&#259;-l întreb numai: ce pofte&#351;ti, m&#259; musiu?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Las&#259;-m&#259;, nene Nae, s&#259;-l înv&#259;&#355; eu pe ma&#355;e-fripte s&#259; mai umble dup&#259; nevestele negustorilor!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(strigând tare ca s&#259; acopere toate strig&#259;tele)</p>
+</stage>
+<p TEIform="p">Sta&#355;i! Sta&#355;i! C&#259; e-ncurc&#259;tur&#259;! Pe dumnealui îl cunosc eu! Dumnealui nu-i d-ei de care crede&#355;i dumneavoastr&#259;; e cet&#259;&#355;ean onorabil.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Da' de onorabil n-are-ncotro! (<stage TEIform="stage">vrea s&#259; se repeaz&#259;.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(oprindu-l)</p>
+</stage>
+<p TEIform="p">E d-ai no&#351;tri, e patriot!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Dac&#259;-i patriot, de ce umbr&#259; s&#259;-mi strice casa? De ce m&#259; atac&#259; la onoarea de familist? (<stage TEIform="stage">vrea s&#259; se repeaz&#259;; Veta intr&#259; prin fund.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">Nene! Nene! Iart&#259;-m&#259;! Nu e ce crezi dumneata.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Dar ce e?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Ce e?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(trecând lâng&#259; Chiriac &#351;i luându-l la o parte nec&#259;jit&#259;)</p>
+</stage>
+<p TEIform="p">Ce e, ce e! Oameni în toat&#259; firea &#351;i nu-n&#355;elege&#355;i ce e! Umbla&#355;i ca nebunii! (<stage TEIform="stage">&#351;optindu-i repede.</stage>) Iaca ce e! Tân&#259;rul umb&#259; dup&#259; Zi&#355;a, s-a amorezat cu ea de la "Iunion", &#351;tii din seara când s-a luat dup&#259; noi, &#351;i-a trimes unul la altul bilete de amor, &#351;i-n loc s&#259; mearg&#259; la ea acas&#259;, a gre&#351;it &#351;-a venit aici. Nu &#355;i-am spus eu c&#259; e tot o b&#259;nuial&#259; proast&#259; de-a dumnealui. M&#259; faci s&#259; intru în alte alea cu nebuniile tale. Iaca ce e; ai v&#259;zut? (<stage TEIform="stage">în timpul acesta Jupân Dumitrache, cam încurcat de potolirea lui Chiriac, vrea s&#259; asculte &#351;i el explica&#355;ia.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(domirindu-se)</p>
+</stage>
+<p TEIform="p">A!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(trecând lâng&#259; Veta)</p>
+</stage>
+<p TEIform="p">Ei! Ce e!</p>
+<stage TEIform="stage">
+<p TEIform="p">(În timpul acesta, scen&#259; mut&#259; între Ipingescu, Ric&#259; &#351;i Zi&#355;a mai în fund.)</p>
+</stage>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(c&#259;tr&#259; Chiriac)</p>
+</stage>
+<p TEIform="p">Spune-i ce e. (<stage TEIform="stage">trece în fund.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(luând la o parte pe Jupân Dumitrache &#351;i &#351;optindu-i)</p>
+</stage>
+<p TEIform="p">Ce e, ce e! Oameni în toat&#259; firea &#351;i nu în&#355;elegem! Umbl&#259;m ca nebunii! Iaca ce e! Tân&#259;rul umbl&#259; dup&#259; Zi&#355;a; s-a amorezat cu ea de la "Iunion", &#351;tii, din seara aia când s-a luat dup&#259; dumneavoastr&#259;, &#351;i-a trimes unul la altul bilete de amor, &#351;i în loc s&#259; mearg&#259; la ea acas&#259;, a gre&#351;it &#351;-a venit aici. Nu &#355;i-am spus eu, jupâne, c&#259; a&#351;a î&#355;i c&#259;&#351;uneaz&#259; dumitale! M-ai f&#259;cut s&#259; alerg ca nebunii, s&#259;-mi rup gâtul! Doamne fere&#351;te! Dac&#259; f&#259;ceam &#351;i moarte de om? Iac&#259; ce e; ai v&#259;zut?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(înseninat &#351;i domirit)</p>
+</stage>
+<p TEIform="p">A! (<stage TEIform="stage">c&#259;utând la Zi&#355;a cu coada ochiului.</stage>) Ei! Bat&#259;-te, Zi&#355;o, s&#259; te bat&#259;! (<stage TEIform="stage">Chiriac trece lâng&#259; Ipingescu.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(plecând ochii cu nevinov&#259;&#355;ie)</p>
+</stage>
+<p TEIform="p">Nene!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(cu p&#259;rin&#355;ie)</p>
+</stage>
+<p TEIform="p">Ei! Nu te ru&#351;ina! Ale tinere&#355;ii valuri! (<stage TEIform="stage">c&#259;tr&#259; public.</stage>) Fat&#259; roman&#355;ioas&#259;! D-aia dumneaei: "'Ai, nene, la «Iunion», parol! S&#259; m&#259;-ngropi!"</p>
+<stage TEIform="stage">
+<p TEIform="p">(În timpul acesta, cei ce n-au vorbit sunt grupa&#355;i în fund; Ric&#259; înc&#259; nu-&#351;i poate veni bine în fire.)</p>
+</stage>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(înaintând lâng&#259; Jupân Dumitrache)</p>
+</stage>
+<p TEIform="p">Onorabile! (<stage TEIform="stage">cu ifos.</stage>) &#350;tii cine-i tân&#259;rul &#259;sta? (<stage TEIform="stage">arat&#259; pe Ric&#259;.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Cine?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">&#258;sta e &#259;l care scrie la "Vocea Patriotului Na&#355;ional".</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Nu m&#259; nebuni!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Parol.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Ei, fugi c&#259; mor!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">D-apoi ce crezi! Chiar el însu&#351;i în persoan&#259;: e b&#259;iat bun, d-ai no&#351;tri, din popor. El combate în articolul &#259;l de ast&#259;-sear&#259;, &#351;tii cu "sufragiul".</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(încântat)</p>
+</stage>
+<p TEIform="p">Ei bravos! (<stage TEIform="stage">încet.</stage>) Apoi de! S&#259; facem cuno&#351;tin&#355;&#259;. Cum e amorezat cu Zi&#355;a, mai &#351;tii? De unde a fost s&#259; ias&#259; norocul fetii!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Rezon! Aia ziceam &#351;i eu. (<stage TEIform="stage">c&#259;tr&#259; Ric&#259;.</stage>) Onorabile domn, permite-mi pentru ca s&#259;-&#355;i prezant pe cet&#259;&#355;eanul Dumitrache Titirc&#259;, comersant, apropitar &#351;i c&#259;pitan în gvarda civic&#259;. (<stage TEIform="stage">cu importan&#355;&#259;.</stage>) E d-ai no&#351;tri. (<stage TEIform="stage">grupul din fund înainteaz&#259;.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<p TEIform="p">Sunt încântat. (<stage TEIform="stage">se confund&#259; în complimente.</stage>) Mersi de cuno&#351;tin&#355;&#259;.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Dumnealui este cet&#259;&#355;eanul Ric&#259; Venturiano, amploiat judiciar, student la Academie &#8213; înva&#355;&#259; legile, &#8213; &#351;i redactor la "Vocea Patriotului Na&#355;ional"... (<stage TEIform="stage">cu putere.</stage>) E d-ai no&#351;tri... ce s&#259; mai st&#259;m s&#259; mai vorbim... îl &#351;tii... (<stage TEIform="stage">amândoi recomanda&#355;ii se complimenteaz&#259; &#351;i-&#351;i dau mâna.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(cu respect amestecat cu sfial&#259;)</p>
+</stage>
+<p TEIform="p">Da, tocmai ast&#259;-sear&#259; citeam cu nenea Nae, în gazeta dumneavoastr&#259;, cum scri&#355;i despre ciocoi c&#259; m&#259;nânc&#259; sudoarea poporului suveran. Ei, bravos! Îmi place! Bine combate&#355;i reac&#355;iunea, nu pot s&#259; zic, &#351;tii colea, verde, române&#351;te. S&#259; v&#259; ajute Dumnezeu ca s&#259; sc&#259;pa&#355;i poporul de ciocoi!</p>
+<stage TEIform="stage">
+<p TEIform="p">(prinzând limb&#259;, dup&#259; ce a zâmbit cu mult&#259; satisfac&#355;ie de vorbele lui Jupân Dumitrache)</p>
+</stage>
+<p TEIform="p">Domnule, Dumnezeul nostru este poporul: <stage TEIform="stage">box populi, box dei</stage>! Noi n-avem alt&#259; credin&#355;&#259;, alt&#259; speran&#355;&#259;, decât poporul. (<stage TEIform="stage">Jupân Dumitrache ascult&#259; uimit.</stage>) Noi n-avem alt&#259; politic&#259; decât suveranitatea poporului; de aceea în lupta noastr&#259; politic&#259;, am spus-o &#351;i o mai spunem &#351;i o repet&#259;m necontenit tuturor cet&#259;&#355;enilor: "Ori to&#355;i s&#259; muri&#355;i, ori to&#355;i s&#259; sc&#259;p&#259;m!"</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Bravos! S&#259; tr&#259;ie&#351;ti! (<stage TEIform="stage">bate-n palme, încet c&#259;tre Ipingescu.</stage>) Vorbe&#351;te abitir, domnule. &#258;sta e bun de dipotat.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Hei! Las&#259;-l c&#259; ajunge el &#351;i dipotat curând-curând...</p>
+<stage TEIform="stage">
+<p TEIform="p">(În timpul acesta Ric&#259; a venit lâng&#259; Zi&#355;a.)</p>
+</stage>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Cum combate el, poate s&#259; ajung&#259; &#351;i ministru. (<stage TEIform="stage">tare c&#259;tr&#259; Ric&#259;, care st&#259; tot în grup.</stage>) M&#259; rog, onorabile, eu îmi cer iertare, &#351;ti&#355;i c&#259; poate, adineaori, cum &#355;iu eu la... poate, v-am adus un afront; dar e &#351;i vina dumneavoastr&#259;; nu &#351;tiam c&#259; veniser&#259;&#355;i pentru Zi&#355;a...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<p TEIform="p">M&#259; rog, pardon, vina nu este nici a mea, nici a dumitale, nici a madam Zi&#355;ii: este a t&#259;bli&#355;ii de la poart&#259;... Dumneaei îmi scrisese c&#259; &#351;ade la num&#259;rul 9... am v&#259;zut la poart&#259; num&#259;rul 9 &#351;i am intrat. (<stage TEIform="stage">vorbe&#351;te încet cu Zi&#355;a, Veta &#351;i Chiriac.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(c&#259;tre Ipingescu)</p>
+</stage>
+<p TEIform="p">A&#351;a e; asta me&#351;terul Dinc&#259; binagiul mi-a f&#259;cut-o; a tencuit zidul de la poart&#259; &#351;i mi-a b&#259;tut num&#259;rul 6 d-a-ndoaselea; s&#259;-l pui mâine s&#259; mi-l întoarc&#259; la loc, s&#259; nu mi se mai întâmple vreun conflict.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(care s-a g&#259;sit în fund cu Veta, Zi&#355;a &#351;i Ric&#259;)</p>
+</stage>
+<p TEIform="p">Las&#259; ce-i spui eu &#351;i cu cocoana, dac&#259; v&#259; e ru&#351;ine. (<stage TEIform="stage">coboar&#259; cu Veta; Ric&#259; &#351;i Zi&#355;a se &#355;in în fund.</stage>) Jupâne.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Frate.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Ce-i, Chiriac, puiule? Ce-i Veto?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Avem s&#259; te rug&#259;m ceva.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Da'... s&#259; nu ne tratezi cu refuz.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Orice; m&#259; &#351;tii cum &#355;iu la nevast&#259; &#351;i la tine.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<p TEIform="p">Uite ce e: musiu Ric&#259; &#351;i cu Zi&#355;a comp&#259;timesc împreun&#259;.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(încântat)</p>
+</stage>
+<p TEIform="p">Ei! A&#351;a e, ale tinere&#355;ii valuri!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">&#350;i le e ru&#351;ine s&#259;-&#355;i spuie c&#259; ar vrea s&#259;...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">S&#259;... ce?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">Ei! Nu &#351;tii dumneata? S&#259; puie pirostriile!... Vrei &#351;i Dumneata?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(r&#259;pit)</p>
+</stage>
+<p TEIform="p">Dac&#259; dumnealui cabulipse&#351;te s&#259; ne onoreze cu atâta cinste... de! Zestrea nu-i a&#351;a mare, &#351;i dumnealui e... &#351;tii, ceva mai sus... noi suntem negustori.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(coborând)</p>
+</stage>
+<p TEIform="p">Cet&#259;&#355;ene, suntem sub regimul libert&#259;&#355;ii, egalit&#259;&#355;ii &#351;i fraternit&#259;&#355;ii: unul nu poate fi mai sus decât altul, nu permite Constitu&#355;ia.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Rezon!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(lui Ipingescu)</p>
+</stage>
+<p TEIform="p">Bine vorbe&#351;te, domnule, bravos!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<p TEIform="p">Eu, dac&#259; comp&#259;time&#351;te &#351;i madam Zi&#355;a la suferin&#355;a mea...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Mai e vorb&#259;! Cum s&#259; nu comp&#259;timeasc&#259;? Zi&#355;o, nene, ia vino-ncoa. (<stage TEIform="stage">Zi&#355;a vine ru&#351;inoas&#259;.</stage>) Ei! Nu-&#355;i mai fie ru&#351;ine: ale tinere&#355;ii valuri... Vrei?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">Eu fac ce vrei dumneata; îmi e&#351;ti ca &#351;i un frate mai mare.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Ei! S&#259; v&#259; fie de bine, &#351;i ceasul &#259;l bun s&#259;-l dea Pronia. (<stage TEIform="stage">încet Zi&#355;ii.</stage>) S&#259;-&#355;i cinste&#351;ti b&#259;rbatul: &#259;sta e om, nu glum&#259;; &#355;i-ai g&#259;sit norocul.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ZI&#354;A</speaker>
+<p TEIform="p">Mersi, nene. (<stage TEIform="stage">trece în fund.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Pentru pu&#355;in. (<stage TEIform="stage">lui Ric&#259;.</stage>) Ei acum, cumnate, ia s&#259; vorbim o vorb&#259; colea între b&#259;rba&#355;i, cocoanele s&#259; nu asculte; &#351;tiin dumneata, nene Nae, cum sunt cocoanele...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Ru&#351;inoase... mie-mi spui?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(lui Ric&#259; care a venit lâng&#259; ei)</p>
+</stage>
+<p TEIform="p">Toate ca toate, dar la onoarea de familist s&#259; &#355;ii.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">RIC&#258;</speaker>
+<p TEIform="p">Da, familia e patria cea mic&#259;, precum patria e familia cea mare; familia este baza societ&#259;&#355;ii.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">A&#351;a e, bravos! (<stage TEIform="stage">lui Ipingescu.</stage>) Toate le &#351;tie, îmi place...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Apoi dac&#259;-i jurnalist...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">VETA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(din fund c&#259;tre Jupân Dumitrache)</p>
+</stage>
+<p TEIform="p">Ei! Toate bune, fr&#259;&#355;ico, dar noi nu dormim în noaptea asta? Chiriac are s&#259; se scoale mâine pân&#259;-n ziu&#259; la ezirci&#355;.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Mai e vorb&#259;, soro, cum s&#259; nu?</p>
+<stage TEIform="stage">
+<p TEIform="p">(To&#355;i se dispun a se retrage; Ric&#259; e cu Zi&#355;a, Chiriac cu Veta, Jupân Dumitrache suie cu Ipingescu.)<lb TEIform="lb"/>
+</p>
+</stage>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(lui Jupân Dumitrache)</p>
+</stage>
+<p TEIform="p">Onorabile, îndatoreaz&#259;-m&#259; cu o &#355;igar&#259; de tutun.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">&#350;i cu dou&#259;, nene Nae. (<stage TEIform="stage">bag&#259; mâna s&#259; scoa&#355;&#259; tabachera &#351;i se opre&#351;te încruntat cu mâna în buzunar.</stage> Nene Nae! Chiriac!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(coborând lâng&#259; Jupân Dumitrache)</p>
+</stage>
+<p TEIform="p">Ce-i, jupâne?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(luând pe Chiriac &#351;i pe Ipingescu de mân&#259; &#351;i aducându-i dramatic în fa&#355;a scenii)</p>
+</stage>
+<p TEIform="p">Toate le-am l&#259;murit; bine, de cumnatul Ric&#259; nu mai am ce s&#259; zic; dar s&#259; v&#259; ar&#259;t ce am g&#259;sit pe pernele patului dumneaei,... c&#259; uitasem;... îmi vine s&#259; intru la b&#259;nuieli rele.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(înfiorat)</p>
+</stage>
+<p TEIform="p">Ce-ai g&#259;sit, jupâne?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<p TEIform="p">Uite. (<stage TEIform="stage">scoate din buzunar o leg&#259;tur&#259; de gât.</stage>)</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Frumoas&#259; leg&#259;tur&#259;, de &#351;ic!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">CHIRIAC</speaker>
+<p TEIform="p">A&#351;! Ado-ncoa, jupâne; asta-i leg&#259;tura mea, n-o &#351;tii dumneata?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">JUPÂN DUMITRACHE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(l&#259;murit)</p>
+</stage>
+<p TEIform="p">Ei, bat&#259;-te s&#259; te bat&#259;! De ce nu spui a&#351;a, frate? (<stage TEIform="stage">lui Ipingescu, cu filozofie.</stage>) Ei! Vezi?... Uite a&#351;a se orbe&#351;te omul la necaz!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">IPINGESCU</speaker>
+<p TEIform="p">Rezon!</p>
+<stage TEIform="stage">
+<p TEIform="p">(Pornesc cu to&#355;ii veseli spre fund.)</p>
+</stage>
+<stage TEIform="stage">
+<p TEIform="p">(Cortina)</p>
+</stage>
+<p TEIform="p"> </p>
+</sp>
+</div>
+</div>
+</body>
+</text>
+</TEI.2>

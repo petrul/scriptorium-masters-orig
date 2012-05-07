@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.5 //EN" "http://www.tei-c.org/Lite/DTD/teixlite.dtd">
+<TEI.2 lang="ro" TEIform="TEI.2">
+<teiHeader type="text" status="new" TEIform="teiHeader">
+<fileDesc TEIform="fileDesc">
+<titleStmt TEIform="titleStmt">
+<title TEIform="title">Povestiri didactice </title>
+<author TEIform="author">Ion Creang&#259;</author>
+</titleStmt>
+<editionStmt TEIform="editionStmt">
+<edition TEIform="edition">
+<date TEIform="date">2004-05-17T17:24:15</date>
+</edition>
+</editionStmt>
+<publicationStmt TEIform="publicationStmt">
+<authority TEIform="authority"/>
+<address TEIform="address">
+</address>
+</publicationStmt>
+<sourceDesc default="NO" TEIform="sourceDesc">
+<p TEIform="p">Written by OpenOffice</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc TEIform="profileDesc">
+<langUsage default="NO" TEIform="langUsage">
+<language id="ro" TEIform="language">ISO </language>
+</langUsage>
+</profileDesc>
+<revisionDesc TEIform="revisionDesc">
+<change TEIform="change">
+<date TEIform="date">2004-05-17T18:58:08</date>
+<respStmt TEIform="respStmt">
+<name TEIform="name">Adrian Petru Dimulescu</name>
+</respStmt>
+<item TEIform="item">revision</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+
+
+<text TEIform="text">
+
+<front TEIform="front">
+	<titlePage TEIform="titlePage"><titlePart type="main" TEIform="titlePart">Povestiri didactice</titlePart></titlePage>
+	<docAuthor TEIform="docAuthor">Ion Creang&#259;</docAuthor>
+	</front>
+
+<body TEIform="body">
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">P&#259;cal&#259;</head>
+<p TEIform="p">Un negustor, umblând prin mai multe sate &#351;i ora&#351;e, ca s&#259; cumpere grâu, p&#259;pu&#351;oi &#351;i altele, într-o zi ajunse la un pod &#351;i când era s&#259; treac&#259; v&#259;zu un om care se odihnea acolo: acesta era P&#259;cal&#259;. Negustorul, voind s&#259; afle ceva de la el, ca oricare negustor, se apropie de dânsul &#351;i-l întreb&#259;: </p>
+<p TEIform="p">&#8212; De unde e&#351;ti, m&#259;i cre&#351;tine?</p>
+<p TEIform="p">&#8212; Ia din sat de la noi, r&#259;spunse P&#259;cal&#259;.</p>
+<p TEIform="p">&#8212; Din care sat de la voi?</p>
+<p TEIform="p">&#8212; Iaca de acolo, tocmai de sub acel mal, ar&#259;tând negustorului cu mâna spre un deal. </p>
+<p TEIform="p">&#8212; Bine, dar ce sat e acela? Eu nu-l &#351;tiu.</p>
+<p TEIform="p">&#8212; Ei! cum s&#259; nu-l &#351;tii; e satul nostru, &#351;i eu de acolo vin.</p>
+<p TEIform="p">&#8212; Nu a&#351;a, m&#259;i prostule. Eu te-ntreb: acel sat pe a cui mo&#351;ie este &#351;i cum îi botezat? </p>
+<p TEIform="p">&#8212; Doamne! da' nu &#351;tii c&#259; mo&#351;iile sunt boiere&#351;ti &#351;i asta-i a cuconului nostru, ce &#351;ede la Bucure&#351;ti? Iar satu-l boteaz&#259; popa într-o c&#259;ld&#259;ru&#351;&#259; cu ap&#259;, cum îi scrie lui în c&#259;r&#355;i. </p>
+<p TEIform="p">Negustorul, privindu-l lung, zise în sine: M&#259;!... aista-i chiar P&#259;cal&#259;. </p>
+<p TEIform="p">&#8212; Dar cum te cheam&#259; pe tine?</p>
+<p TEIform="p">&#8212; Iaca!... ce m&#259;-ntreab&#259;. M&#259; cheam&#259; ca pe oricare: vin&#259;ncoace, ori vin aici! </p>
+<p TEIform="p">Negustorul începu a-&#351;i face cruce ca de naiba &#351;i iar îl întreb&#259;: </p>
+<p TEIform="p">&#8212; Dar cu chemarea împreun&#259; cum te mai strig&#259;?</p>
+<p TEIform="p">&#8212; Iaca a&#351;a: vino! u! m&#259;! r&#259;spunse P&#259;cal&#259;. Negustorul începu atunci a râde &#351;i zise: ce prost! Apoi îl mai întreb&#259;: </p>
+<p TEIform="p">&#8212; Dar ce bucate se fac acolo la voi?</p>
+<p TEIform="p">&#8212; Mai mult terci cu m&#259;m&#259;lig&#259; mânc&#259;m, zise P&#259;cal&#259;.</p>
+<p TEIform="p">&#8212; În&#355;elege-m&#259;, prostule! Nu te-ntreb de bucate fierte.</p>
+<p TEIform="p">&#8212; D-apoi de care bucate m&#259;-ntrebi?</p>
+<p TEIform="p">&#8212; Te-ntreb dac&#259; s-au f&#259;cut la voi grâu, orz &#351;i altele.</p>
+<p TEIform="p">&#8212; Da, s-au f&#259;cut pân&#259; la brâu, r&#259;spunse P&#259;cal&#259;.</p>
+<p TEIform="p">&#8212; Nu te-ntreb de în&#259;l&#355;ime, c&#259; doar n-am nevoie de paie pentru boi, ci a&#351; voi s&#259; &#351;tiu ce fel este la voi gr&#259;untele orzului. </p>
+<p TEIform="p">&#8212; S&#259;-&#355;i spun, dac&#259; nu &#351;tii, zise P&#259;cal&#259;. Gr&#259;untele orzului este lung&#259;re&#355;, îmbr&#259;cat c-o coaj&#259; cam g&#259;lbâie &#351;i c-o &#355;eap&#259; în vârf. </p>
+<p TEIform="p">&#8212; Bine, &#351;tiu de astea; dar spune-mi ce fel se vinde, c&#259; a&#351; voi s&#259; cump&#259;r &#351;i eu. </p>
+<p TEIform="p">&#8212; De! Nu &#351;tii domnia-ta ce fel? Unul d&#259; grâul ori orzul, &#351;i altul îi d&#259; bani: galbeni, napoleoni ori alt&#259;ceva. </p>
+<p TEIform="p">&#8212; Nu m&#259;-n&#355;elese&#351;i nici asta; eu te-ntreb: cum se d&#259;?</p>
+<p TEIform="p">&#8212; Bre!... Nici asta n-o &#351;tii. S&#259;-&#355;i spun eu: ei bani&#355;a ori dimerlia &#351;i pui în ea pân-o umpli cu vârf, apoi cu coada lope&#355;ii o razi &#351;-o torni în sac, pe urm&#259; iar&#259;&#351;i o umpli &#351;i tot asemene faci. </p>
+<p TEIform="p">&#8212; Eu nu te-ntreb asta, om f&#259;r&#259; cap ce e&#351;ti!</p>
+<p TEIform="p">&#8212; Dar ce fel m&#259;-ntrebi? zise P&#259;cal&#259;.</p>
+<p TEIform="p">&#8212; Cu ce pre&#355; se vinde chila ori bani&#355;a; câ&#355;i lei?</p>
+<p TEIform="p">&#8212; A&#351;a cum te-nvoie&#351;ti; &#351;i câ&#355;i lei dai atâta iei.</p>
+<p TEIform="p">Negustorul, sup&#259;rat, îl mai întreb&#259;:</p>
+<p TEIform="p">&#8212; Neghiobi ca tine mai sunt acolo-n sat?</p>
+<p TEIform="p">&#8212; U! hu!... este badea Mu&#351;at, badea Stan, Neagu, Voicu, Florea, Soare, badea Bran, Coman &#351;i al&#355;ii. </p>
+<p TEIform="p">&#8212; Ho! m&#259;, destul! Dar cine este mai mare decât to&#355;i la voi în sat? </p>
+<p TEIform="p">&#8212; Cine-i mai mare? Badea Chi&#355;u; el e mai nalt decât to&#355;i; e atât de lung, încât mai n-ajungi cu mâna la um&#259;rul s&#259;u. </p>
+<p TEIform="p">&#8212; Bre!... proast&#259; lighioaie mai e&#351;ti! Nu te-ntreb a&#351;a.</p>
+<p TEIform="p">&#8212; Dar cum? zise P&#259;cal&#259;.</p>
+<p TEIform="p">&#8212; Eu î&#355;i zic: pe cine asculta&#355;i voi aici în sat?</p>
+<p TEIform="p">&#8212; I! ha! auzi vorb&#259;! Ascult&#259;m pe l&#259;utarul mo&#351; Bran; când începe s&#259; cânte, tot satul st&#259; cu ochii &#351;i urechile &#355;int&#259; la el. </p>
+<p TEIform="p">&#8212; Nu zic a&#351;a, m&#259;i n&#259;t&#259;r&#259;ule! R&#259;spunde-mi odat&#259; cum te-ntreb. </p>
+<p TEIform="p">&#8212; Ei, cum?</p>
+<p TEIform="p">&#8212; Eu te-ntreb de cine ave&#355;i fric&#259; aici în sat mai mult.</p>
+<p TEIform="p">&#8212; Valeu, maic&#259;! Ia de buhaiul lui mo&#351; popa, mare fric&#259; mai avem, m&#259;mulic&#259;! Când vine seara de la p&#259;scut, fugim de el care încotro apuc&#259;m; c&#259; atât e de înfrico&#351;at, de gânde&#351;ti c&#259; e turbat; când începe s&#259; mugeasc&#259;, sperie chiar &#351;i copiii din sat. </p>
+<p TEIform="p">&#8212; M&#259;!... da'! ce namil&#259; de om e&#351;ti tu? Nu cumva e&#351;ti vrun duh r&#259;u, frate cu Miaz&#259;noapte sau cu Spaima-p&#259;durii? </p>
+<p TEIform="p">&#8212; Ei, Doamne! De ce m&#259;-ntrebi, când m&#259; prive&#351;ti? Ce? Nu m&#259; vezi c&#259;-s om ca &#351;i dumneata: cu cap, cu ochi, gur&#259;, nas, mâini &#351;i cu picioare, m&#259; mi&#351;c &#351;i m&#259; uit ca to&#355;i. </p>
+<p TEIform="p">&#8212; A&#351;a te v&#259;d &#351;i eu, dar ai minte &#351;i sim&#355;ire abia ca un dobitoc. Ia spune-mi, z&#259;u: ave&#355;i butnari sau dogari în sat la voi? </p>
+<p TEIform="p">&#8212; Avem.</p>
+<p TEIform="p">&#8212; Na cinci bani, &#351;i du-te s&#259;-&#355;i pun&#259; doagele ce-&#355;i lipsesc.</p>
+<p TEIform="p">Prostia din n&#259;scare, leac în lume nu mai are; ea este o urâcioas&#259; boal&#259;, ce nu se vindec&#259; în &#351;coale, ba nici în spitale. </p>
+</div>
+
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Inul &#351;i c&#259;ma&#351;a</head>
+<p TEIform="p"><emph TEIform="emph">Inul:</emph> &#8212; &#350;tii tu, c&#259;m&#259;&#351;&#259; drag&#259;, ce erai odat&#259;? </p>
+<p TEIform="p">&#8212; Ce s&#259; fiu? Eram ceea ce m&#259; vezi: c&#259;ma&#351;&#259; alb&#259;, cu care se îmbrac&#259; oamenii. </p>
+<p TEIform="p">&#8212; Nu-i a&#351;a! Ai fost o s&#259;mân&#355;&#259;, apoi o buruian&#259;, cl&#259;tinat&#259; de vânt, ca toate buruienile: a&#351;a nalt&#259;, sub&#355;irea, tocmai de potriva mea; erai in cu floricic&#259; albastr&#259;, fata mea. Când ai fost crescut &#351;i copt, cum sunt eu acum, oamenii te-au smuls din p&#259;mânt, te-au legat în fuioare, te-au pus cop&#259;cel, &#351;i te-au l&#259;sat la soare, ca s&#259; te usuci. Dup&#259; aceea te-au culcat pe &#355;ol &#351;i te-au b&#259;tut cu be&#355;e, ca s&#259;-&#355;i scoat&#259; s&#259;mân&#355;a; apoi, b&#259;tut &#351;i stâlcit cum erai, te-au dus la balt&#259; &#351;i te-au pus în topitoare, unde-ai stat vro zece zile, ca s&#259; te tope&#351;ti, adic&#259; s&#259;-&#355;i putrezeasc &#259; hlujul. Dup&#259; asta, te-au scos &#351;i te-au pus iar&#259;&#351;i la soare, ca s&#259; te usuci, rezemându-te de gardul pe care e&#351;ti întins&#259; acum. Fiind uscat, te-au meli&#355;at, &#351;i hlujul t&#259;u s-a pref&#259;cut în puzderie, iar&#259; coji&#355;a ta în fuior. Femeile apoi te-au r&#259;gilat, te-au periat &#351;i te-au f&#259;cut fuior frumos &#351;i moale ca m&#259;tasa; din fuior te-au f&#259;cut caier, te-au pus în furc&#259; &#351;i au început a toarce, pref&#259;cându-te în tort sau a&#355;&#259;. Tortul l-au dep&#259;nat pe râ&#351;chitor, spre a-l face c&#259;leap; c&#259;lepele s-au fiert cu le&#351;ie, s&#259; se în&#259;lbeasc&#259;, apoi le-au pus pe vârtelni&#355;&#259;, de pe care au început a le dep&#259;na pe mosoare cu letca; de pe mosoare te-au urzit pe urzoi, apoi te-au luat &#351;i te-au învelit pe sulul de dinapoi, punând vergele printre p&#259;turi, ca s&#259; nu se hrentuiasc&#259; urzeala; &#351;i fuscei printre rost, ca s&#259; nu se încâlceasc&#259; natra. Dup&#259; asta te-au nevedit, trecându-te prin i&#355;e &#351;i prin spat&#259;; &#351;i, cu ajutorul slobozitorului, al z&#259;vorului &#351;i al lop&#259;&#355;elei, te-au întins în stative, legându-te de sulul de dinainte, de unde se începe "gura pânzei". C&#259;lepele l&#259;sate pentru b&#259;t&#259;tur&#259; le-au dep&#259;nat pe &#355;evi cu sucala, apoi, punând &#355;evile în suveic&#259;, au început a &#355;ese, adic&#259; a trece b&#259;t&#259;tura printre urzeal&#259; cu ajutorul t&#259;lpigilor, al scrip&#355;ilor &#351;i al i&#355;elor. Ca s&#259; se îndeseasc&#259; firele, b&#259;t&#259;tura se bate cu vatalele, între care e a&#351;ezat&#259; spata. &#350;i iaca a&#351;a te-au pref&#259;cut în pânz&#259;. Când era cald afar&#259; &#351;i frumos, femeile te-au dus la balt&#259; &#351;i te-au ghilit; apoi te-au fiert cu le&#351;ie &#351;i iar te-au ghilit, pân&#259; te-ai în&#259;lbit. Când erai alb&#259; cum trebuie, te-au uscat, te-au f&#259;cut v&#259;l&#259;tuc, te-au croit &#351;i au f&#259;cut din tine ceea ce e&#351;ti acum. </p>
+<p TEIform="p">&#8212; Mic&#259; buruian&#259;, nu &#351;tiu de unde-ai mai scos atâtea despre mine. </p>
+<p TEIform="p">&#8212; Ei, drag&#259;, dar poate nu &#351;tii c&#259; oamenii mai fac pânz&#259; &#351;i din sora noastr&#259; cânep&#259;, &#351;i din fratele nostru bumbac, ba &#351;i din înghimp&#259;toarea urzic&#259; mai fac un fel de pânz&#259;. Dar în fabrici se &#355;es fel-de-fel de pânzeturi, mult mai u&#351;or &#351;i în timp mult mai scurt. </p>
+<p TEIform="p">&#8212; Bre! multe mai auzi! &#8212; Mai a&#351;teapt&#259;, c&#259; n-am sfâr&#351;it înc&#259;. Din c&#259;ma&#351;&#259; sau ruf&#259;, peste câtva timp ai s&#259; te faci tearf&#259;, din care se face scam&#259; pentru bolnavii din spitale &#351;i pentru solda&#355;ii r&#259;ni&#355;i în b&#259;t&#259;lie. Apoi te caut&#259;, ca iarba de leac, s&#259; fac&#259; la fabric&#259; din tine hârtie. </p>
+<p TEIform="p">&#8212; Mare minune mi-ai spus, drag&#259; buruian&#259;, zise c&#259;m&#259;&#351;a. De-a fi a&#351;a, apoi toate lucrurile nu sunt ceea ce se v&#259;d, ci alt&#259;ceva au fost odat&#259;, alt&#259;ceva sunt acum &#351;i alt&#259;ceva au s&#259; fie. </p>
+<p TEIform="p">&#8212; Tocmai a&#351;a, soro! Gardul, pe care e&#351;ti tu întins&#259; acum, a fost alt&#259;dat&#259; p&#259;dure. Ce are s&#259; fie de acum înainte? M&#259;tas&#259;, frunz&#259; de dud intrat&#259; în pântecele unor gândaci. Varul, ce-a fost mai înainte? Dar funiile &#351;i odgoanele? &#351;.a. </p>
+<p TEIform="p">Femeile lene&#351;e de la &#355;ar&#259; au cântecul acesta: </p>
+
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Pusei pânza, când da frunza,</l>
+<l part="N" TEIform="l">&#350;-o g&#259;tii la Sân-V&#259;sii</l>
+<l part="N" TEIform="l">&#350;i-mi p&#259;ru c&#259; m&#259; gr&#259;bii...</l>
+<l part="N" TEIform="l">&#350;i de lung&#259;-i ca o pung&#259; </l>
+<l part="N" TEIform="l">&#350;i de lat&#259;... toat&#259;-i spart&#259;! </l>
+<l part="N" TEIform="l">Pe sulul de dinapoi </l>
+<l part="N" TEIform="l">O sut&#259; de l&#259;tunoi, </l>
+<l part="N" TEIform="l">Pe sulul de dinainte </l>
+<l part="N" TEIform="l">Cioprea le mai &#355;ine minte. </l>
+<l part="N" TEIform="l">Printre i&#355;e &#351;i-ntre spat&#259; </l>
+<l part="N" TEIform="l">Pa&#351;te-o iap&#259; de&#351;elat&#259;; </l>
+<l part="N" TEIform="l">Pintre i&#355;e &#351;i fuscei </l>
+<l part="N" TEIform="l">Pa&#351;te-o scroaf&#259; cu purcei. </l>
+</lg>
+
+<p TEIform="p"><emph TEIform="emph">(Poezie popular&#259;) </emph></p>
+</div>
+
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Acul &#351;i barosul</head>
+<p TEIform="p"><emph TEIform="emph">Acul:</emph> &#8212; Mo&#351;ule, de ce e&#351;ti zurbagiu? Te sf&#259;de&#351;ti necontenit cu sor&#259;-ta nicovala, &#355;ipa&#355;i &#351;i face&#355;i larm&#259;, de-mi &#355;iuie urechile. Eu lucrez toat&#259; ziua, &#351;i nime nu-mi aude gura. </p>
+<p TEIform="p">&#8212; Iaca, m&#259;!... da de unde-ai ie&#351;it, Pâcal&#259;? &#8212; De unde-am ie&#351;it, de unde n-am ie&#351;it, eu î&#355;i spun c&#259; nu faci bine ceea ce faci. </p>
+<p TEIform="p">&#8212; Na! vorba ceea: a ajuns oul mai cu minte decât g&#259;ina. M&#259;i b&#259;iete, trebuie s&#259; &#351;tii c&#259; din sf&#259;d&#259;lia noastr&#259; ai ie&#351;it; &#351;-apoi tu ne cau&#355;i pricin&#259;? </p>
+<p TEIform="p">&#8212; M&#259; rog, ierta&#355;i-m&#259;! c&#259; dac&#259; n-ar fi fost focul, foile, pleaftura &#351;i omul care s&#259; v&#259; fac&#259; &#351;i s&#259; v&#259; dea nume, a&#355;i fi r&#259;mas mult &#351;i bine în fundul p&#259;mântului, ruginite ca vai de voi. </p>
+<p TEIform="p">&#8212; M&#259;soar&#259;-&#355;i vorbele, b&#259;iete! Auzi, sor&#259; nicoval&#259;, cum ne râde acu&#351;orul? </p>
+<p TEIform="p">&#8212; Aud, dar n-am gur&#259; s&#259;-i r&#259;spund; &#351;i v&#259;d, dar trebuie s&#259; rabd. </p>
+<p TEIform="p">&#8212; Vorba ceea, soro: "&#350;ede hârbu-n cale &#351;i râde de oale". M&#259;i pu&#351;chiule! ia s&#259; vedem, ce ai f&#259;cut tu mai mult decât noi? </p>
+<p TEIform="p">&#8212; Ce am f&#259;cut &#351;i ce fac, îndat&#259; &#355;-oi spune. Ca s&#259; nu lungesc vorba, hainele b&#259;rb&#259;te&#351;ti &#351;i femeie&#351;ti, din cre&#351;tet pân&#259; în t&#259;lpi, &#351;i alte nenum&#259;rate lucruri frumoase &#351;i scumpe, f&#259;r&#259; mine nu se pot face. Mergi la croitor, intr&#259; în bordei, suie-te în palat, ai s&#259; m&#259; g&#259;se&#351;ti. Fetele m&#259; pun în cutiu&#355;e aurite, m&#259; înfig în pernu&#355;e de m&#259;tas&#259; &#351;i îngrijesc de mine ca de un mare lucru. </p>
+<p TEIform="p">&#8212; Da' în stogul de fân nu vrei s&#259; te pun&#259;, mititelule? &#8212; Nici în stogul de fân, dar nici trântit într-un ungher al fier&#259;riei, ca tine. Ia spune-mi: te mai ia cineva în mân&#259; decât fierarul? </p>
+<p TEIform="p">&#8212; Ia ascult&#259;, te prea întreci cu &#351;aga, piciule! Dac&#259; &#351;ezi la cinste, &#351;i to&#355;i îngrijesc de tine, cum zici, de ce le împungi degetele? </p>
+<p TEIform="p">&#8212; Da, împung pe casc&#259; gur&#259; cel somnoros, pentru c&#259; voiesc s&#259; ias&#259; din mâna lui, prin ajutorul meu, multe lucruri folositoare &#351;i frumoase. Tu, pentru ce ba&#355;i fierul cel culcat pe nicoval&#259; &#351;i ruginit ca &#351;i tine? Nu ca s&#259; faci din el lucruri mai bune &#351;i mai frumoase? </p>
+<p TEIform="p">&#8212; M&#259;i... da' bun e&#351;ti de gur&#259;! &#8212; &#350;i de gur&#259;, dar &#351;i de lucru. &#8212; Ei bine, tu mi-ai în&#351;irat verzi &#351;i uscate; ia stai s&#259;-&#355;i spun &#351;i eu pe ale mele: toporul, barda, ciocanul, cle&#351;tele, v&#259;trarul &#351;i nenum&#259;ratele unelte &#351;i ma&#351;ini de fier, unele de-o m&#259;rime uria&#351;&#259;, iar altele mici &#351;i bicisnice ca tine, pututu-s-au face pân&#259; n-au trecut printre nicoval&#259; &#351;i il&#259;u? Casa, bisericile, corabia, pu&#351;tile, tunurile &#351;i alte lucruri nenum&#259;rate, a&#351;a-i c&#259; n-ar fi, de nu eram eu? Tu îmi spui de haine frumoase; eu &#355;i-oi spune de cas&#259;, de sap&#259;, de secere, de coas&#259; &#351;i de plug. Tu îmi spui mai mult de frumos, eu &#355;i-oi spune de cele neap&#259;rat trebuincioase. </p>
+<p TEIform="p">&#8212; M&#259; faci s&#259; te-apuc iar la sc&#259;rm&#259;nat, mo&#351;ule baros. Haine i-au trebuit omului întâi, c&#259;ci nu era s&#259; umble cu pielea goal&#259; &#351;i descul&#355; ca gâ&#351;tele. </p>
+<p TEIform="p">&#8212; Te-ai încurcat în socoteli, m&#259;i b&#259;iete. Ba de mâncare &#351;i cas&#259; i-a trebuit omului întâi &#351;-apoi haine frumoase, cum zici tu; cu rufe de ale tale î&#355;i ghior&#259;iesc ma&#355;ele de foame. Ai auzit vorba ceea, c&#259; "Gol&#259;tatea încunjur&#259;, iar foamea d&#259; de-a dreptul". </p>
+<p TEIform="p">&#8212; M&#259;i! da' ruginit mai e&#351;ti! &#8212; Ruginit cum sunt, eu v-am f&#259;cut &#351;i trebuie s&#259; ascul&#355;i de sfaturile mele. </p>
+<p TEIform="p">&#8212; A&#351;a este, dar te prea lauzi; las' mai bine s&#259; te laude al&#355;ii. &#350;i tu faci trebi bune, &#351;i eu; numai atâta c&#259; tu faci lucruri mai din topor, eu mai delicate; tu &#351;ezi totdeauma cu fierarul cel uns de c&#259;rbuni, iar eu &#351;ed cu croitorul &#351;i cu tot felul de persoane. </p>
+<p TEIform="p">&#8212; Iar ai început, ghibirdic fudul &#351;i guraliv? Croitorul t&#259;u trebuie s&#259; împung&#259; mai mult de zece ori, pân&#259; când fierarul meu m&#259; ridic&#259; o dat&#259;; croitorul t&#259;u rupe alt&#259; dat&#259; pe zi câte zece ace; fierarul îns&#259; m&#259; are pe via&#355;&#259;, ba m&#259; poate l&#259;sa &#351;i de zestre la copiii de copiii s&#259;i. &#350;-apoi înc&#259; una: cine dintre ace&#351;ti doi me&#351;teri e mai greb&#259;nos &#351;i mai gubav? Fierariul meu ori croitoriul t&#259;u? </p>
+<p TEIform="p">&#8212; Mo&#351;ule! e&#351;ti b&#259;trân &#351;i multe mai &#351;tii; fie pe-a dumitale. &#8212; Bine, mititelule! Ia acum ai mai venit de-acas&#259;. Zi mai bine c&#259; industria sau me&#351;te&#351;ugurile noi le-am adus în lume; c&#259; bog&#259;&#355;iile cele mari, nou&#259; se datoresc. Mi-ai zis ruginit &#351;i &#355;i-ai zis cioplit; mie-mi pare bine ca str&#259;nepo&#355;ii mei s&#259; fie mai ciopli&#355;i decât mine; cu timpul se cioplesc toate... Numai nu v&#259; fuduli&#355;i &#351;i nu uita&#355;i obâr&#351;ia voastr&#259;, ca nu cumva s&#259; v&#259; ciopli&#355;i prea tare &#351;i s&#259; r&#259;mâne&#355;i care f&#259;r&#259; urechi, care f&#259;r&#259; din&#355;i, care f&#259;r&#259; gur&#259;, care f&#259;r&#259; zim&#355;i, adic&#259; ni&#351;te cioarse de nici o treab&#259;. C-apoi atunci iar&#259;&#351;i mi-&#355;i ajunge dr&#259;gu&#351; la c&#259;u&#351;, &#351;i sor&#259;-mea nicovala v&#259; va &#355;ine în spate, iar eu v&#259; voi bate pe rud&#259; pe s&#259;mân&#355;&#259;, ca s&#259; prinde&#355;i la minte. </p>
+</div>
+
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Ursul p&#259;c&#259;lit de vulpe</head>
+<p TEIform="p">Era odat&#259; o vulpe viclean&#259;, ca toate vulpile. Ea umblase o noapte întreag&#259; dup&#259; hran&#259; &#351;i nu g&#259;sise nic&#259;ieri. F&#259;cându-se ziua alb&#259;, vulpea iese la marginea drumului &#351;i se culc&#259; sub tuf&#259;, gândindu-se ce s&#259; mai fac&#259;, ca s&#259; poat&#259; g&#259;si ceva de mâncare. </p>
+<p TEIform="p">&#350;ezând vulpea cu botul întins pe labele de dinainte, îi vine miros de pe&#351;te. Atunci ea ridic&#259; pu&#355;in capul &#351;i, uitându-se la vale, în lungul drumului, z&#259;re&#351;te venind un car tras de doi boi. </p>
+<p TEIform="p">&#8212; Bun! gândi vulpea. Iaca hrana ce-o a&#351;teptam eu. &#350;i îndat&#259; iese de sub tuf&#259; &#351;i se lunge&#351;te în mijlocul drumului, ca &#351;i cum ar fi fost moart&#259;. </p>
+<p TEIform="p">Carul apropiindu-se de vulpe, &#355;&#259;ranul ce mâna boii o vede &#351;i, crezând c&#259;-i moart&#259; cu adev&#259;rat, strig&#259; la boi: Aho! aho! Boii se opresc. &#354;&#259;ranul vine spre vulpe, se uit&#259; la ea de aproape &#351;i, v&#259;zând-o c&#259; nici nu sufl&#259;, zice: Bre! da' cum naiba a murit vulpea asta aici?! Ti!... ce frumoas&#259; ca&#355;aveic&#259; am s&#259; fac nevestei mele din blana istui vulpoi! Zicând a&#351;a, apuc&#259; vulpea de dup&#259; cap &#351;i, târând-o pân&#259; la car, se opinte&#351;te &#351;-o arunc&#259; deasupra pe&#351;telui. Apoi strig&#259; la boi: h&#259;is! Joian, cea! Bourean. Boii pornesc. </p>
+<p TEIform="p">&#354;&#259;ranul mergea pe lâng&#259; boi &#351;i-i tot îndemna s&#259; mearg&#259; mai iute, ca s-ajung&#259; degrab&#259; acas&#259; &#351;i s&#259; ia pielea vulpii. </p>
+<p TEIform="p">Îns&#259;, cum au pornit boii, vulpea a &#351;i început cu picioarele a împinge pe&#351;tele din car jos. &#354;&#259;ranul mâna, carul scâr&#355;âia, iar pe&#351;tele din car c&#259;dea. </p>
+<p TEIform="p">Dup&#259; ce hoa&#355;a de vulpe a aruncat o mul&#355;ime de pe&#351;te pe drum, bini...&#351;or! sare &#351;i ea din car &#351;i, cu mare grab&#259;, începe a strânge pe&#351;tele de pe drum. Dup&#259; ce l-a strâns gr&#259;mad&#259;, îl ia, îl duce la bizunia sa &#351;i începe a mânca, c&#259; ta...re-i mai era foame! </p>
+<p TEIform="p">Tocmai când începuse a mânca, iaca vine la dânsa ursul. &#8212; Bun&#259; masa, cum&#259;tr&#259;! Ti!!! da' ce mai de pe&#351;te ai! D&#259;-mi &#351;i mie, c&#259; ta...re! mi-i poft&#259;! </p>
+<p TEIform="p">&#8212; Ia mai pune-&#355;i pofta-n cui, cum&#259;tre, c&#259; doar nu pentru gustul altuia m-am muncit eu. Dac&#259; &#355;i-i a&#351;a de poft&#259;, du-te &#351;i-&#355;i moaie coada-n balt&#259;, &#351;i-i avea pe&#351;te s&#259; m&#259;nânci. </p>
+<p TEIform="p">&#8212; Înva&#355;&#259;-m&#259;, te rog, cum&#259;tr&#259;, c&#259; eu nu &#351;tiu cum se prinde pe&#351;tele. </p>
+<p TEIform="p">Atunci vulpea rânji din&#355;ii &#351;i zise: "Alei, cum&#259;tre! da' nu &#351;tii c&#259; nevoia te duce unde nu-&#355;i e voia &#351;i te-nva&#355;&#259; ce nici gânde&#351;ti? Ascult&#259;, cum&#259;tre: vrei s&#259; m&#259;nânci pe&#351;te? Du-te desear&#259; la b&#259;ltoaca cea din marginea p&#259;durii, vâr&#259;-&#355;i coada-n ap&#259; &#351;i stai pe loc, f&#259;r&#259; s&#259; te mi&#351;ti, pân&#259; despre ziu&#259;; atunci smunce&#351;te vârtos spre mal &#351;i ai s&#259; sco&#355;i o mul&#355;ime de pe&#351;te, poate îndoit &#351;i-ntreit de cât am scos eu". </p>
+<p TEIform="p">Ursul, nemaizicând nici o vorb&#259;, alearg&#259;-n fuga mare la b&#259;ltoaca din marginea p&#259;durii &#351;i-&#351;i vâr&#259;-n ap&#259; toat&#259; coada!... </p>
+<p TEIform="p">În acea noapte începuse a bate un vânt rece, de înghe&#355;a limba-n gur&#259; &#351;i chiar cenu&#351;a de sub foc. Înghea&#355;&#259; zdrav&#259;n &#351;i apa din b&#259;ltoac&#259;, &#351;i prinde coada ursului ca într-un cle&#351;te. De la o vreme ursul, nemaiputând de durerea cozii &#351;i de frig, smunce&#351;te o dat&#259; din toat&#259; puterea. &#350;i, s&#259;rmanul urs, în loc s&#259; scoat&#259; pe&#351;te, r&#259;mâne f&#259;r' de coad&#259;! </p>
+<p TEIform="p">Începe el acum a morn&#259;i cumplit &#351;-a s&#259;ri în sus de durere; &#351;i-nciudat pe vulpe c&#259; l-a am&#259;git, se duce s-o ucid&#259; în b&#259;taie. Dar &#351;ireata vulpe &#351;tie cum s&#259; se fereasc&#259; de mânia ursului. Ea ie&#351;ise din bizunie &#351;i se vârâse în scorbura unui copac din apropiere; &#351;i când v&#259;zu pe urs c&#259; vine f&#259;r' de coad&#259;, începu a striga: </p>
+<p TEIform="p">&#8212; Hei, cum&#259;tre! Dar &#355;i-au mâncat pe&#351;tii coada, ori ai fost prea lacom &#351;-ai vrut s&#259; nu mai r&#259;mân&#259; pe&#351;ti în balt&#259;? </p>
+<p TEIform="p">Ursul, auzind c&#259; înc&#259;-l mai ia &#351;i în râs, se înciudeaz&#259; &#351;i mai tare &#351;i se repede iute spre copac; dar gura scorburii fiind strâmt&#259;, ursul nu putea s&#259; încap&#259; înl&#259;untru. Atunci el caut&#259; o creang&#259; cu cârlig &#351;i începe a cotrob&#259;i prin scorbur&#259;, ca s&#259; scoat&#259; vulpea afar&#259; &#351;i s&#259;-i dea de cheltuial&#259;... </p>
+<p TEIform="p">Dar când apuc&#259; ursul de piciorul vulpii, ea strig&#259;: "Trage, n&#259;t&#259;r&#259;ule! mie nu-mi pas&#259;, c&#259; tragi de copac..." Iar când anina cârligul de copac, ea striga: "Valeu, cum&#259;tre! nu trage, c&#259;-mi rupi piciorul!" </p>
+<p TEIform="p">În zadar s-a nec&#259;jit ursul, de-i curgeau sudorile, c&#259; tot n-a putut scoate vulpea din scorbura copacului. </p>
+<p TEIform="p">&#350;i iaca a&#351;a a r&#259;mas ursul p&#259;c&#259;lit de vulpe! </p>
+</div>
+</body>
+
+</text>
+</TEI.2>

@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="iso-8859-2"?> 
+
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" 
+"../../share/dtd/tei/myPizza.dtd" [
+
+<!ENTITY licenta SYSTEM "licenta-biblioteca-electronica.xml">
+
+]>
+
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Joc secund</title>
+	<author><name>Ion Barbu</name></author>
+      </titleStmt>
+      <publicationStmt>
+	<availability>
+	  <p>
+- ATENŢIE, CONSERVAŢI ACEASTĂ LICENŢĂ DACĂ REDISTRIBUIŢI ACEST FIŞIER - 
+
+
+	Licenţă Biblioteca Electronică
+	======================
+
+	Versiunea 1, August 1998 
+
+	Copyright (c) Radu Iliescu - Biblioteca Electronică
+
+http://www.lme.ro/~byblos/
+radu.iliescu@lme.ro
+
+	Baza de texte a Bibliotecii Electronice poate fi copiată, difuzată şi modificată în condiţiile următoare:
+
+	01) Orice copie în scopuri private, în scopuri de ilustrare a învăţămîntului şi în scopuri de cercetare este autorizată.
+
+	02) Introducerea oricărui text sau fragment într-un material de largă circulaţie trebuie să se facă însoţită de prezenta licenţă. Prezenţa oricărui text într-un material comercial fără prezenta licenţă este interzisă.
+
+	03) Antetul care însoţeste prezentul document trebuie integral păstrat.
+
+	04) Menţiunea producătorului original trebuie să existe, precum şi cea a contribuţiilor ulterioare.
+
+	05) Orice modificare ulterioară în sensul corectării erorilor sau punerii într-un alt format trebuie neîntîrziat adusă la cunoştinţa administratorului acestei biblioteci. Indicarea diferitelor modificări trebuie explicit precizată, precum şi datată. Acestea conferă autorului statutul de colaborator la Biblioteca Electronică.
+
+	06) Acestă licenţă se aplică inclusiv versiunilor ulterioare provenind de la colaboratorii Bibliotecii Electronice.
+
+	Copist: Radu Iliescu (radu.iliescu@lme.ro)
+
+	Acest fişier reproduce poeziile din ediţia Joc Secund, Editura pentru literatură, 1966.
+
+----------------------------------------Sfîrşitul licenţei Bibliotecii Electronice------------------------------------------
+
+	  </p>
+	</availability>
+
+      </publicationStmt>
+      <sourceDesc>
+	<!-- one of (recordingStmt scriptStmt listBibl biblStruct biblFull bibl p) -->
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <epigraph>
+	<cit>
+	  <quote>...ne fűt-ce pour vous en donner l'idée</quote>
+	  <bibl>Stéphane Mallarmé (Villiers)</bibl>
+	</cit>
+      </epigraph>
+    </front>
+    <body>
+      <div>
+	<head>Joc secund</head>
+	<lg>
+	  <l>
+Din ceas, dedus, adîncul acestei calme creste,</l>
+	  <l>
+	    Intrată prin oglindă în mîntuit azur,</l>
+	  <l>
+	    Tăind pe înecarea cirezilor agreste</l>
+	  <l>
+	    În grupurile apei un joc secund, mai pur.</l>
+	</lg>
+	<lg>
+	  <l>
+
+	    Nadir latent! Poetul ridică însumarea</l>
+	  <l>
+	    De harfe resfirate ce-n zbor invers le pierzi,</l>
+	  <l>
+	    Şi cîntec istoveşte: ascuns, cum numai marea</l>
+	  <l>
+	    Meduzele cînd plimbă sub clopotele verzi.</l>
+	</lg>
+      </div>
+
+
+      <div>
+	<head>Timbru</head>
+	<lg>
+	  <l>
+Cimpoiul veşted luncii, sau fluierul în drum</l>
+	  <l>
+	    Durerea divizată o sună-ncet, mai tare?</l>
+	  <l>
+	    Dar piatra-n rugăciune, a humei despuiare</l>
+	  <l>
+	    Şi unda logodită sub cer, vor spune - cum?</l>
+	</lg>
+	<lg>
+	  <l>
+
+	    Ar trebui un cîntec încăpător, precum</l>
+	  <l>
+	    Foşnirea mătăsoasă a mărilor cu sare;</l>
+	  <l>
+	    Ori lauda grădinii de îngeri, cînd răsare</l>
+	  <l>
+	    Din coasta bărbătească al Evei trunchi de fum.</l>
+	</lg>
+      </div>
+
+
+      <div>
+	<head>Grup</head>
+	<lg>
+	  <l>
+E temniţa în ars, nedemn pămînt.</l>
+	  <l>
+	    De ziuă, fînul razelor înşală;</l>
+	  <l>
+	    Dar capetele noastre, dacă sînt,</l>
+	  <l>
+	    Ovaluri stau, de var, ca o greşală.</l>
+	</lg>
+	<lg>
+	  <l>
+
+	    Atîtea clăile de fire stîngi!</l>
+	  <l>
+	    Găsi-vor gest închis, să le rezume,</l>
+	  <l>
+	    Să nege, dreaptă, linia ce frîngi:</l>
+	  <l>
+	    Ochi în virgin triunghi tăiat spre lume?</l>
+	</lg>
+      </div>
+
+
+      <div>
+	<head>Înecatul</head>
+	<lg>
+	  <l>
+Fulger străin, desparte această piatră-adîncă;</l>
+	  <l>
+	    Văi agere, tăiaţi-mi o zi ca un ochean!</l>
+	  <l>
+	    Atlanticei sunt robul vibrat spre un mărgean,</l>
+	  <l>
+	    Încununat cu alge, clădit în praf de stîncă,</l>
+	</lg>
+	<lg>
+	  <l>
+
+	    Un trunchi cu prăpădite crăci vechi, ce stau să pice,</l>
+	  <l>
+	    Din care alte ramuri, armate-n şerpi lemnoşi,</l>
+	  <l>
+	    Bat apele, din care baia albastră să despice</l>
+	  <l>
+	    Limbi verzi, şuierătoare, prin dinţii veninoşi.</l>
+	</lg>
+      </div>
+
+
+      <div>
+	<head>Orbite</head>
+	<lg>
+	  <l>
+Colo, dimineaţa mea,</l>
+	  <l>
+	    Viu altar îţi miruia:</l>
+	</lg>
+	<lg>
+	  <l>
+
+	    Ca Islande caste, norii</l>
+	  <l>
+	    În, dorită, harta orii,</l>
+	</lg>
+	<lg>
+	  <l>
+
+	    Ageri, şerpii ce purtai,</l>
+	  <l>
+	    Şerpii roşii, scurşi din rai.</l>
+	</lg>
+	<lg>
+	  <l>
+
+	    Şi, cules, albastrul benţii</l>
+	  <l>
+	    De pe jerbele Juvenţii.</l>
+	</lg>
+	<lg>
+	  <l>
+
+	    *</l>
+	</lg>
+	<lg>
+	  <l>
+
+	    Lăncile de iarbă mici</l>
+	  <l>
+	    Le păzea căţeaua Bitsch,</l>
+	</lg>
+	<lg>
+	  <l>
+
+	    Inimi mari dormeau pe ţară,</l>
+	  <l>
+	    Munţi, cu sîngele afară?</l>
+	</lg>
+	<lg>
+	  <l>Cunoscut acelor zori</l>
+	  <l>
+	    <seg>În fîntîni,</seg>
+	    <seg rend="indent(3)">în şerpi,</seg>
+	    <seg rend="indent(6)">în nori.</seg>
+	  </l>
+	</lg>
+      </div>
+
+
+      <div>
+	<head>Statură</head>
+	<lg>
+	  <l>
+Să nu prelingă, să nu pice</l>
+	  <l>
+	    Viu spiritul, robit în ea,</l>
+	  <l>
+	    La azimi albe să-l ridice:</l>
+	  <l>
+	    Sfiit pruncia ei trecea.</l>
+	</lg>
+	<lg>
+	  <l>
+
+	    Sori zilnici, grei, adreau sub dungă,</l>
+	  <l>
+	    Uşor sunau în răsărit;</l>
+	  <l>
+	    Şi nori ce nu ştiau s-ajungă</l>
+	  <l>
+	    Şi munţii, cîţi va fi-întîlnit,</l>
+	</lg>
+	<lg>
+	  <l>
+
+	    Suiau cu iezerii, să cate</l>
+	  <l>
+	    La anii falnici, douăzeci.</l>
+	  <l>
+	    Vedeau din ceasul ce nu bate</l>
+	  <l>
+	    - Din timp tăiat cu săbii reci.</l>
+	</lg>
+      </div>
+
+
+      <div>
+	<head>Încreat</head>
+	<lg>
+	  <l>
+Cu Treptele supui văditei gale</l>
+	  <l>
+	    Sfînt joc în speranţă, de pe sund,</l>
+	  <l>
+	    Treci pietrele apunerii egale</l>
+	  <l>
+	    Supt văile respinse, ce nu sunt.</l>
+	</lg>
+	<lg>
+	  <l>
+
+	    Ţi-e inima la vîrste viitoare</l>
+	  <l>
+	    Ca şearpele pe muzici înnodat,</l>
+	  <l>
+	    Rotit de două ori la mărul-soare,</l>
+	  <l>
+	    În minutare-aprins - şi încrestat.</l>
+	</lg>
+      </div>
+
+
+      <div>
+	<head>Izbăvită ardere</head>
+	<epigraph>de George Bacovia</epigraph>
+	<lg>
+	  <l>
+Curcanii au mutat pe soare şirul</l>
+	  <l>
+	    De gîturi cu, nestinşi, cartofii roşii.</l>
+	  <l>
+	    La cerul lăcrămat şi sfînt ca mirul</l>
+	  <l>
+	    Rotunzi se fac şi joacă pîntecoşii!</l>
+	</lg>
+	<lg>
+	  <l>
+
+	    Şuviţa stelei noi întinge-n ape,</l>
+	  <l>
+	    Un stăpînit pămînt ascultă ani,</l>
+	  <l>
+	    Pămîntul s-a lipit de steaua-aproape.</l>
+	  <l>
+	    Nuntesc, la curtea galbenă, curcani.</l>
+	</lg>
+      </div>
+
+
+      <div>
+	<head>Poartă</head>
+	<lg>
+	  <l>
+Suflete-n pătratul zilei se conjugă.</l>
+	  <l>
+	    Paşii lor sunt muzici, imnurile - rugă.</l>
+	  <l>
+	    Patru scoici, cu fumuri de iarbă de mare,</l>
+	  <l>
+	    Vindecă de noapte steaua-n tremurare.</l>
+	</lg>
+	<lg>
+	  <l>
+
+	    Pe slujite vinuri frimitură-i astru.</l>
+	  <l>
+	    Munţii-n Spirit, lucruri într-un Pod albastru.</l>
+	  <l>
+	    Raiuri divulgate! Îngeri trimeşi</l>
+	  <l>
+	    Fulgeră Sodomei fructul de măceş.</l>
+	</lg>
+      </div>
+
+
+      <div>
+	<head>Lemn sfînt</head>
+	<lg>
+	  <l>
+În văile Ierusalimului, la unul,</l>
+	  <l>
+	    Păios de raze, pămîntiu la piele:</l>
+	  <l>
+	    Un spic de-argint, în stînga lui, Crăciunul,</l>
+	  <l>
+	    Rusalii ard în dreapta-i cu inele.</l>
+	</lg>
+	<lg>
+	  <l>
+
+	    Pe acest lemn ce-aş vrea să curăţ, nu e</l>
+	  <l>
+	    Unghi ocolit de praf, icoană veche!</l>
+	  <l>
+	    Văd praful - rouă, rănile - tămîie?</l>
+	  <l>
+	    - Sfînt alterat, neutru, nepereche.</l>
+	</lg>
+      </div>
+
+
+      <div>
+	<head>Legendă</head>
+	<lg>
+	  <l>
+Străluminaţi ca nişte unghii,</l>
+	  <l>
+	    Sub scuturi, îngeri au lăsat</l>
+	  <l>
+	    Cherubul văii să-l înjunghii,</l>
+	  <l>
+	    - Sădiţi în aer ridicat.</l>
+	</lg>
+	<lg>
+	  <l>
+
+	    Şi limfa pajiştelor pale</l>
+	  <l>
+	    Se pleacă soarelui ferit</l>
+	  <l>
+	    Al certei sere animale:</l>
+	  <l>
+	    Îngînă sîngelui ivit.</l>
+	</lg>
+	<lg>
+	  <l>
+
+	    Scris, rîul trece - în mai - albastru</l>
+	  <l>
+	    Şi varurile zilei scad,</l>
+	  <l>
+	    E rana Taurului astru.</l>
+	  <l>
+	    Vădita ţară, Galaad.</l>
+	</lg>
+      </div>
+
+
+      <div>
+	<head>Aura</head>
+	<lg>
+	  <l>
+Mire, văzut ca femeiea,</l>
+	  <l>
+	    Cu părul săpat în volute,</l>
+	  <l>
+	    De Mercur cumpănit, nu de Geea,</l>
+	  <l>
+	    Căi lungi înapoi revolute;</l>
+	</lg>
+	<lg>
+	  <l>
+
+	    La conul acesta de seară,</l>
+	  <l>
+	    Cînd sufletul meu a căzut</l>
+	  <l>
+	    Şi cald, aplecatul tău scut</l>
+	  <l>
+	    Îl supse, ca pata de ceară,</l>
+	</lg>
+	<lg>
+	  <l>
+
+	    Crescut, între mîini ca de apă,</l>
+	  <l>
+	    Ce lucru al tainei cercai?</l>
+	  <l>
+	    Sub verdele lumilor plai</l>
+	  <l>
+	    Arai o lumină mioapă.</l>
+	</lg>
+      </div>
+
+
+      <div>
+	<head>Mod</head>
+	<lg>
+	  <l>
+Te smulgi cu zugrăviţii, scris în zid,</l>
+	  <l>
+	    La gama turlelor acelor locuri,</l>
+	  <l>
+	    Întreci oraşul pietrei, limpezit</l>
+	  <l>
+	    De roua harului arzînd pe blocuri,</l>
+	</lg>
+	<lg>
+	  <l>
+
+	    O, ceasuri verticale, frunţi tîrzii!</l>
+	  <l>
+	    Cer simplu, timpul. Dimensiunea, două;</l>
+	  <l>
+	    Iar sufletul impur, în calorii,</l>
+	  <l>
+	    Şi ochiul, unghi şi lumea aceasta-nouă.</l>
+	</lg>
+	<lg>
+	  <l>
+
+	    - Înaltă-n vînt te frîngi, să mă aştern</l>
+	  <l>
+	    O, iarba mea din toate mai frumoasă.</l>
+	  <l>
+	    Noroasă pata aceasta de infern!</l>
+	  <l>
+	    Dar ceasul - sus; trec valea răcoroasă.</l>
+	</lg>
+      </div>
+
+
+      <div>
+	<head>Secol</head>
+	<lg>
+	  <l>
+Răsărit al crestelor de păsări,</l>
+	  <l>
+	    Steme nicăiri în fîlfîit,</l>
+	  <l>
+	    Bîntuie, cînd soarelui voit</l>
+	  <l>
+	    Arcuite pajurile căţări.</l>
+	</lg>
+	<lg>
+	  <l>
+
+	    Seceri dintre secete-au sclipit!</l>
+	  <l>
+	    Chemi zidul ars, cu ierburile cimbruri,</l>
+	  <l>
+	    Anulare unor albe timpuri,</l>
+	  <l>
+	    Sub arginţii muntelui orbit.</l>
+	</lg>
+      </div>
+
+
+      <div>
+	<head>Margini de seară</head>
+	<lg>
+	  <l>
+Pendulul apei calme, generale,</l>
+	  <l>
+	    Sub sticlă sta, în Ţările-de-Jos.</l>
+	  <l>
+	    Luceferii marini, amari în vale;</l>
+	  <l>
+	    Sălciu muia şi racul fosforos.</l>
+	</lg>
+	<lg>
+	  <l>
+
+	    Un gînd adus, de raze şi curbură</l>
+	  <l>
+	    (Fii aurul irecuzabil greu!)</l>
+	  <l>
+	    Extremele cămărilor de bură</l>
+	  <l>
+	    Mirat le începea, în Dumnezeu.</l>
+	</lg>
+      </div>
+
+
+      <div>
+	<head>Steaua imnului</head>
+	<epigraph>
+	  <cit>
+	    <quote>"Asemenea seri se întorc,
+	    zice-se, de demult."</quote>
+	    <bibl>M.I. Caragiale (Craii de Curtea
+	    Veche, pag. 36)</bibl>
+	  </cit>
+	</epigraph>
+
+	<lg>
+	  <l>
+Rîu încuiat în cerul omogen,</l>
+	  <l>
+	    Arhaic Unt, din lăudată seară,</l>
+	  <l>
+	    Scurs florilor, slujind în Betleem,</l>
+	  <l>
+	    Cînd gărzile surpate înviară.</l>
+	</lg>
+	<lg>
+	  <l>
+
+	    Să port, - sub raze deget şters înting, -</l>
+	  <l>
+	    Un liniştit, un rar şi tînăr mugur</l>
+	  <l>
+	    Prin ger mutat, prin tufele de zinc,</l>
+	  <l>
+	    La stîncile culcate: să le bucur.</l>
+	</lg>
+      </div>
+
+
+      <div>
+	<head>Suflet pierdut</head>
+	<lg>
+	  <l>
+Scăzută zării blîndă e ţara minerală.</l>
+	  <l>
+	    - Inel şi munte, iarbă de abur înzeuat.</l>
+	  <l>
+	    A ofilirii, numai această foarte pală</l>
+	  <l>
+	    Făclie, pe ghicirea Albastrului ouat.</l>
+	</lg>
+	<lg>
+	  <l>
+
+	    Minţiri, lumini! Scăpată, doar sfînta, ca o maică,</l>
+	  <l>
+	    - Ars doliul ei; cu fruntea călcată de potcap;</l>
+	  <l>
+	    Scăldînd la dublul soare, apos, de la Drăgaică,</l>
+	  <l>
+	    Rotundul, scund în palmă, duh simplu-în chip de nap.</l>
+	</lg>
+      </div>
+
+      <div>
+	<head>Dioptrie</head>
+	<lg>
+	  <l>
+Înalt în orga prismei cîntăresc</l>
+	  <l>
+	    Un saturat de semn, poros infoliu.</l>
+	  <l>
+	    Ca fruntea vinului cotoarele roşesc,</l>
+	  <l>
+	    Dar soarele pe muchii curs, - de doliu.</l>
+	</lg>
+	<lg>
+	  <l>
+
+	    Aproape. Ochii împietresc cruciş</l>
+	  <l>
+	    Din fila vibrătoarei ca o tobă,</l>
+	  <l>
+	    Coroana literei, mărăciniş,</l>
+	  <l>
+	    Jos în lumină tunsă, grea, de sobă.</l>
+	</lg>
+	<lg>
+	  <l>
+
+	    Odaie, îndoire-n slabul vis!</l>
+	  <l>
+	    - Deretecată trece, de-o mătuşe -</l>
+	  <l>
+	    Gunoiul tras în conuri, lagăr scris,</l>
+	  <l>
+	    Adeverire zilei - prin cenuşe.</l>
+	</lg>
+      </div>
+
+
+      <div>
+	<head>Desen pentru cort</head>
+	<lg>
+	  <l>
+O, veacul legiuise militar</l>
+	  <l>
+	    În litere ca turnul ţuguiate!</l>
+	  <l>
+	    Urzite căi, neverosimil var,</l>
+	  <l>
+	    Prin dimineaţa ierbii înmuiate.</l>
+	</lg>
+	<lg>
+	  <l>
+
+	    Spălări împărtăşite! Înnoiţi</l>
+	  <l>
+	    Arginturile mari botezătoare</l>
+	  <l>
+	    Şi inima călărilor - spuziţi</l>
+	  <l>
+	    De dreapta ziua aceasta suitoare.</l>
+	</lg>
+	<lg>
+	  <l>
+
+	    - Ei vor sălta, la drum cu Novalis,</l>
+	  <l>
+	    Prin şvabii verzi, ţipate în castele,</l>
+	  <l>
+	    Să prade tremuratul plai de vis,</l>
+	  <l>
+	    Prielnic potrivirilor de stele!</l>
+	</lg>
+      </div>
+
+
+      <div>
+	<head>Edict</head>
+	<lg>
+	  <l>
+Această pontifică lună</l>
+	  <l>
+	    Cuvîntul adormiţilor e,</l>
+	  <l>
+	    Din roua caratelor sună</l>
+	  <l>
+	    Geros, amintit: ce-ru-le.</l>
+	</lg>
+	<lg>
+	  <l>
+
+	    O sobă, cealaltă mumie.</l>
+	  <l>
+	    Domneşte pe calul de şah,</l>
+	  <l>
+	    La Moscova verde de-o mie</l>
+	  <l>
+	    De turle, ars idol opac.</l>
+	</lg>
+	<lg>
+	  <l>
+
+	    Dogoarea, podoaba: răsfeţe</l>
+	  <l>
+	    Un secol cefal şi apter.</l>
+	  <l>
+	    - Ştiu drumul Slăbitelor Feţe,</l>
+	  <l>
+	    Ştiu plînsul apos din eter.</l>
+	</lg>
+      </div>
+    </body>
+
+  </text>
+</TEI.2>

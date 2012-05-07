@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="iso-8859-2" ?> 
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN"
+"/home/dadi/xml/dtds/tei/myPizza.dtd" [
+
+
+
+<!-- Vechiul Testament -->
+
+<!ENTITY facerea 	SYSTEM "capitole/facerea.xml">
+<!ENTITY iesirea 	SYSTEM "capitole/iesirea.xml">
+<!ENTITY levitic 	SYSTEM "capitole/levitic.xml">
+<!ENTITY numerii 	SYSTEM "capitole/numerii.xml">
+<!ENTITY deuteronom 	SYSTEM "capitole/deuteronom.xml">
+<!ENTITY iosua  	SYSTEM "capitole/iosua.xml">
+<!ENTITY judecatori	SYSTEM "capitole/judecatori.xml">
+<!ENTITY rut 		SYSTEM "capitole/rut.xml">
+<!ENTITY regi1  	SYSTEM "capitole/regi1.xml">
+<!ENTITY regi2  	SYSTEM "capitole/regi2.xml">
+<!ENTITY regi3  	SYSTEM "capitole/regi3.xml">
+<!ENTITY regi4  	SYSTEM "capitole/regi4.xml">
+<!ENTITY cronici1 	SYSTEM "capitole/cronici1.xml">
+<!ENTITY cronici2 	SYSTEM "capitole/cronici2.xml">
+<!ENTITY ezdra1 	SYSTEM "capitole/ezdra1.xml">
+<!ENTITY neemia 	SYSTEM "capitole/neemia.xml">
+<!ENTITY estera 	SYSTEM "capitole/estera.xml">
+<!ENTITY iov 		SYSTEM "capitole/iov.xml">
+<!ENTITY psalmi 	SYSTEM "capitole/psalmi.xml">
+
+<!-- lipseste ENTITY pilde SYSTEM "capitole/pilde.xml" -->
+<!ENTITY ecclesiast SYSTEM "capitole/ecclesiast.xml">
+<!ENTITY cantare 	SYSTEM "capitole/cantare.xml">
+<!ENTITY isaia  	SYSTEM "capitole/isaia.xml">
+<!ENTITY ieremia 	SYSTEM "capitole/ieremia.xml">
+<!ENTITY plangeri 	SYSTEM "capitole/plangeri.xml">
+<!ENTITY iezechiel  SYSTEM "capitole/iezechiel.xml">
+<!ENTITY daniel 	SYSTEM "capitole/daniel.xml">
+<!ENTITY osea 		SYSTEM "capitole/osea.xml">
+<!ENTITY amos 		SYSTEM "capitole/amos.xml">
+<!ENTITY miheia 	SYSTEM "capitole/miheia.xml">
+<!ENTITY ioil 		SYSTEM "capitole/ioil.xml">
+<!ENTITY avdie  	SYSTEM "capitole/avdie.xml">
+<!ENTITY iona 		SYSTEM "capitole/iona.xml">
+<!ENTITY naum 		SYSTEM "capitole/naum.xml">
+<!ENTITY avacum 	SYSTEM "capitole/avacum.xml">
+<!ENTITY sofonie 	SYSTEM "capitole/sofonie.xml">
+<!ENTITY agheu  	SYSTEM "capitole/agheu.xml">
+<!ENTITY zaharia 	SYSTEM "capitole/zaharia.xml">
+<!ENTITY maleahi 	SYSTEM "capitole/maleahi.xml">
+<!ENTITY tobit  	SYSTEM "capitole/tobit.xml">
+<!ENTITY iudita 	SYSTEM "capitole/iudita.xml">
+<!ENTITY baruh  	SYSTEM "capitole/baruh.xml">
+<!-- lipseste ENTITY epistola lui ieremia SYSTEM "capitole/ieremia.xml" -->
+
+<!ENTITY treitineri SYSTEM "capitole/3-tineri.xml">
+<!ENTITY ezdra3 	SYSTEM "capitole/ezdra3.xml">
+<!ENTITY solomon 	SYSTEM "capitole/solomon.xml">
+<!ENTITY sirah  	SYSTEM "capitole/sirah.xml">
+<!ENTITY susana 	SYSTEM "capitole/susana.xml">
+<!ENTITY balaur 	SYSTEM "capitole/balaur.xml">
+<!ENTITY macabei1 	SYSTEM "capitole/macabei1.xml">
+<!ENTITY macabei2 	SYSTEM "capitole/macabei2.xml">
+<!ENTITY macabei3 	SYSTEM "capitole/macabei3.xml">
+<!ENTITY manase 	SYSTEM "capitole/manase.xml">
+
+<!-- Noul Testament -->
+<!ENTITY matei      SYSTEM "capitole/matei.xml">
+<!ENTITY marcu      SYSTEM "capitole/marcu.xml">
+<!ENTITY luca       SYSTEM "capitole/luca.xml">
+<!ENTITY ioan       SYSTEM "capitole/ioan.xml">
+<!ENTITY fapte      SYSTEM "capitole/fapte.xml">
+<!ENTITY romani     SYSTEM "capitole/romani.xml">
+<!ENTITY corinteni1 SYSTEM "capitole/corinteni1.xml">
+<!ENTITY corinteni2 SYSTEM "capitole/corinteni2.xml">
+<!ENTITY galateni   SYSTEM "capitole/galateni.xml">
+<!ENTITY efeseni    SYSTEM "capitole/efeseni.xml">
+<!ENTITY filipeni   SYSTEM "capitole/filipeni.xml">
+<!ENTITY coloseni   SYSTEM "capitole/coloseni.xml">
+<!ENTITY tesaloniceni1 SYSTEM "capitole/tesaloniceni1.xml">
+<!ENTITY tesaloniceni2 SYSTEM "capitole/tesaloniceni2.xml">
+<!ENTITY timotei1   SYSTEM "capitole/timotei1.xml">
+<!ENTITY timotei2   SYSTEM "capitole/timotei2.xml">
+<!ENTITY tit        SYSTEM "capitole/tit.xml">
+<!ENTITY filimon    SYSTEM "capitole/filimon.xml">
+<!ENTITY evrei      SYSTEM "capitole/evrei.xml">
+<!ENTITY iacov      SYSTEM "capitole/iacov.xml">
+<!ENTITY petru1     SYSTEM "capitole/petru1.xml">
+<!ENTITY petru2     SYSTEM "capitole/petru2.xml">
+<!ENTITY ioan1      SYSTEM "capitole/ioan1.xml">
+<!ENTITY ioan2      SYSTEM "capitole/ioan2.xml">
+<!ENTITY ioan3      SYSTEM "capitole/ioan3.xml">
+<!ENTITY iuda       SYSTEM "capitole/iuda.xml">
+<!ENTITY apocalipsa SYSTEM "capitole/apocalipsa.xml">
+
+]> 
+
+
+<TEI.2>
+
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Biblia sau Sfânta Scriptură</title>
+
+      <respStmt>
+        <resp>edited by</resp>
+        <name>Aociaţia Studenţilor Creştin-Ortodocşi din România (ASCOR)</name>
+      </respStmt>
+    </titleStmt>
+      <publicationStmt>
+        <distributor>Scriptorium</distributor>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Biblia românească, în trad</bibl>
+      </sourceDesc>
+   </fileDesc>
+</teiHeader>
+
+<text>
+
+<!-- <front>
+    <div type="prefata" id="prefata">
+        <head>Biblia sau Sfânta Scriptură</head>
+        <p></p>
+    </div>
+</front>
+ -->
+<body>
+<div0 type="parte" id="vt" n="1">
+<head>Vechiul Testament</head>
+
+&facerea;
+&iesirea;
+&levitic;   
+&numerii;    
+&deuteronom;
+&iosua;
+&judecatori;
+&rut;
+&regi1;
+&regi2;	   
+&regi3;	   
+&regi4;	   
+&cronici1;   
+&cronici2;   
+&ezdra1;     
+&neemia;     
+&estera;     
+&iov; 	   
+&psalmi;     
+&iov; 	   
+
+&ecclesiast; 
+&cantare;    
+&isaia;	   
+&ieremia;    
+&plangeri;   
+&iezechiel;  
+&daniel;     
+&osea;	   
+&amos;	   
+&miheia;     
+&ioil;	   
+&avdie;	   
+&iona;	   
+&naum;	   
+&avacum;     
+&sofonie;    
+&agheu;	   
+&zaharia;    
+&maleahi;    
+&tobit;	   
+&iudita;     
+&baruh;	   
+
+&treitineri; 
+&ezdra3;     
+&solomon;    
+&sirah;	   
+&susana;     
+&balaur;     
+&macabei1;   
+&macabei2;   
+&macabei3;   
+&manase;     
+
+</div0>
+ 
+<div0 type="parte" id="nt" n="2">
+<head>Noul Testament</head>
+&matei;     
+&marcu;      
+&luca;
+&ioan;
+&fapte;
+&romani;
+&corinteni1;
+&corinteni2;
+&galateni;
+&efeseni;  
+&filipeni;   
+&coloseni;  
+&tesaloniceni1;
+&tesaloniceni2;
+&timotei1;
+&timotei2;  
+&tit;  
+&filimon;
+&evrei;   
+&iacov;     
+&petru1;     
+&petru2;    
+&ioan1;    
+&ioan2;     
+&ioan3;     
+&iuda;     
+&apocalipsa;
+</div0>
+
+
+</body>
+</text>
+
+</TEI.2>

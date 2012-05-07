@@ -1,0 +1,2559 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/P4X/DTD/tei2.dtd">
+<TEI.2 lang="ro" TEIform="TEI.2">
+<teiHeader type="text" status="new" TEIform="teiHeader">
+<fileDesc TEIform="fileDesc">
+<titleStmt TEIform="titleStmt">
+<title TEIform="title">N&#259;pasta</title>
+<author TEIform="author">Ion-Luca Caragiale</author>
+</titleStmt>
+<editionStmt TEIform="editionStmt">
+<edition TEIform="edition">
+<date TEIform="date">2004-04-22T17:07:16</date>
+</edition>
+</editionStmt>
+
+
+
+
+<publicationStmt TEIform="publicationStmt">
+<authority TEIform="authority"/>
+<address TEIform="address">
+</address>
+
+<publisher TEIform="publisher">Adrian Petru Dimulescu</publisher>
+<address TEIform="address">
+	<addrLine TEIform="addrLine">adrian.dimulescu.at.free.fr</addrLine>
+</address>
+<availability status="unknown" TEIform="availability">
+    
+      <p TEIform="p"><emph TEIform="emph">Aceasta editie electronica este (c) Sorin Anca si acoperita de licenta urmatoare:
+(Attribution 1.0 a Creative Commons, http://creativecommons.org/licenses/by/1.0/)</emph></p>
+
+<p TEIform="p">In mare, licenta permite reutilizarea in orice mod, chiar
+comerciala, a textului, atata vreme cat mentiunile cuvenite
+referitoare la creatorul acestei versiuni electronice sunt
+prezente in copii.
+</p>
+
+				</availability>
+
+
+</publicationStmt>
+<sourceDesc default="NO" TEIform="sourceDesc">
+<p TEIform="p">Written by OpenOffice</p>
+</sourceDesc>
+
+</fileDesc>
+<profileDesc TEIform="profileDesc">
+<langUsage default="NO" TEIform="langUsage">
+<language id="ro" TEIform="language">utf-8</language>
+</langUsage>
+</profileDesc>
+<revisionDesc TEIform="revisionDesc">
+<change TEIform="change">
+<date TEIform="date">2004-04-23T00:48:36</date>
+<respStmt TEIform="respStmt">
+<name TEIform="name"/>
+</respStmt>
+<item TEIform="item">revision</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text TEIform="text">
+<front TEIform="front">
+
+<titlePage TEIform="titlePage">
+		<docTitle TEIform="docTitle"><titlePart type="main" TEIform="titlePart">N&#259;pasta</titlePart></docTitle>
+		<docAuthor TEIform="docAuthor">Ion-Luca Caragiale</docAuthor>
+</titlePage>
+
+
+  <castList TEIform="castList">
+    <head TEIform="head">PERSOANELE</head>
+    <castItem type="role" TEIform="castItem"><role id="dragomir" TEIform="role">DRAGOMIR</role>, cârciumar</castItem>
+    <castItem type="role" TEIform="castItem"><role id="gheorghe" TEIform="role">GHEORGHE</role>, înv&#259;&#355;&#259;torul satului</castItem>
+    <castItem type="role" TEIform="castItem"><role id="ion" TEIform="role">ION</role>, ocna&#351;</castItem>
+    <castItem type="role" TEIform="castItem"><role id="anca" TEIform="role">ANCA</role>, so&#355;ia lui Dragomir</castItem>
+    <castItem type="role" TEIform="castItem"><role id="oameni" TEIform="role">CÂ&#354;IVA OAMENI</role></castItem>
+  </castList>
+  <set TEIform="set"><p TEIform="p">Într-un sat de munte</p></set>
+</front>
+<body TEIform="body">
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">ACTUL I</head>
+<stage TEIform="stage">(Interiorul unei cârciume, cl&#259;dire cu grinzi de lemn. În fund, la mijloc, u&#351;a de intrare; la stânga, fereastr&#259; mare de pr&#259;v&#259;lie cu oblon; lâng&#259; fereastr&#259;, taraba. La stânga, planul întâi &#351;i al doilea, dou&#259; u&#351;i cari dau în dou&#259; od&#259;i. La dreapta, planul întâi, chepengul beciului &#351;i o u&#351;e care d&#259; în celar. La stânga, în fa&#355;&#259;, o mas&#259; de lemn &#351;i scaune rustice. Lavi&#355;e pe lâng&#259; pere&#355;i.)</stage>
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA I</head>
+<stage TEIform="stage">
+<p TEIform="p">DRAGOMIR, GHEORGHE &#351;i ANCA</p>
+<p TEIform="p">(To&#355;i trei stau împrejurul mesii pe care arde o lamp&#259; mic&#259; cu petrol. Gheorghe &#355;ine o gazet&#259; în mân&#259;. Anca lucreaz&#259; la o c&#259;ma&#351;e.)</p></stage>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker>
+<p TEIform="p">... E greu s&#259; scape, fire&#351;te... dar se-ntâmpl&#259;... A&#351;a fac mai to&#355;i câ&#355;i scap&#259;: dintru-întâi s-arat&#259; poc&#259;i&#355;i, se prefac pro&#351;ti, se dau tot cu bini&#351;orul, &#351;i odat&#259;, când le vine bine, p-aici &#355;i-e drumul...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker>
+<p TEIform="p">Adic&#259; &#351;i &#259;sta era &#351;iret... se pref&#259;cea... <stage TEIform="stage">(zâmbind.)</stage> Am în&#355;eles!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker>
+<p TEIform="p">&#350;tiu eu?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker>
+<p TEIform="p">Fugi, m&#259;, d-acolo!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker>
+<p TEIform="p">De ce s&#259; nu crezi c&#259; s-a pref&#259;cut?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker>
+<p TEIform="p">Asta e! Nou&#259; ani de zile!... Cine se preface atâta vreme a&#351;a, &#351;i s&#259; nu fi fost nebun, tot acolo ajunge... pân&#259; la urm&#259; tot nebune&#351;te.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker>
+<p TEIform="p">Dac-a fost tic&#259;los, prostul! L-a g&#259;sit cu c&#259;ma&#351;a plin&#259; de sânge, a v&#259;zut la el luleaua, tutunul &#351;i amnarul mortului... Dac&#259; s-a bucurat s&#259; fure ni&#351;te nimicuri de la un mort pe care l-a g&#259;sit în p&#259;dure, eu stric?... Era tâmpit... când i-a citit osânda, râdea...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker>
+<stage TEIform="stage">(cu mult interes)</stage>
+<p TEIform="p">Cum?... De unde ai v&#259;zut tu când i-a citit osânda?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker>
+<p TEIform="p">Am fost la judecat&#259;.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker>
+<p TEIform="p">Ai fost?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker>
+<stage TEIform="stage">(din ce în ce mai interesat&#259;)</stage>
+<p TEIform="p">La care judecat&#259;?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker>
+<stage TEIform="stage">(contrariat)</stage>
+<p TEIform="p">La jura&#355;i, când l-a osândit.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker>
+<p TEIform="p">Ai fost tu la jura&#355;i!... &#351;i mie atâ&#355;ia ani de zile s&#259; nu-mi spui!</p>
+</sp>
+
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker>
+<p TEIform="p">&#354;i-am spus...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker>
+<p TEIform="p">Ba nu.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker>
+<stage TEIform="stage">(sup&#259;rat)</stage>
+<p TEIform="p">Ei! A&#351;a e, nu, fire&#351;te. La ce?... S&#259;-ncepi iar s&#259;-mi boce&#351;ti pe r&#259;posatul?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker>
+<stage TEIform="stage">(cl&#259;tinând din cap)</stage>
+<p TEIform="p">Dragomire! <stage TEIform="stage">(se scoal&#259; &#351;i trece la tarab&#259;.)</stage></p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker>
+<stage TEIform="stage">(dup&#259; ce s-a uitat urât la ea, c&#259;tr&#259; Gheorghe)</stage>
+<p TEIform="p">Ia cite&#351;te, m&#259;, înainte, s&#259; vedem ce s-a f&#259;cut nebunul.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker>
+<stage TEIform="stage">(c&#259;utând &#351;irul în ziar, apoi urmând citirea)</stage>
+<p TEIform="p">"... precum &#351;i toate cercet&#259;rile au fost zadarnice. Soldatul m&#259;rturise&#351;te c&#259; de multe ori a mers cu nebunul la ap&#259;, c&#259;-l l&#259;sa la fântân&#259; singur &#351;i el se ducea s&#259;-&#351;i vaz&#259; amanta. Nebunul venea cu doni&#355;ele pline &#351;i-l chema s&#259; se întoarc&#259; împreun&#259; la temni&#355;&#259;. Tot timpul, nebunul a fost ca &#351;i liber, în orice caz foarte pu&#355;in p&#259;zit. Era bun &#351;i foarte simpatic tutulor - afar&#259; de accesurile acute în care-l apuca mania persecu&#355;iei. Dup&#259; cum afirm&#259; soldatul, nebunul ar fi c&#259;zut în ocna a veche, care e p&#259;r&#259;sit de pe vremuri..."</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker>
+<stage TEIform="stage">(cu interes)</stage>
+<p TEIform="p">Care va s&#259; zic&#259;... a murit...?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker>
+<p TEIform="p">Ba bine c&#259; nu.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker>
+<stage TEIform="stage">(aparte)</stage>
+<p TEIform="p">A murit!...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Ia spune, Dragomire, ce fel de om era... Eu n-am v&#259;zut de când sunt o judecat&#259; la jura&#355;i... A&#351; vrea s&#259; v&#259;z &#351;i eu o dat&#259;... Ce face, ce zice, omul pe care-l judec&#259;?</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Ce s&#259; fac&#259;?... St&#259; &#351;i el între pu&#351;ti &#351;i a&#351;teapt&#259; s&#259; se ispr&#259;veasc&#259; mai degrab'...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(la tarab&#259;)</stage>
+<p TEIform="p">Dar tu, Dragomire, ai mers a&#351;a din întâmplare ori dinadins?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(întorcându-se spre ea)</stage>
+<p TEIform="p">Dinadins?... Ce nu &#355;i-e bine?... De ce s&#259; merg dinadins? <stage TEIform="stage">(lui Gheorghe.)</stage> S-a nemerit s&#259; fiu în ora&#351;... m&#259; dusesem s&#259; vânz ni&#351;te lân&#259;. <stage TEIform="stage">(r&#259;stit, c&#259;tr&#259; Anca, care &#351;ade rezemat&#259; cu coatele pe tarab&#259;.)</stage> Ce faci acolo?</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Nimic... Ascult.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Ascul&#355;i! <stage TEIform="stage">(din ce în ce mai aspru.)</stage> Nu-ncepi iar s&#259; boce&#351;ti pe r&#259;posatul? C&#259; iar am vorbit de el... 'Aide de! Începe... jele&#351;te-l!... <stage TEIform="stage">(Anca trece bini&#351;or &#351;i iese în stânga; - c&#259;tr&#259; Gheorghe.)</stage> Eu zic c&#259; nebunul nu era vinovat; degeaba l-a b&#259;gat dou&#259;zeci de ani la ocn&#259;!</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">&#350;tii c-ar fi ciudat - c&#259; s-a mai întâmplat a&#351;a lucru... s&#259; te pomene&#351;ti c&#259; prinde vreun tâlhar &#351;i ala spune: tot eu am f&#259;cut acu câ&#355;iva ani omorul din p&#259;durea Corbenilor... Uite de ce &#351;i uite cum... 'Ai?</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Se prea poate.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Ce te faci atuncea cu nebunul?...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Care?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Care a fost osândit degeaba.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Ai zis c-a murit.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">S&#259; zicem c&#259; tr&#259;ie&#351;te...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Cum s&#259; tr&#259;iasc&#259;?... A c&#259;zut în ocna p&#259;r&#259;sit&#259;...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Nu... s&#259; zicem c&#259; n-a c&#259;zut, s&#259; zicem c-a fugit &#351;i pun mâna pe el... Cine-i pl&#259;te&#351;te atâ&#355;ia ani la necaz?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Dumnezeu...<stage TEIform="stage"> (pauz&#259;.)</stage> M&#259;, Gheorghe, tu cam &#351;tii legile...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">A&#351;a &#351;-a&#351;a... <stage TEIform="stage">(Anca intr&#259; &#351;i se opre&#351;te în u&#351;e.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Nu-i a&#351;a c&#259; un om care a f&#259;cut o fapt&#259;... un omor... nu-i a&#351;a c&#259; dac&#259; vine singur peste zece ani &#351;i se m&#259;rturise&#351;te, nu mai are nici o pedeaps&#259;?...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Cât e nu &#351;tiu sigur, dar &#351;tiu c&#259; e un termen: dac&#259; trece ala, s-a ispr&#259;vit...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(care a ascultat din pragul u&#351;ii, coboar&#259;; e plâns&#259;)</stage>
+<p TEIform="p">Cum adic&#259;? La zece ani un uciga&#351; poate veni s&#259; spuie singur ce-a f&#259;cut &#351;i lumea îl las&#259; în pace.</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">A&#351;a e legea...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Bun&#259; lege, z&#259;u! <stage TEIform="stage">(se &#351;terge la ochi.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">De ce nu te pui tu s&#259; faci alta mai bun&#259;? <stage TEIform="stage">(fixând-o.)</stage> Iar ai venit! <stage TEIform="stage">(lui Gheorghe.)</stage> Vezi de ce nu i-am spus... pentru c&#259; de câte ori vine vorba de r&#259;posatul, ori î&#351;i aduce aminte de el cât de departe, îmi url&#259; toat&#259; ziua. <stage TEIform="stage">(c&#259;tr&#259; ea.)</stage> Mergi d-aici, &#351;i nu mai m&#259; boci pe cap, cobe!... &#350;tiu c&#259; dac&#259; m-ar omorî pe mine, mi-ai juca hora la soroace în loc s&#259;-mi faci poman&#259;... <stage TEIform="stage">(pauz&#259;; Anca se retrage.)</stage> Dac&#259; era s&#259; boce&#351;ti toat&#259; via&#355;a pe b&#259;rbatu-t&#259;u &#259;l dintâi, de ce te-ai m&#259;ritat a doua oar&#259;?... 'Aide.. mergi!</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">De ce nu e&#351;ti mai blând, Dragomire?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Pleac&#259; odat&#259;...!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">M&#259; duc. <stage TEIform="stage">(iese în fund.)</stage>
+</p>
+</sp>
+</div>
+
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA II</head>
+<stage TEIform="stage">DRAGOMIR, GHEORGHE</stage>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Du-te la p&#259;catele! <stage TEIform="stage">(se scoal&#259; sup&#259;rat.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><stage TEIform="stage">(dup&#259; o pauz&#259;)</stage>
+<p TEIform="p">Fie, m&#259;i vere, prea aspru e&#351;ti cu muierea.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Ia las&#259;-m&#259;-n pace &#351;i tu. &#350;tii tu cum tr&#259;iesc eu?... &#350;tii tu ce am f&#259;cut eu pentru femeia asta?... C&#259; mai bine îmi frângeam gâtul pân&#259; s&#259; n-o fi întâlnit!... Dac&#259; nu era femeia asta înd&#259;r&#259;tnic&#259;, eu eram ast&#259;zi altfel de om! Tu nu &#351;tii ce s-a petrecut între mine &#351;i ea.</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Da, da' v&#259;z ce se petrece. V&#259; canoni&#355;i unul pe altul degeaba: nici tu nu e&#351;ti de ea, nici ea de tine.</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Ea m-a luat ca s&#259; aib&#259; cine s&#259;-i &#355;ie soroacele de sufletul r&#259;posatului. Din ziua întâia a cununiei &#351;i pân&#259; ast&#259;zi, o dat&#259; n-am v&#259;zut-o zâmbind; de atunci &#351;i pân&#259; ast&#259;zi cu trupul e aicea pe lumea asta &#351;i cu gândul e la Dumitru pe lumea ailalt&#259;.</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">O fi fost cu ea mai bun ca tine.</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Mai bun!... De unde &#351;tia ea din ziua întâia c&#259; n-o s&#259; fiu &#351;i eu poate mai bun decât el. Eu n-o iubeam?... C&#259; dac&#259; n-a&#351; fi iubit-o!... &#350;i mai în sfâr&#351;it, în&#355;eleg s&#259; plâng&#259; o femeie pe b&#259;rbat dac&#259; e v&#259;duv&#259;... da' dac&#259; s-a m&#259;ritat o dat&#259; cu altul... Care-i &#259;la s&#259; rabde asta?... Atunci de ce s-a mai m&#259;ritat?</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Ei!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Da; de ce... dac&#259; nu se poate desp&#259;r&#355;i de umbra r&#259;posatului? Ba zi c&#259; e o femeie nebun&#259;, care mi-a stricat mintea &#351;i mie. Eu sunt s&#259;n&#259;tos, crezi, de când am luat-o?... Uf! M-am s&#259;turat! De opt ani de zile, Dumitru &#351;i iar Dumitru; pe îl auz când vorbe&#351;te ea, când m&#259; uit la ea, îl v&#259;z pe el... Eu tr&#259;iesc în cas&#259;, m&#259;nânc la mas&#259;, dorm la un loc cu stafia lui... A&#351;a! Asta n-o s&#259; mai mearg&#259; mult! <stage TEIform="stage">(Anca intr&#259; din fund încetinel, se opre&#351;te în u&#351;&#259; &#351;i ascult&#259;; Gheorghe o vede &#351;i face o mi&#351;care; Dragomir, atras de mi&#351;carea lui Gheorghe, se întoarce &#351;i o vede.)</stage> Uite-o! Uite-l! El e... Dumitru! <stage TEIform="stage">(c&#259;tr&#259; ea.)</stage> Ie&#351;i! Ie&#351;i! Fugi, s&#259; nu te v&#259;z! <stage TEIform="stage">(Anca st&#259; locului cu ochii pironi&#355;i asupra lui.)</stage> Te duci? Or m&#259; duc eu... S&#259; nu te v&#259;z! <stage TEIform="stage">(porne&#351;te spre ea, ea înainteaz&#259; spre el; el se repede, o apuc&#259; de mân&#259; &#351;-o aduce hot&#259;rât în fa&#355;&#259;.)</stage> Ce vrei?... Ce te ui&#355;i a&#351;a la mine?... Ce gânde&#351;ti?... Eu l-am omorât?... Da? Spune! <stage TEIform="stage">(o smuce&#351;te.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(hot&#259;rât)</stage>
+<p TEIform="p">Dragomire, e&#351;ti nebun. <stage TEIform="stage">(î&#351;i face cruce.)</stage></p>
+</sp>
+
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Nebun?... Spune... <stage TEIform="stage">(o smuce&#351;te iar.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Dragomire!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">O!... Nebun!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Nu, s&#259; spui... Din dou&#259; una: or crezi c&#259; l-am omorât eu...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Poftim! Asta-i vorb&#259; de vorbit!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Da... &#351;i atunci de ce mai tr&#259;ie&#351;ti cu mine... or nu crezi &#351;i atunci de ce m&#259; chinuie&#351;ti pe mine?... Ce ai cu mine? Las&#259;-m&#259; în pace pe mine cu Dumitru al t&#259;u! <stage TEIform="stage">(o împinge de mân&#259; &#351;i suie; ea vrea s&#259; fac&#259; un pas spre el.)</stage> Las&#259;-m&#259; în pace! <stage TEIform="stage">(acela&#351;i joc.)</stage> Las&#259;-m&#259; în pace! <stage TEIform="stage">(iese foarte turburat prin fund trântind u&#351;a.)</stage>
+</p>
+</sp>
+</div>
+
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA III</head>
+<stage TEIform="stage">ANCA, GHEORGHE</stage>
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><stage TEIform="stage">(suie pân&#259; în fund)</stage>
+<p TEIform="p">Dragomire! Dragomire!... S-a dus!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(coborând la stânga, aparte)</stage>
+<p TEIform="p">Se duce la cârciuma Popii,... acas&#259; n-are ce bea.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><stage TEIform="stage">(din fund)</stage>
+<p TEIform="p">Anco! <stage TEIform="stage">(coboar&#259; încet.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Tot aici e&#351;ti?... Gheorghe, de ce nu-&#355;i schimbi tu gândurile, m&#259; b&#259;iete, &#351;i vrei s&#259; mi le schimbi pe ale mele? Îmi pare r&#259;u de tine!... A&#351;a nec&#259;jit&#259; cum sunt, de ce nu m&#259; la&#351;i tu necazului meu &#351;i mai m&#259; turburi &#351;i tu?</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Pentru c&#259;...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Pentru c&#259; m&#259; iube&#351;ti... Asta o &#351;tiu...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Da, pentru c&#259; te iubesc...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Las&#259;-m&#259; p&#259;catelor mele, Gheorghe, &#351;i du-te. E&#351;ti tân&#259;r, mergi de-&#355;i caut&#259; norocul aiurea... A&#351;a cum m&#259; iube&#351;ti tu pe mine eu nu te poci iubi...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Tu nu po&#355;i iubi?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Ba... oi fi iubit &#351;i eu odat&#259;... dar n-am avut parte. Acu la mine a trecut vremea iubitului... D-aia Gheorghe, î&#355;i mai spui o dat&#259;, caut&#259;-&#355;i norocul în alt&#259; parte...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">În alt&#259; parte?... Bine...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">... De ce s&#259;-&#355;i încurci tu o via&#355;&#259; tân&#259;r&#259; cu p&#259;&#355;eli trecute, s&#259; iei o femeie cu gânduri vechi?... &#350;-apoi chiar a&#351;a... cum s&#259; m&#259; iei?</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">&#354;i-am spus...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">S&#259; m&#259; despar&#355; eu acum de Dragomir?... Nu se poate.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Zici c&#259; &#355;i-e greu s&#259;-l vezi.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Da... da' mie Dumnezeu mi l-a trimis pe el; &#351;i Dumnezeu &#351;tie ce face... eu trebuie s&#259; fac voia lui...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Bine, Anco, f&#259; cum vrei, tr&#259;ie&#351;te cum î&#355;i vine... Eu m-am hot&#259;rât s&#259; plec din satul &#259;sta...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(repede)</stage>
+<p TEIform="p">S&#259; pleci?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Da... Eu te iubesc, tu nu m&#259; po&#355;i iubi... ce ar sem&#259;na s&#259; mai stau aici degeaba?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(trist&#259;)</stage>
+<p TEIform="p">Pleci!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Da... Lumea a cam sim&#355;it... eu s&#259; m&#259; st&#259;pânesc nu poci... &#351;i nu voi s&#259; m&#259; fac de batjocur&#259;, s&#259; m&#259; &#355;iu de urmele tale ca un n&#259;t&#259;r&#259;u. <stage TEIform="stage">(Anca st&#259; pe gânduri.)</stage> Nu mai merge... s&#259; fiu prieten cu b&#259;rbatu-t&#259;u, care nu-i om de felul meu, numai ca s&#259; te poci vedea mai des!... E&#351;ti o femeie... nu &#351;tiu cum s&#259;-&#355;i zic... &#354;i-e drag s&#259; tr&#259;ie&#351;ti cu un om care se poart&#259; cu tine ca cu un câine, &#351;i m&#259; gone&#351;ti pe mine, care te iubesc... Bine... Atuncii mai bine s&#259; nu te mai v&#259;z de loc.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Care va s&#259; zic&#259;, pleci?... Adev&#259;rat?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Da...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Când?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Cât s-ar putea mai curând... peste câteva zile.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">R&#259;u îmi pare.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">De ce?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">De ce, de ne-ce, îmi pare r&#259;u...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Dac&#259; nu m&#259; iube&#351;ti?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Ce copil e&#351;ti?... Eu nu te iubesc pe tine, dar tu m&#259; iube&#351;ti pe mine: nu în&#355;elegi tu c&#259; mai dor o s&#259;-mi fie mai la urm&#259; mie de tine decât &#355;ie de mine...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Atuncea...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Ce?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Vino cu mine.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Nu se poate.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Prin urmare, eu ce s&#259; fac?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Tu... tu s&#259; te duci, Gheorghe, cu Dumnezeu; de dorul meu s&#259; nu-&#355;i pese... <stage TEIform="stage">(plânge.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Anco, plângi?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Da.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Pentru ce?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">De prisos s&#259;-&#355;i spui.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Dac&#259; plângi...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">S&#259;-&#355;i vorbesc drept, Gheorghe: eu î&#355;i sunt cu mult datoare &#355;ie... Mult&#259; putere mi-a dat priete&#351;ugul t&#259;u &#351;i gândul c&#259; un om a&#351;a de voinic ca tine m&#259; iube&#351;te... Gândul c&#259; tu ai fi în stare s&#259; faci odat&#259; &#351;-odat&#259; o jertf&#259; mare pentru mine era sprijinul sufletului meu am&#259;rât... Dac&#259; tu te duci, cum r&#259;mâi eu?</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Ce jertf&#259;? S-o fac.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Nu poci acuma... nu &#351;tiu... n-am ce s&#259;-&#355;i spui. <stage TEIform="stage">(st&#259; un minut la gânduri.)</stage> Gheorghe, dac&#259; m&#259; iube&#351;ti mult... mult... <stage TEIform="stage">(schimbând repede tonul)</stage> du-te acuma de dormi lini&#351;tit &#351;i vino mâine diminea&#355;&#259; aici: Dragomir pleac&#259; la târg, putem sta mai mult de vorb&#259;... Du-te... Noapte bun&#259;.</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Noapte bun&#259;, Anco. <stage TEIform="stage">(pleac&#259; spre fund.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(aparte)</stage>
+<p TEIform="p">Pleac&#259; <stage TEIform="stage">(el d&#259; s&#259; ias&#259;; cu glasul jum&#259;tate)</stage> Gheorghe!</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><stage TEIform="stage">(întorcându-se)</stage>
+<p TEIform="p">M-ai chemat?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Nu... <stage TEIform="stage">(el o prive&#351;te lung, apoi vrea s&#259; plece.)</stage> Ba da! <stage TEIform="stage">(el se întoarce iar &#351;i coboar&#259; cu aerul întreb&#259;tor.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">De ce?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Nu pricepi?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Nu.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(cu mult&#259; inten&#355;ie)</stage>
+<p TEIform="p">...Tu n-ai sim&#355;it, n-ai priceput de loc c&#259; &#351;i eu te iubesc?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Tu... pe mine?... Adev&#259;rat?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Adev&#259;rat... Trebuie s&#259;-&#355;i spui, c&#259; nu mai poci. <stage TEIform="stage">(foarte volubil.)</stage> Gheorghe, Dragomir o s&#259; vie acum beat... Când se-ntoarce beat, m&#259;-njur&#259; &#351;i se culc&#259; &#351;i doarme dus de po&#355;i t&#259;ia lemne pe el... Vino! De la tine din deal se vede fereastra asta... oblonul este închis... Pânde&#351;te: când &#259;i vedea lampa la ochiul oblonului, vino degrab&#259;... te a&#351;tept!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">M&#259; iube&#351;ti?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Da, da' s&#259; nu ui&#355;i c&#259; sunt nevasta lui Dragomir... dac&#259; moare el sunt a ta!... Gheorghe, m-am jurat: când o c&#259;dea a dintâi lopat&#259; de p&#259;mânt pe co&#351;ciugul lui, eu s&#259; fiu în bra&#355;ele tale... Ai priceput?...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">S-a&#351;tept o via&#355;&#259; întreag&#259;...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(scurt)</stage>
+<p TEIform="p">E&#351;ti un prost! M-&#259;i fi iubind tu, da' nu m&#259;-n&#355;elegi... Gânde&#351;te-te mai bine la ce am vorbit... Cum vezi lumina, vino, s&#259; nu te a&#351;tept... Du-te...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><stage TEIform="stage">(transportat)</stage>
+<p TEIform="p">M&#259; duc... viu... M&#259; iube&#351;ti?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Da, da, te iubesc. (<emph TEIform="emph">îl strânge în bra&#355;e cu putere, apoi îi face vânt prin fund &#351;i încuie.</emph>)</p>
+</sp>
+</div>
+
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA IV</head>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(singur&#259;, privind spre fund)</stage>
+<p TEIform="p">Gheorghe, Gheorghe, ce p&#259;cat te mân&#259; pe tine!... <stage TEIform="stage">(coboar&#259; încetinel la mas&#259;.)</stage> O fi în stare b&#259;iatul &#259;sta u&#351;urel de câte se laud&#259;? S&#259; vedem... Unde o fi câinele? La cârciuma Popii... joac&#259; c&#259;r&#355;i &#351;i bea... S&#259; vie iar beat, s&#259; m&#259; înjure &#351;i s&#259; m&#259; amenin&#355;e!... A&#351; vrea s&#259; &#351;tiu cât o s&#259; mai &#355;ie asta!... Mult, nu crez!... <stage TEIform="stage">(ascult&#259;.)</stage> Haha! Vine.. el este... <stage TEIform="stage">(î&#351;i ia lucrul &#351;i st&#259; la mas&#259;. - O b&#259;taie în u&#351;e. - Anca se ridic&#259; &#351;i st&#259; un moment.)</stage> Am încuiat... <stage TEIform="stage">(înc&#259; o b&#259;taie. Anca merge la u&#351;e.)</stage> Acu&#351;-acu&#351;! <stage TEIform="stage">(descuie.)</stage>
+</p>
+</sp>
+</div>
+
+
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA V</head>
+<stage TEIform="stage">ANCA, ION</stage>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><stage TEIform="stage">(foarte obosit &#351;i cam tremurând)</stage>
+<p TEIform="p">Bun&#259; vremea, nevast&#259;.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Mul&#355;umim dumitale, om bun... Ce pofte&#351;ti?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">Îmi dai de mâncare?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(aparte)</stage>
+<p TEIform="p">&#258;sta nu-i din sat... e str&#259;in. <stage TEIform="stage">(tare.) </stage>N-avem de mâncare, omule... pleac&#259;.</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">Da'... m&#259; la&#351;i s&#259; dorm?... las&#259;-m&#259; s&#259; dorm...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(aparte)</stage>
+<p TEIform="p">E un om r&#259;u, e beat, or ce? <stage TEIform="stage">(tare.)</stage> Caut&#259;-&#355;i de drum, cre&#351;tine; <stage TEIform="stage">(cam aspru)</stage> 'aide!</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><stage TEIform="stage">(sfios &#351;i ap&#259;rându-se ca de o lovitur&#259; la cap)</stage>
+<p TEIform="p">M&#259; duc... s&#259; nu m&#259; ba&#355;i... s&#259; nu dai!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Dec! De ce s&#259; te bat?... Du-te s&#259;n&#259;tos.</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><stage TEIform="stage">(vrea s&#259; plece, î&#351;i pierde puterile &#351;i se reazim&#259; de u&#351;e)</stage>
+<p TEIform="p">Nu mai poci... (rugându-se frumos.) D&#259;-mi ceva s&#259; m&#259;nânc, f&#259;-&#355;i poman&#259;... mi-e foame. <stage TEIform="stage">(se las&#259; bini&#351;or pe lavi&#355;a din stânga u&#351;ii.)</stage>
+</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">&#258;i fi bolnav?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">Nu.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Da' ce ai?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">Mi-e foame... sunt ostenit...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Da'... de unde vii dumneata?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">Hehe, de departe... tocma' de la munte.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">&#350;i ce vânt te-a b&#259;tut pe la noi?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">M-am r&#259;t&#259;cit.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Da-ncotro mergeai?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">Nu &#351;tiu...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Cum s&#259; nu &#351;tii unde mergeai?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><stage TEIform="stage">(încet &#351;i confiden&#355;ial)</stage>
+<p TEIform="p">Vezi c&#259; eu... sunt nebun...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Nebun?!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">H&#259;h&#259;!... Da' nu m-apuc&#259; totdeauna... &#350;i când m&#259; chinuie&#351;te Necuratul, numa' vine Maica Domnului de m&#259; scap&#259;... Necuratul mi-a poruncit de dou&#259; ori s&#259;-mi fac seama singur... ca s&#259;-mi ia sufletul...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">S&#259;rmane, cine &#351;tie ce p&#259;cate!...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">Da' Maica Domnului nu m-a l&#259;sat. <stage TEIform="stage">(se închin&#259;.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">&#350;i din ce &#355;i-a venit?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">Din b&#259;taie... &#350;i când m&#259; speriu m-apuc&#259;, fie pe pustii locuri! &#350;i, când e s&#259; m-apuce, îmi vine întâi cu grije &#351;i cu scârb&#259; &#351;i pe urm&#259; cu spaim&#259;... &#351;i m&#259; arde. <stage TEIform="stage">(arat&#259; moalele capului.)</stage> Eu am o bub&#259; aici în&#259;untru... Da-mi dai?</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Ce?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">De mâncare...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">A! Uitasem, uita-te-ar relele! <stage TEIform="stage">(merge la tarab&#259;, taie un codru de pâne &#351;i i-l d&#259;.)</stage> Na, omule.</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">Bodaproste!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Vrei &#351;-un rachiu?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">Dac&#259;-mi dai...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(îi d&#259; un &#355;oi de rachiu)</stage>
+<p TEIform="p">Da' cum s-a întâmplat s&#259;-&#355;i vie?... E de mult?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">Vreo zece ani...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Zece ani... &#350;i cine te-a b&#259;tut?... De ce?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">Degeaba... Eu eram p&#259;durar la Corbeni...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(aparte)</stage>
+<p TEIform="p">P&#259;durar la Corbeni!... <stage TEIform="stage">(tare.)</stage> Cine te-a b&#259;tut?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">La judecat&#259;... c&#259; nu vream s&#259; spui.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(cu ner&#259;bdare)</stage>
+<p TEIform="p">Ce?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">C&#259; de ce l-am omorât...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Omorât! <stage TEIform="stage">(aparte.)</stage> Doamne Isuse Christoase! Cine e omul &#259;sta? <stage TEIform="stage">(cu team&#259; c-a aflat adev&#259;rul.)</stage> Te cheam&#259;... Ion...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><stage TEIform="stage">(dând din cap)</stage>
+<p TEIform="p">Ion m&#259; cheam&#259;.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">&#350;i zice c-ai omorât pe...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">... Pe Dumitru Cirezarul...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(aparte)</stage>
+<p TEIform="p">Cum a ajuns omul &#259;sta aici?... Tu, Maica Domnului! I-ai fost c&#259;l&#259;uz&#259;; tu l-ai purtat pe c&#259;i necunoscute &#351;i mi l-ai trimes aici ca s&#259; ridice din calea hot&#259;rârii mele îndoiala...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><stage TEIform="stage">(mo&#355;&#259;ind)</stage>
+<p TEIform="p">Acu mi-e somn... <stage TEIform="stage">(ascult&#259; ca de departe.)</stage> De ce url&#259; câinele?</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Nu url&#259; nici un câine.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">Ascult&#259;...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(aparte)</stage>
+<p TEIform="p">Aiureaz&#259;. <stage TEIform="stage">(tare.)</stage> Ioane, vrei s&#259; te culci?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">Da.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Scoal&#259;. <stage TEIform="stage">(îl ajut&#259; s&#259; se ridice.)</stage> Vino cu mine... 'Aide p-aici. <stage TEIform="stage">(îl duce de mâini încetinel spre stânga, planul întâi.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">Când url&#259; câinele, moare cineva... <stage TEIform="stage">(&#351;ov&#259;ie, ea îl sprijine&#351;te.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Încetinel...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">Tu &#351;tii cine o s&#259; moar&#259;... O s&#259; moar&#259; Ion?... Dac&#259; Ion moare, scap&#259; de dracul?... <stage TEIform="stage">(se opre&#351;te, face o grimas&#259; de durere &#351;i pune mâna la cap.)</stage> M&#259; doare! <stage TEIform="stage">(Amândoi ies încet.)</stage>
+</p>
+</sp>
+</div>
+
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA VI</head>
+<stage TEIform="stage">GHEORGHE, ANCA</stage>
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><stage TEIform="stage">(intr&#259; repede din fund)</stage>
+<p TEIform="p">Anco! <stage TEIform="stage">(venind spre stânga)</stage> Anco!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(venind din stânga)</stage>
+<p TEIform="p">Gheorghe! <stage TEIform="stage">(repede.)</stage> Ce cau&#355;i? Ce vrei? Nu &#355;i-am spus s&#259; nu vii pân&#259; nu &#355;i-oi face semn? &#354;i-am f&#259;cut semn? Vrei s&#259; dea Dragomir peste tine aici?... Pleac&#259;, du-te &#351;i nu mai veni pân&#259; nu te chem...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Stai s&#259;-&#355;i spui... Am venit s&#259;-&#355;i aduc o veste bun&#259;...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Ce veste bun&#259;?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Viu de la cârciuma Popii. Dragomir e tot acolo... E b&#259;ut... A jucat c&#259;r&#355;i, a pierdut &#351;i-a f&#259;cut cinste la to&#355;i... E acolo popa, notarul, primarul, sunt to&#355;i în odaie...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Asta &#355;i-e vestea a bun&#259;?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Stai... Dragomir pleac&#259; pân&#259;-n ziu&#259;.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Ei! Merge la târg.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Nu... pleac&#259;, nu se mai întoarce.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Ce?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Te las&#259;... se duce în lume!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Cum! <stage TEIform="stage">(aparte.)</stage> Nu crez eu asta.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Anco...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">'Aida-de! Mai sunt &#351;i eu p-aici.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Nu-&#355;i pare bine? N-ai zis c&#259; m&#259; iube&#351;ti?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Ei da! &#350;-apoi... dac&#259; te iubesc?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Când b&#259;rbatul î&#351;i p&#259;r&#259;se&#351;te nevasta, ea are drept, dup&#259; lege, s&#259; se despar&#355;&#259; de el &#351;i s&#259; ia pe cine-i place.</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(impacientat&#259;)</stage>
+<p TEIform="p">Ce vorbe&#351;ti prostii. Cum o s&#259; plece Dragomir? Unde s&#259; plece?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">N-a spus unde, dar î&#351;i ia ziua bun&#259; de la to&#355;i... z&#259;u! Pân&#259; în ziu&#259; se porne&#351;te...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Om vedea... <stage TEIform="stage">(aparte.)</stage> A&#351;a? <stage TEIform="stage">(st&#259; pe gânduri.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">La ce te gânde&#351;ti?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Gheorghe, uite-te la mine bine! E&#351;ti tu b&#259;rbat în toat&#259; firea, ori e&#351;ti un om u&#351;urel?... M&#259; poci eu încrede în tine? Faci ce &#355;i-oi zice eu?</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Fac.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Dar dac&#259; nu faci?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Spune ce, s&#259; fac!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Bine... S&#259; vedem ce-&#355;i poate dragostea: du-te &#351;i orice s-ar întâmpla, pân&#259; nu vezi semnul, nu te mi&#351;ca. <stage TEIform="stage">(Gheorghe face o mi&#351;care.)</stage> F&#259;r&#259; vorb&#259; mult&#259;, pleac&#259;. <stage TEIform="stage">(îl împinge spre fund.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Anco!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Du-te.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">M&#259; iube&#351;ti?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(foarte impacientat&#259;)</stage>
+<p TEIform="p">Da, da' du-te. <stage TEIform="stage">(îl împinge afar&#259;.)</stage> S&#259; nu te întâlne&#351;ti cu el... ia seama. <stage TEIform="stage">(închide.)</stage>
+</p>
+</sp>
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA VII</head>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker>
+<stage TEIform="stage">(singur&#259;, coboar&#259; la u&#351;a din stânga &#351;i ascult&#259;; o deschide bini&#351;or &#351;i se uit&#259; în&#259;untru; trece apoi &#351;i &#351;ade la mas&#259;)</stage>
+<p TEIform="p">Vrea s&#259; plece... Ce s&#259; fac?... S&#259; m&#259; duc &#351;i s&#259; strig în gura mare... s&#259; dau pe vinovatul 
+adev&#259;rat pe mâna judec&#259;torilor &#351;i s&#259; scap pe nevinovat... Dar dovada? 
+B&#259;nuiala mea. Dar ce dovad&#259; o s&#259; fie asta dac&#259; el o t&#259;g&#259;dui?... Ia stai... 
+Care va s&#259; zic&#259; el mai are un an s&#259; o duc&#259; cu frica în sân... anul &#259;sta o s&#259; umble fugar, 
+&#351;i peste un an î&#351;i poate spune singur fapta, &#351;i... s-a ispr&#259;vit... 
+S&#259; r&#259;mâie nepedepsit... A&#351;a e legea, bine; dar eu poci s&#259;-l las a&#351;a?... Nu... 
+nu se poate. <stage TEIform="stage">(pauz&#259;.)</stage> Nebunul &#259;sta tot e osândit o dat&#259;... Pentru un p&#259;cat, 
+dou&#259; ori zece, un om tot cu o via&#355;&#259; pl&#259;te&#351;te... &#350;i f&#259;r&#259; alt&#259; vin&#259; nou&#259;, nebunul tot are s&#259; 
+fie prins pân&#259; la urm&#259; &#351;i întors acolo de unde a fugit... <stage TEIform="stage">(pauz&#259;.)</stage> 
+&#350;i dac&#259; e vorba, ce este mai bine pentru un nebun? S&#259;-&#351;i târasc&#259; via&#355;a pribeag &#351;i 
+chinuit, f&#259;r&#259; ad&#259;post, f&#259;r&#259; o zdrean&#355;&#259; pe el, f&#259;r&#259; hran&#259;, ori s&#259; tr&#259;iasc&#259; la închisoare 
+îmbr&#259;cat, hr&#259;nit &#351;i îngrijit la vreme &#351;i ad&#259;postit?... S&#259; fie slobod e mai bine? 
+S&#259; se bucure de lumina soarelui în bun&#259;voie?... Dar e nebun... 
+Mai are nebunul bun&#259;voie?... Lumina soarelui f&#259;r&#259; lumina min&#355;ii... O s&#259;-i &#355;ie lumina 
+soarelui singur&#259; iarna de cald, ori de foame vara? O s&#259; g&#259;seasc&#259; ori nu un suflet de 
+cre&#351;tin s&#259;-l miluiasc&#259; cu o f&#259;râm&#259; de pâine.... o s&#259; degere, or o s&#259; se coac&#259; 
+toat&#259; ziuca, nemâncat, gonit de lipsa lui de voie, &#351;i seara o s&#259; adoarm&#259; de foame pe p&#259;mântul gol. 
+A&#351;a-a&#351;a... locul lui e la ocn&#259;... Dumnezeu, cine &#351;tie pentru ce p&#259;cate, l-a aruncat în pr&#259;pastie, dar a fost &#351;i bun &#351;i i-a luat mintea cu care s&#259;-&#351;i judece tic&#259;lo&#351;ia: i-a dat greutatea... dar i-a luat cump&#259;na! <stage TEIform="stage">(st&#259; pe gânduri.)</stage>
+</p>
+</sp>
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA VIII</head>
+<stage TEIform="stage">ANCA, DRAGOMIR</stage>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(intr&#259; &#351;i se opre&#351;te în prag, e palid &#351;i cam ame&#355;it)</stage>
+<p TEIform="p">Anco!... Anco!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(tres&#259;rind)</stage>
+<p TEIform="p">Ai venit? <stage TEIform="stage">(se scoal&#259;.)</stage></p>
+</sp>
+
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Da... î&#355;i pare r&#259;u? Dac&#259; î&#355;i pare r&#259;u... m&#259; duc iar... <stage TEIform="stage">(&#351;ov&#259;ie.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Nu-mi pare r&#259;u c-ai venit, îmi pare r&#259;u c-ai venit iar beat.</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Asta a&#351;a e... sunt... ce e drept sunt cam beat... Am b&#259;ut... dar de necaz am b&#259;ut. <stage TEIform="stage">(ofteaz&#259;.)</stage> Da, s&#259; &#351;tii tu... numai de necazul t&#259;u!</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">De ce ai b&#259;ut nu &#351;tiu, &#351;tiu c&#259; e&#351;ti beat... culc&#259;-te.</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Nu voi s&#259; m&#259; culc... Am de vorb&#259; cu tine...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Las' c&#259; mai vorbim mâine diminea&#355;&#259;, acuma nu po&#355;i vorbi...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Ba poci... D&#259;-mi s&#259; beau.</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Tot mai vrei?</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Tot mai vreau... Adu vin &#351;i s&#259; stai aici, c&#259; am s&#259; vorbesc cu tine. <stage TEIform="stage">(el st&#259; la mas&#259;, ea îi aduce o can&#259; cu vin.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Na... s&#259;-&#355;i treac&#259; necazul.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(ridic&#259; la gur&#259; cana &#351;i se opre&#351;te)</stage>
+<p TEIform="p">Tu! <stage TEIform="stage">(rânje&#351;te la ea)</stage> tu, n-auzi?... De ce vrei tu s&#259; m&#259; otr&#259;ve&#351;ti pe mine?</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">E&#351;ti nebun, vai de capul t&#259;u! Da' de ce s&#259; te otr&#259;vesc?</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Ca s&#259; scapi de mine, &#351;tiu eu!... &#350;i s&#259; tr&#259;ie&#351;ti cu altul... Poate c&#259; ai pus ochii pe Gheorghe, înv&#259;&#355;&#259;torul... Am cam mirosit eu ceva... <stage TEIform="stage">(rânjind.)</stage> Vai de voi!... V&#259; pui capul la amândoi! <stage TEIform="stage">(aduce cana la gur&#259; &#351;i iar se opre&#351;te.)</stage>
+</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Vorbe&#351;ti aiurea...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">S&#259; m&#259; otr&#259;ve&#351;ti, 'ai? <stage TEIform="stage">(îi d&#259; cana &#351;i aspru.)</stage> Na ici! Bea tu întâi... s&#259; te v&#259;z eu c&#259; bei.</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(ia cana, bea &#351;i i-o d&#259; înapoi)</stage>
+<p TEIform="p">Na.</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Tu, Anco, spune drept, ce gânde&#351;ti tu de mine?</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(luându-&#351;i lucrul)</stage>
+<p TEIform="p">Bine gândesc.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Bine?... Bine s&#259; fie... Las-o încurcat&#259;... <stage TEIform="stage">(pauz&#259;.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Aba, Dragomire, când pleci tu?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Unde s&#259; plec?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">În lume... &#351;tiu eu unde? Am auzit c&#259; vrei s&#259; m&#259; la&#351;i &#351;i s&#259; te duci încotro &#259;i vedea cu ochii...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Cine &#355;i-a spus?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Ce-&#355;i pas&#259;... De ce, Dragomire?...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Pentru c&#259; nu tr&#259;iesc bine cu tine... nu m&#259; iube&#351;ti... tu nu-mi e&#351;ti nevast&#259;, îmi e&#351;ti vr&#259;jma&#351;... pentru c&#259; tu m-ai nenorocit pe mine...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Eu? A&#351; vrea s&#259; &#351;tiu &#351;i eu cum.</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Da, tu... Dac&#259; nu te cuno&#351;team pe tine, eu era s&#259; fiu altfel de om... <stage TEIform="stage">(bea &#351;i ofteaz&#259;.)</stage> Hehe! Ce om era s&#259; fiu eu... Dar s-a dus... acu e degeaba... las-o încurcat&#259;!</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">&#350;i vrei s&#259; m&#259; la&#351;i?</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Da, numai cât&#259;va vreme... s&#259; vezi cum î&#355;i este &#351;i f&#259;r&#259; mine... <stage TEIform="stage">(bea.)</stage> Ascult&#259; ici la mine... unde &#355;i-e gândul?... Eu am o daraver&#259; departe... trebuie s&#259; plec mâine diminea&#355;&#259;... Tu... fii cuminte... stai acas&#259; &#351;i m-a&#351;teapt&#259;. S&#259; nu dea dracul!... C&#259; te tai!...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">O s&#259; z&#259;bove&#351;ti mult?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">O lun&#259;, dou&#259;, trei, mai mult... un an, nu &#351;tiu...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Dar ai s&#259; vii înapoi?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Fire&#351;te c&#259; viu... Tu ai s&#259; iei cu înscris de la Popa, -s&#259;-mi aduci aminte s&#259;-&#355;i dau înscrisul - cinci sute de lei... Hanul po&#355;i s&#259;-l dai cu chirire; tot Popa vrea s&#259;-l ia... &#350;i&#355;a de sub &#351;ur&#259; po&#355;i s-o vinzi... Scândurile de la deal o s&#259; le aduc&#259; peste câteva zile... mai ai s&#259; mai pl&#259;te&#351;ti vreo treizeci &#351;i cinci de lei... s&#259; le vinzi; po&#355;i apuca pe ele pân&#259; la o sut&#259; de lei.</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(dup&#259; ce l-a ascultat cu r&#259;bdare, cl&#259;tinând mereu din cap)</stage>
+<p TEIform="p">Aoleu, Dragomire!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Ce?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">S&#259; mai crez eu c&#259; ai s&#259; te întorci? Eu nu v&#259;z c&#259;-&#355;i faci adiata? <stage TEIform="stage">(se scoal&#259;.)</stage> Dragomire, tu n-ai s&#259; pleci... Cum se poate una ca asta! S&#259;-&#355;i la&#351;i tu casa ta &#351;i s&#259; fugi a&#351;a în lume... De ce? Ai sc&#259;p&#259;tat &#351;i mergi s&#259; slug&#259;re&#351;ti unde nu te cunoa&#351;te nimeni?</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">A&#351;!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Ori te-a ars focul &#351;i mergi s&#259; cau&#355;i ad&#259;post în alt&#259; parte?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Nu!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Atunci ai f&#259;cut poate vreo fapt&#259; rea &#351;i &#355;i-e team&#259; de r&#259;spundere, de pleci a&#351;a în str&#259;in&#259;t&#259;&#355;i de la tine &#351;i de la ai t&#259;i...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Dec!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">C&#259; cine fuge a&#351;a? Cine î&#351;i p&#259;r&#259;se&#351;te a&#351;a casa &#351;i locul, tam-nisam &#351;i-&#351;i ia lumea în cap?... Doar oamenii dezn&#259;d&#259;jdui&#355;i, or f&#259;c&#259;torii de rele, or... nebunii.</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(bea &#351;i rânje&#351;te)</stage>
+<p TEIform="p">Nebunii...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Dezn&#259;d&#259;jduit n-ai de ce s&#259; fii, c&#259; slava Domnului, ai dup&#259; ce bea ap&#259;... Fapte rele zici c&#259; n-ai f&#259;cut, c&#259; tu &#351;tii &#351;i Dumnezeu ce st&#259; pe cugetul t&#259;u... Atunci, Doamne iart&#259;-m&#259;, &#259;i fi nebun!</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(acela&#351;ii loc)</stage>
+<p TEIform="p">Mai &#351;tii? Oi fi...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">De asta s&#259; nu râzi... e&#351;ti tu ni&#355;el cam &#355;icnit... adic&#259;, ce ni&#355;el! E&#351;ti bine de tot; de mult &#355;i-ai pierdut s&#259;rita... <stage TEIform="stage">(Dragomir ascult&#259; nervos.)</stage> Noaptea visezi urât &#351;i sai din somn mereu... &#354;i-e fric&#259; s&#259; dormi cu lampa stins&#259;... Mai-nainte, unde se întâmpla la tine s&#259; te îmbe&#355;i!... Acuma î&#351;i bei min&#355;ile dintr-un &#355;oi de rachiu... Mai-nainte m&#259; sileai tu s&#259; fac poman&#259; &#351;i s&#259; &#355;iu soroacele de sufletul lui Dumitru <stage TEIform="stage">(Dragomir mi&#351;care)</stage> -ba c&#259; &#355;i-a fost prieten bun, ba c&#259; e p&#259;cat c&#259; s-a pr&#259;p&#259;dit a&#351;a om de omenie! - Ajunsesem s&#259; m&#259; mir eu de tine, cum tu b&#259;rbatul meu s&#259; nu m&#259; la&#351;i o clip&#259; m&#259;car s&#259;-mi uit de b&#259;rbatu-meu &#259;l dintâi... De la o vreme încoace, alta &#351;-alta: daca pomenesc cât de rar de el, te-apuc&#259; alte alea... Tu n-ai b&#259;gat de seam&#259; ce-ai f&#259;cut adineaori?</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Când adineaori?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Adineaori, când citea Gheorghe.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Ei?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Vorbe&#351;tii ni&#351;te vorbe... de nu te-ar cunoa&#351;te omul ar crede...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Ce vorbe? Ce-am zis?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Ce nu se cade s&#259; vorbe&#351;ti... Încai la b&#259;utur&#259;, calea-valea... e omul cu mintea împ&#259;ienjenit&#259;... Dar erai treaz...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Ei! Ce-am vorbit?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Mi-ai zis s&#259;-&#355;i spui ce crez eu de tine, c&#259; tu ai omorât pe Dumitru... &#351;i Gheorghe era de fa&#355;&#259;...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">&#350;i tu ce-ai r&#259;spuns?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">&#354;i-am r&#259;spuns ca totdeauna... c&#259; e&#351;ti nebun.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(încruntat)</stage>
+<p TEIform="p">Nebun!...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Uite, vezi... am luat seama c&#259; nu-&#355;i place de loc s-auzi vorba asta. Ce s&#259; fie cu tine, Dragomire? Eu gândesc c-o fi vreun p&#259;cat... S&#259; te spovede&#351;ti... s&#259; te grije&#351;ti...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Ce, am s&#259; mor?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Nu se spovede&#351;te omul numai când are s&#259; moar&#259;...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(indispus)</stage>
+<p TEIform="p">M-oi spovedi alt&#259; dat&#259;, n-am vreme acuma.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Când?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Când m-oi întoarce...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Dac&#259; t-ei mai întoarce...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Ei, a&#351;a! Dac&#259; m-oi mai întoarce... <stage TEIform="stage">(se ridic&#259; ame&#355;it)</stage> m-oi spovedi... Ei, &#351;-apoi ce? A&#351;a e via&#355;a omului! Pe to&#355;i dracul îi încalec&#259;... to&#355;i o s&#259; moar&#259;, to&#355;i! &#350;i eu o s&#259; mor... &#351;i tu o s&#259; mori, &#351;i Gheorghe &#351;i to&#355;i... pe rând, pe rând, ca la moar&#259;. <stage TEIform="stage">(se uit&#259; lung unul la altul.)</stage> Tu, femeie, tu e&#351;ti ispita... Anco! Anco! <stage TEIform="stage">(îi face &#351;ov&#259;ind semn s&#259; vie dup&#259; el.)</stage> 'Aide!... 'Aide, tu, n-auzi?... Mâini diminea&#355;&#259; plec... Tu! De ce nu m&#259; iube&#351;ti tu pe mine? <stage TEIform="stage">(o apuc&#259;.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(vrând s&#259;-l dep&#259;rteze)</stage>
+<p TEIform="p">Las&#259;-m&#259;...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Nu te las... <stage TEIform="stage">(o &#355;ine cu d-a sila.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(fixându-l)</stage>
+<p TEIform="p">Aba, Dragomire, &#355;ii tu minte alalt&#259;ieri la poman&#259; - c&#259; uitai s&#259; te întreb - când a venit rezervistul &#259;la, de ce ai fugit?</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(o las&#259; &#351;i o împinge u&#351;or încolo)</stage>
+<p TEIform="p">Care rezervist?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">&#258;la de sem&#259;na grozav cu Dumitru...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Tu &#351;tii care e &#259;la. <stage TEIform="stage">(se întoarce spre mas&#259;.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(dup&#259; o pauz&#259;)</stage>
+<p TEIform="p">Zici c&#259; pleci dis-de-diminea&#355;&#259;?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(posomorât)</stage>
+<p TEIform="p">Da... plec...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Atunci, culc&#259;-te... ai &#351;i b&#259;ut... e aproape de miezul nop&#355;ii...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(bea ce a mai r&#259;mas în can&#259;)</stage>
+<p TEIform="p">M&#259; duc! <stage TEIform="stage">(pleac&#259; spre u&#351;a od&#259;ii lui, la stânga, planul al doilea.) </stage>Sunt beat...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Crez... <stage TEIform="stage">(urmându-l încet.)</stage> Du-te de te odihne&#351;te... <stage TEIform="stage">(subliniind)</stage> &#351;i...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(din pragul u&#351;ii)</stage>
+<p TEIform="p">&#350;i... ce?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Închin&#259;-te... s&#259; nu mai visezi urât.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Bine! <stage TEIform="stage">(iese în stânga. Anca se uit&#259; din u&#351;e în odaie.)</stage></p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker>
+<p TEIform="p">A&#351;a... Dormi acuma. <stage TEIform="stage">(închide u&#351;a &#351;i ascult&#259;, trece apoi &#351;i ascult&#259; la u&#351;a cealalt&#259;, apoi coboar&#259;.)</stage> Închin&#259;-te, Dragomire, c&#259; se apropie ceasul!</p>
+</sp>
+
+<stage TEIform="stage">(Cortina)</stage>
+</div>
+</div>
+
+
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">ACTUL II</head>
+
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA I</head>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA </speaker>
+<stage TEIform="stage">(singur&#259; la mas&#259;)</stage>
+<p TEIform="p">S&#259; chem pe Gheorghe &#351;i s&#259;-l pui s&#259;-i sf&#259;râme capul... s&#259; stau s&#259; m&#259; spovedesc lui Gheorghe cu de-am&#259;nuntul... Am eu vreme de asta acuma?... Poci s&#259;-i ar&#259;t lui a&#351;a de scurt &#351;i în prip&#259; cum s-a strecurat &#351;i s-a în&#351;irat îndelung, încet-încet, b&#259;nuial&#259; cu b&#259;nuial&#259; în sufletul meu, pân&#259; s&#259; se înr&#259;d&#259;cineze credin&#355;a asta... c&#259; Dragomir e vinovat?... S&#259;-mi pierz noapte cu vorbe... Dar Gheorghe poate s&#259; nu vrea, or s&#259; nu fie în stare s&#259; fac&#259; a&#351;a fapt&#259;... Cum e b&#259;iatul u&#351;urel, m-oi c&#259;i c&#259; i-oi fi spus... <stage TEIform="stage">(pauz&#259;.)</stage> Nu... N-am nevoie de ajutor... S&#259; m&#259; gândesc mai bine... Cine n-o s&#259; creaz&#259; c&#259; tot nebunul fugit de la ocn&#259; a omorât &#351;i pe Dragomir?... <stage TEIform="stage">(pauz&#259;.)</stage> Da' de ce s&#259;-mi fac p&#259;cat &#351;i s&#259; mai str&#259;g&#259;nesc pe nevinovat?... Asear&#259;, la cârcium&#259;, Dragomir le-a spus la to&#355;i c&#259; pleac&#259;-n lume. Am destul r&#259;gaz pân&#259; la ziu&#259; s&#259;-l târ&#259;sc &#351;i s&#259;-l arunc în pu&#355;; a plecat, s-a dus... nu mai vine azi, nu mai vine mâine, o lun&#259;, un an, nu mai vine de loc... M-a p&#259;r&#259;sit!... <stage TEIform="stage">(pauz&#259;.)</stage> S-a hot&#259;rât... <stage TEIform="stage">(se scoal&#259;, merge la tarab&#259; &#351;i ia o bard&#259;, apoi coboar&#259; încet.)</stage> Adic&#259; s&#259; fie greu lucru?... Doarme beat. Un uria&#351; doarme... doarme &#351;i cugetul lui &#351;i puterea lui &#351;i voia lui; via&#355;a lui arde încet &#351;i domol, cum arde lumânarea f&#259;r&#259; s&#259; vrea s&#259; arz&#259;... O femeie slab&#259;, un copil fraged, hot&#259;râre numai s&#259; aib&#259;, poate s&#259; sufle o dat&#259;... &#351;-o stinge... <stage TEIform="stage">(se joac&#259; cu barda, cioplind bini&#351;or pe muchia mesii; în stânga s-aud gemetele nebunului; ea se treze&#351;te din gânduri &#351;i ascult&#259;.)</stage> Nebunul... S-a de&#351;teptat... o s&#259;-l de&#351;tepte &#351;i pe el... Ce s&#259; fac? S&#259;-l tr&#259;snesc în somn!... S&#259; moar&#259; f&#259;r&#259; s&#259; &#351;tie c&#259; moare, f&#259;r&#259; s&#259; vaz&#259; c&#259; eu îl lovesc, f&#259;r&#259; s&#259;-&#351;i aduc&#259; aminte de Dumitru... Dac&#259; n-o vezi c&#259; vine, aia nu mai e moarte! Nu, nu vreau în somn: atunci ar fi parc&#259; ar dormi mereu... Da... s&#259;-l de&#351;tept întâi: s&#259; &#351;tie c&#259;-i vine moartea, de la cine &#351;i de ce... <stage TEIform="stage">(pune barda pe tarab&#259; &#351;i porne&#351;te spre u&#351;a lui Dragomir, face câ&#355;iva pa&#351;i &#351;i se opre&#351;te; u&#351;a de la Dragomir se deschide, el apare foarte turburat.)</stage>
+</p>
+</sp>
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA II</head>
+<stage TEIform="stage">ANCA, DRAGOMIR</stage>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker>
+<stage TEIform="stage">(speriat)</stage>
+<p TEIform="p">Anco!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(aparte)</stage>
+<p TEIform="p">El!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Anco, am visat urât... m&#259; doare mâna!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Aiurezi... te doare mâna din vis...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">M&#259; înjunghie unde am semnul de mu&#351;c&#259;tur&#259;.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">&#350;ezi jos... tremuri. <stage TEIform="stage">(el &#351;ade.)</stage> De unde ai tu mu&#351;c&#259;tura aia la mân&#259;, Dragomire?</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">De mult.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Bine, de mult; dar de unde?... N-auzi?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">M-a b&#259;tut când eram copil &#351;i m-a mu&#351;cat unul pe care îl trântisem...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">De ce nu vrei tu s&#259;-mi spui ce ai pe suflet? Eu v&#259;z c&#259; tu nu e&#351;ti în toate ale tale... Tu ai un ghimpe în cugetul t&#259;u... Dest&#259;inuie&#351;te-te mie.</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">&#354;ie?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Da, mie: <stage TEIform="stage">(Dragomir mi&#351;c&#259; din cap negativ) </stage>spune &#351;i te u&#351;ureaz&#259;; dac&#259; ai duce-o mult a&#351;a, o s&#259; înnebune&#351;ti...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">S&#259; înnebunesc!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Da... Ce ai visat?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Un cap de mort... cu din&#355;ii mari... vrea s&#259; m&#259; mu&#351;ce... m&#259; doare...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Te doare c&#259; nu vrei s&#259; spui, te doare c&#259; nu te hot&#259;r&#259;&#351;ti s&#259; spargi buba &#351;i s-arunci r&#259;utatea afar&#259;... <stage TEIform="stage">(pauz&#259; - se apropie bini&#351;or de el &#351;i-l apuc&#259; pe dup&#259; gât.)</stage> Ia ascult&#259;, Dragomire... adic&#259; ce ar fi, cum st&#259;m noi aici amândoi, s&#259; te pomene&#351;ti cu Dumitru <stage TEIform="stage">(el face o mi&#351;care)</stage> c&#259; intr&#259; bini&#351;or pe u&#351;e... uite pe colo... <stage TEIform="stage">(arat&#259; în fund)</stage> s&#259;-l vezi c&#259; vine, cum era el înalt &#351;i voinic, &#351;i se a&#351;eaz&#259; frumos colea la mas&#259; în fa&#355;a ta: "Ei, bun&#259; seara, frate Dragomire... Ce mai faci? Mai î&#351;i aduci tu aminte de mine?..." <stage TEIform="stage">(Dragomir se zgârce&#351;te pe scaun &#351;i s-apuc&#259; de mas&#259;; ea îi ia repede capul în mâini &#351;i cearc&#259; s&#259; i-l întoarc&#259; cu d-a sila spre fund.)</stage> Ia uite colo... colo... Iac&#259;t&#259;-l... iac&#259;t&#259;-l!... Vino, vino, Dumitre!... <stage TEIform="stage">(vrea s&#259;-l întoarc&#259; cu toat&#259; puterea.)</stage> Ci uite-te!...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(smucindu-se)</stage>
+<p TEIform="p">Las&#259;-m&#259;!... <stage TEIform="stage">(se scoal&#259;; s-aude &#355;ipând nebunul; Dragomir se întoarce spre stânga; alt &#355;ipet.)</stage>
+</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Ascult&#259;... <stage TEIform="stage">(Dragomir î&#351;i întoarce privirile de la stânga, ea se repede aproape de el &#351;i, jucând spaima, &#351;optit.)</stage> Dragomire! <stage TEIform="stage">(îl smuce&#351;te &#351;i-l întoarce în loc cu fa&#355;a spre stânga; el d&#259; cu ochii de nebun, scoate un strig&#259;t înecat &#351;i r&#259;mâne încremenit.)</stage> Uite-l... &#350;tii cine e? E nebunul care a sc&#259;pat de la ocn&#259;...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Ion! <stage TEIform="stage">(cade zdrobit pe scaun.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">El!</p>
+</sp>
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA III</head>
+<stage TEIform="stage">DRAGOMIR, ANCA, ION</stage>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><stage TEIform="stage">(coboar&#259; tremurând)</stage>
+<p TEIform="p">Mi-e foame... Îmi dai s&#259; m&#259;nânc?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(lui Dragomir încet)</stage>
+<p TEIform="p">Trebuie s&#259;-l oprim aici pân&#259; mâine... <stage TEIform="stage">(merge la tarab&#259;, ia pâine, o can&#259; de rachiu &#351;i &#355;oiuri &#351;i le aduce pe mas&#259;.)</stage> &#350;ezi colea, Ioane...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">&#350;ez. <stage TEIform="stage">(&#351;ade sfios în fa&#355;a lui Dragomir, care se d&#259; înapoi cu scaunul.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(dându-i s&#259; bea)</stage>
+<p TEIform="p">Cum e la ocn&#259;, Ioane?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">Bodaproste... e bine. <stage TEIform="stage">(la întreb&#259;rile ei, Ion r&#259;spunde lui Dragomir.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">&#350;i cum ai fugit de acolo?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><stage TEIform="stage">(ca iluminat)</stage>
+<p TEIform="p">Vezi c&#259; s-a pogorât Maica Domnului la mine &#351;i zice: pe cum c&#259;, Ioane, când &#259;i ajunge la fântân&#259; sub deal, o s&#259;-&#355;i ias&#259; înainte cine s&#259; te aduc&#259; la mine, &#351;i s&#259; vii negre&#351;it... s&#259; vii, c&#259; eu te scap de to&#355;i du&#351;manii t&#259;i, &#351;i o s&#259;-&#355;i fie bine, c&#259; eu, Maica Domnului, o s&#259; pui stavil&#259; între tine &#351;i rele: relele s&#259; nu mai poat&#259; trece la tine, &#351;i nici tu s&#259; nu mai pot trece la ele... <stage TEIform="stage">(simplu.)</stage> A&#351;a...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Ei?...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">Pe urm&#259;, vere, m-am dus la fântâna de sub deal &#351;i am pus doni&#355;ele jos... Ei! Era frumos &#351;i cald... &#351;i era p&#259;durea singur&#259;... doar într-o tuf&#259; fluiera de departe o mierl&#259;... Numa', dinspre partea dealului, iac&#259;t&#259; c&#259;-mi iese înainte o veveri&#355;&#259;, - vezi, o trimisese Maica Domnului! - Sta în fa&#355;a mea în dou&#259; labe &#351;i se uita la mine drept cu ochii ei mititei &#351;i galbeni. Eu am dat s-o prinz, când colo ea... &#355;u&#351;t! A s&#259;rit p-o crac&#259; sub&#355;ire de alun: acu se încovoia craca &#351;i s-apleca cu ea pân&#259; la p&#259;mânt, acu se ridica, acu se ridica, acu se apleca. Eu dup&#259; ea, ea iar înaintea mea, în dou&#259; labe, se uita la mine... Îi sclipea ochii, vere, de parc&#259; era dou&#259; schintei &#351;i m&#259; chema iac-a&#351;a... <stage TEIform="stage">(face gestul.)</stage> Am umblat o zi întreag&#259;: la urm&#259; a pierit &#351;i am r&#259;mas r&#259;t&#259;cit... Da' acuma o s&#259; m&#259; duc înapoi acas&#259;.</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Unde acas&#259;?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">La ocn&#259;.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Ai sc&#259;pat &#351;i vrei s&#259; te duci singur înapoi?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Da' de ce te-a închis pe tine, Ioane?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">Pentru c&#259; am omorât pe Dumitru.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Da' tu l-ai omorât?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">Eu.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Ba nu tu.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">Ba eu... Luleaua &#351;i tutunul &#351;i amnarul lui era la mine.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Ei, &#351;-apoi? Dac&#259; s-o g&#259;si luleaua &#351;i tutunul &#351;i amnarul t&#259;u la mine, se cheam&#259; c&#259; te-am omorât, 'ai?</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><stage TEIform="stage">(neîn&#355;elegând bine)</stage>
+<p TEIform="p">E!...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Ascult&#259;-l pe el, Ioane, tu stai degeaba închis.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><stage TEIform="stage">(d&#259; din cap)</stage>
+<p TEIform="p">H&#259;h&#259;!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">&#350;i o s&#259; scapi curând de acolo... Peste un an... <stage TEIform="stage">(se opre&#351;te privind b&#259;nuitor la Anca; ea face o mi&#351;care de inteligen&#355;&#259;, trece la tarab&#259;, d-acolo în celar &#351;i ascult&#259; prin u&#351;e, pe care a l&#259;sat-o cr&#259;pat&#259;.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">Mai am unsprece ani.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Ba unul.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">Ba unsprece...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(impacientat s-apropie de Ion &#351;i confiden&#355;ial, dup&#259; ce a aruncat o c&#259;ut&#259;tur&#259; de jur împrejur)</stage>
+<p TEIform="p">Daca mâine, poimâine, o ie&#351;i un om &#351;-o zice: da&#355;i-i drumul lui Ion, c&#259; nu este el vinovat, e altcineva...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">Altcineva... Ei! A&#351;a a f&#259;cut unul de la noi de la ocn&#259;... om milos, vere, Dumnezeu s&#259;-l miluiasc&#259;...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(urmându-&#351;i jocul)</stage>
+<p TEIform="p">Las&#259;-m&#259; s&#259;-&#355;i spui... E altcineva: Ion a fost un prost, i-a luat din buzunar luleaua &#351;i tutunul; dar când i le-a luat, Dumitru era mort...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">Ba nu...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Ba era mort... cu fa&#355;a la p&#259;mânt...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">Ba nu, era trântit pe spate <stage TEIform="stage">(Anca mi&#351;care)</stage> &#351;i a deschis ochii la mine...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Ce!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(coboar&#259; repede la mas&#259;)</stage>
+<p TEIform="p">&#350;-apoi?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">Apoi l-a podidit sângele pe nas &#351;i pe gur&#259; &#351;-a murit... <stage TEIform="stage">(m&#259;nânc&#259;. Anca î&#351;i &#351;terge ochii &#351;i se uit&#259; la Dragomir.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(r&#259;stit la ea)</stage>
+<p TEIform="p">Ce te ui&#355;i la mine a&#351;a? <stage TEIform="stage">(ea apleac&#259; privirile; el mai aspru.)</stage> Uite-te la mine! <stage TEIform="stage">(bate cu pumnul în mas&#259;; Ion tresare; foarte animat, c&#259;tr&#259; Ion.)</stage> Când l-ai g&#259;sit în p&#259;dure?</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><stage TEIform="stage">(se scoal&#259; speriat &#351;i începe s&#259; tremure)</stage>
+<p TEIform="p">Spui, s&#259; nu m&#259; love&#351;ti, s&#259; nu m&#259; ba&#355;i!...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Cine te bate?... &#351;ezi jos... <stage TEIform="stage">(Ion &#351;ade înfrico&#351;at.)</stage> Pentru ce s&#259; te bat?</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">Pentru c&#259; am omorât pe Dumitru...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(coborând)</stage>
+<p TEIform="p">Cre&#351;tinul lui Dumnezeu, în&#355;elege c&#259; nu tu.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><stage TEIform="stage">(c&#259;tr&#259; Dragomir)</stage>
+<p TEIform="p">Nu eu... da' cine? <stage TEIform="stage">(Dragomir &#355;âfne&#351;te.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Spune cine, Dragomire.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(fierbând)</stage>
+<p TEIform="p">Nu te-amesteca tu în vorb&#259;!... Las&#259;-ne-n pace!... Nu &#351;tiu... <stage TEIform="stage">(bea cu sete.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(foarte simplu)</stage>
+<p TEIform="p">Vrei s&#259;-&#355;i spui eu, Ioane?... Uite cine. <stage TEIform="stage">(arat&#259; pe Dragomir; acesta face o mi&#351;care violent&#259;.)</stage> Uite, Ioane, vezi tu? &#258;sta a omorât pe Dumitru. <stage TEIform="stage">(lui Dragomir.)</stage> Zi tu c&#259; nu-i a&#351;a!... <stage TEIform="stage">(Ion se scoal&#259;, începe s&#259; râz&#259; pe-nfundate &#351;i s&#259; ocheasc&#259; pe Dragomir.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(bea pân&#259;-n fund, trânte&#351;te pe mas&#259; cana, care se face &#355;&#259;nd&#259;ri, &#351;i se scoal&#259;)</stage>
+<p TEIform="p">Sunt prost eu c&#259; stau la vorb&#259; cu doi nebuni!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Doi nebuni!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(amenin&#355;&#259;tor)</stage>
+<p TEIform="p">Tu, femeie!... <stage TEIform="stage">(încruntat, porne&#351;te spre ea, care s-a retras la tarab&#259;.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><stage TEIform="stage">(d&#259; un r&#259;cnet &#351;i se n&#259;puste&#351;te asupra lui Dragomir t&#259;indu-i drumul; îl apuc&#259; de gât &#351;i-l învârte&#351;te în loc)</stage>
+<p TEIform="p">Stai aci!... De ce l-ai ucis, m&#259;, pe cre&#351;tin? <stage TEIform="stage">(Anca din fund urm&#259;re&#351;te cu tot interesul jocul lor.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(luptând, înecat)</stage>
+<p TEIform="p">Las&#259;-m&#259;, nebunule!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><stage TEIform="stage">(crescendo)</stage>
+<p TEIform="p">Atunci, daca l-ai omorât tu, pe mine de ce m-a închis, m&#259;?... De ce m-a chinuit? De ce m-a lovit în cap? De ce? <stage TEIform="stage">(îl zguduie &#351;i-l împinge departe în fa&#355;&#259; lâng&#259; mas&#259;; Dragomir palid cade gâfâind pe un scaun...)</stage> Dac&#259; tu e&#351;ti vinovat <stage TEIform="stage">(obidindu-se treptat &#351;i ar&#259;tându-&#351;i moalele capului)</stage> De ce mi-a f&#259;cut mie bub&#259; aici în&#259;untru? <stage TEIform="stage">(se vait&#259;.)</stage> M&#259; doare!... M&#259; doare!...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(se ridic&#259; pe furi&#351; de pe scaun &#351;i face un pas)</stage>
+<p TEIform="p">Cum s&#259; scap?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><stage TEIform="stage">(oprindu-se din plâns &#351;i repezindu-se)</stage>
+<p TEIform="p">Stai aci! <stage TEIform="stage">(îl apuc&#259; de gât.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Anco, mi-a stins puterile!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><stage TEIform="stage">(crescendo)</stage>
+<p TEIform="p">Tu... e&#351;ti dracul!... Daca tu e&#351;ti dracul, de ce nu te duci s&#259; stai în balta unde te-a gonit Maica Domnului?... Or de ce nu mergi pe pustii locuri? Or de ce nu te întorci în fundul iadului?... De ce? <stage TEIform="stage">(îl pune în genunchi.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">M-a r&#259;pus!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">De ce s&#259; m&#259; chinuie&#351;ti tu pe mine? <stage TEIform="stage">(îl las&#259; un moment &#351;i-l prive&#351;te rânjind s&#259;lbatic.)</stage> M&#259;i!... este la noi o ocn&#259; p&#259;r&#259;sit&#259;... În fund e o balt&#259; neagr&#259;... Dac&#259; arunci o piatr&#259;-n fund, numa', de departe, din inima p&#259;mântului, începe s&#259; aue, &#351;i aue tot mereu, &#351;i tocm-a doua zi tace, când zice Maica Domnului: destul!... Acolo trebuie s&#259; vii tu cu mine... s&#259; te iau de gât <stage TEIform="stage">(îl înha&#355;&#259;) </stage>s&#259; te ridic &#351;i s&#259; te arunc în fundul b&#259;l&#355;ii... a&#351;a!... Haide. <stage TEIform="stage">(urlând.)</stage> Haide!... <stage TEIform="stage">(îl târ&#259;&#351;te; Dragomir se zbate.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(aparte)</stage>
+<p TEIform="p">Îl omoar&#259;... nu trebuie!... <stage TEIform="stage">(pune mâna pe bard&#259;.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">S&#259;i, Anco!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><stage TEIform="stage">(îl târ&#259;&#351;te)</stage>
+<p TEIform="p">haide! Nu urla, câine!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(alergând în fa&#355;a lui Ion, cu barda ridicat&#259;)</stage>
+<p TEIform="p">Nebunule! Î&#355;i cr&#259;p capul!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><stage TEIform="stage">(tresare, las&#259; pe Dragomir &#351;i se d&#259; la o parte sfios)</stage>
+<p TEIform="p">Nu el?... N-ai zis tu?... Tu ai zis. <stage TEIform="stage">(se retrage spre fund.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(ajutând pe Dragomir s&#259; se ridice)</stage>
+<p TEIform="p">Scoal&#259;!...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><stage TEIform="stage">(dep&#259;rtându-se)</stage>
+<p TEIform="p">Atunci, m&#259; duc. <stage TEIform="stage">(iese repede în fund.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(dup&#259; ce a ridicat pe Dragomir, care se a&#351;az&#259; obosit la mas&#259; &#351;i uitându-se în toate p&#259;r&#355;ile)</stage>
+<p TEIform="p">Dragomire, s-a dus!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">S-a dus?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Se duce-n sat... Trebuie s&#259;-l întoarcem înapoi &#351;i s&#259;-l &#355;inem aci pân&#259; vedem ce e de f&#259;cut... 'Aide dup&#259; el!</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Nu merg...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Fuge! N-o s&#259;-l mai ajungem...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Du-te tu.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(suie &#351;i privind c&#259;tre el, aparte)</stage>
+<p TEIform="p">A&#351;teapt&#259; tu! D-abia a-nceput!... <stage TEIform="stage">(iese în fug&#259; prin fund.)</stage>
+</p>
+</sp>
+</div>
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA IV</head>
+<stage TEIform="stage">DRAGOMIR singur, apoi ION</stage>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">N-o s&#259;-l mai poat&#259; ajunge... &#351;i chiar s&#259;-l ajung&#259;, ce folos! Parc-o s&#259; aib&#259; ea destul putere s&#259; se lupte cu nebunul... A putut femeia s&#259; m&#259; vânz&#259;... acu ar vrea s&#259; m&#259; scape, dar n-o s&#259; poat&#259;... Ion o s&#259; spuie... Înc&#259; un an... Pentru un an, s&#259; pierz via&#355;a întreag&#259;!... Pentru un an! A! Când n-are omul noroc! <stage TEIform="stage">(î&#351;i apuc&#259; cu mâinile capul.
+- Ion a ap&#259;rut la vorbele din urm&#259;, coboar&#259; &#351;i pune mâna pe um&#259;rul lui Dragomir; acesta se scoal&#259; &#351;i r&#259;mâne ca tr&#259;snit.)</stage> Anco!</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">A trecut pe lâng&#259; mine acuma... eram pe lavi&#355;&#259;; s-a dus încolo la vale... Mi-e foame, d&#259;-mi s&#259; m&#259;nânc. <stage TEIform="stage">(&#351;ade.)</stage> &#350;ezi &#351;i tu. <stage TEIform="stage">(bea.)</stage> Bea &#351;i tu. <stage TEIform="stage">(Dragomir se supune; - dup&#259; o pauz&#259; lung&#259;.)</stage> E unul la noi la ocn&#259;... Ce om bun, vere! Cum m&#259; miluie&#351;te el pe mine: m&#259;nânc&#259; numai câte o f&#259;rimi&#355;&#259; &#351;i tainul lui mi-l d&#259; mie! &#258;la a fost ucis pe tat&#259;-s&#259;u, &#351;i-l b&#259;gase pe frate-s&#259;u la ocn&#259;... Pe urm&#259;, vezi ce l-a înv&#259;&#355;at pe el Maica Domnului, s&#259; vie la ocn&#259; &#351;i s&#259; spuie: eu am r&#259;pus pe taica, lui neica s&#259;-i da&#355;i drumul, c&#259; nu e vinovat... <stage TEIform="stage">(simplu.)</stage> Iac-a&#351;a.</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(din ce în ce mai mi&#351;cat)</stage>
+<p TEIform="p">&#350;i...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">&#350;i i-a dat drumul lui fr&#259;&#355;ini-s&#259;u &#351;i l-a închis pe el.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Pe el...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">D-ap&#259;i!... Într-un târziu dup&#259; aia, a aflat el c&#259; fr&#259;&#355;ini-s&#259;u umbl&#259; s&#259; moar&#259;, &#351;i s-a rugat s&#259;-l lase de la ocn&#259; s&#259; mearg&#259; acas&#259; cu solda&#355;i numai pentru trei zile, c&#259; zice c&#259;: ce-am avut eu cu taica aia a fost alt&#259; socoteal&#259;; dar nu voi s&#259; plece alde neica pân&#259; nu m-o ierta...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">&#350;i l-a iertat?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">Da' de unde!...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Nu l-a iertat?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">Nu, n-a vrut s&#259;-l lase de la ocn&#259; s&#259; mearg&#259;...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">&#350;i frate-s&#259;u a murit a&#351;a?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><stage TEIform="stage">(d&#259; din cap c&#259; da, bea, apoi se uit&#259; lung la Dragomir)</stage>
+<p TEIform="p">M&#259; Dragomire, tu e&#351;ti s&#259;n&#259;tos &#351;i cu mintea întreag&#259; &#351;i o s&#259; tr&#259;ie&#351;ti bine... 
+&#351;i eu... <stage TEIform="stage">(zâmbind trist)</stage> o s&#259; mor a&#351;a... nec&#259;jit, b&#259;tut &#351;i nebun! 
+<stage TEIform="stage">(se ridic&#259;.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(foarte p&#259;truns)</stage>
+<p TEIform="p">Ioane!...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">Vezi... Tu la ce n-ai venit s&#259; spui pe cum c&#259; Ion nu-i vinovat... Pe Ion l-a&#355;i b&#259;tut în cap degeaba... Lua&#355;i-m&#259; pe mine. Ce-am avut eu cu Dumitru e alt&#259; socoteal&#259;, dar pe Ion l&#259;sa&#355;i-l s&#259;racul! <stage TEIform="stage">(cu obid&#259; adânc&#259;)</stage> &#351;i Ion s-ar fi rugat la Maica Domnului Buna pentru p&#259;catele tale... Vezi!... Vezi. <stage TEIform="stage">(plânge lini&#351;tit.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(plânge înfundat)</stage>
+<p TEIform="p">Ioane, eu caut s&#259; te scap pe tine... Tu s&#259; nu mai mergi, nu mai trebuie s&#259; mergi înapoi la ocn&#259;...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">Da' unde o s&#259; m&#259; duc eu?</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(iute)</stage>
+<p TEIform="p">Tu o s&#259; stai aci cu noi. <stage TEIform="stage">(Anca intr&#259; prin fund &#351;i se opre&#351;te în u&#351;e s&#259; asculte.)</stage> Or nu; mai bine s&#259; plec&#259;m... Vino cu mine... sc&#259;p&#259;m amândoi. Î&#355;i cump&#259;r haine nou&#259;, p&#259;l&#259;rie, cizme nou&#259;... De mâncare, de b&#259;utur&#259;... tot... î&#355;i dau eu ce-&#355;i trebuie. <stage TEIform="stage">(Anca se retrage afar&#259; în închide u&#351;a; Dragomir pleac&#259; ame&#355;it spre dreapta &#351;i se întoarce înapoi.)</stage> Or nu... vino &#351;i tu cu mine...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">Unde?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Colea în beci... s&#259; scoatem banii <stage TEIform="stage">(ia lampa)</stage> &#351;i s&#259; plec&#259;m... 'Aide... <stage TEIform="stage">(Dragomir pleac&#259; cu lampa înainte spre chepengul beciului; Ion îl urmeaz&#259;. Dragomir deschide &#351;i porne&#351;te s&#259; scoboare. Ion se retrage.)</stage> 'Aide!</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><stage TEIform="stage">(retr&#259;gându-se cu fric&#259;)</stage>
+<p TEIform="p">Nu, nu intru...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Da' s&#259; nu pleci!</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">Nu.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Or nu... st&#259;i <stage TEIform="stage">(iese din beci, alearg&#259; la u&#351;a din fund, o încuie &#351;i ia cheia; o pune în buzunar &#351;i coboar&#259; iar în beci.)</stage> Viu acu&#351;...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><stage TEIform="stage">(trece la mas&#259; &#351;i bea, fredoneaz&#259; un cântec haiducesc, apoi se opre&#351;te ascultând)</stage>
+<p TEIform="p">A început iar... Când url&#259; câinele, moarte cineva...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(iese din beci cu lampa &#351;i cu o ulcic&#259; în mân&#259;; închide chepengul la loc; vine la mas&#259;, scoate o basma din sân &#351;i toarn&#259; în ea banii din ulcic&#259;; înnoad&#259; basmaua &#351;i o pune în sân)</stage>
+<p TEIform="p">Gata, Ioane!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><stage TEIform="stage">(apucat de un fior)</stage>
+<p TEIform="p">Mi-e frig! <stage TEIform="stage">(Dragomir, mereu pripit, se repede în stânga &#351;i vine îndat&#259; cu o zeghe, pe care o arunc&#259; pe umerii lui Ion, &#351;i cu dou&#259; p&#259;l&#259;rii, una i-o pune lui Ion &#351;i alta o pune el pe cap.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Acu plec&#259;m... Tu s&#259; nu vorbe&#351;ti nimic pe drum... s&#259; m&#259; la&#351;i pe mine. 'Aide...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">'Aide! <stage TEIform="stage">(alt fior. Pornesc amândoi... U&#351;a e încuiat&#259;.)</stage></p>
+
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Ne-a închis pe dinafar&#259;! <stage TEIform="stage">(st&#259; un moment, caut&#259; cu gândul &#351;i aducându-&#351;i aminte.)</stage> A! <stage TEIform="stage">(se caut&#259; în buzunare... g&#259;se&#351;te cheia &#351;i deschide. Anca le vine în fa&#355;&#259;; ei se dau înapoi; ea intr&#259; &#351;i închide u&#351;a.)</stage>
+</p>
+</sp>
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA V</head>
+<stage TEIform="stage">DRAGOMIR, ION, ANCA</stage>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Da' încotro, Dragomire?... Încotro, neic&#259; Ioane?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Ascult&#259;, Anco...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(coborând cu Dragomir)</stage>
+<p TEIform="p">Nu mai spune, c&#259; &#351;tiu; eram la u&#351;e. <stage TEIform="stage">(Ion se-nvele&#351;te în zeghe, se trânte&#351;te pe o lavi&#355;&#259; &#351;i se culc&#259;.)</stage> Vezi, Dragomire, când zic eu c&#259; tu e&#351;ti mai nebun decât... (<emph TEIform="emph">arat&#259; cu ochii pe Ion.</emph>) S&#259; fugi în lume cu el!... Pe unde o s&#259; umble? Pân pustii? O s&#259; v&#259; întâlni&#355;i cu oameni... O s&#259;-l cunoasc&#259; cineva... E sc&#259;pat de la ocn&#259;... &#350;i chiar s&#259; nu-l cunoasc&#259; nimeni, po&#355;i tu s&#259;-i st&#259;pâne&#351;ti mintea? Da' când l-o apuca iar turba ca adineaori?</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(demoralizat)</stage>
+<p TEIform="p">Atunci?...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Ce copil o s&#259; auz&#259; asta &#351;i n-o s&#259; priceap&#259; ce leg&#259;tur&#259; e între oamenii &#259;&#351;tia doi, de pribegesc în lume, f&#259;r&#259; s&#259; poat&#259; spune de unde vin, f&#259;r&#259; s&#259; &#351;tie unde se duc?</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(descurajat de tot)</stage>
+<p TEIform="p">Dar ce s&#259; fac?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">S&#259; r&#259;mâi aici &#351;i s&#259;-l &#355;inem &#351;i pe el pân&#259; ne-om gândi la altceva mai cuminte.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Daca n-o vrea... dac&#259; nu-l putem &#355;ine... <stage TEIform="stage">(Ion geme &#351;i se zbucium&#259; în somn; Dragomir se sperie &#351;i se îndeas&#259; spre Anca.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Trebuie s&#259; putem... Cât o fi aici, îl iau eu pe seam&#259;. <stage TEIform="stage">(merge la Ion, care se munce&#351;te r&#259;u în somn &#351;i zguduindu-l forte brusc.)</stage> Ioane! Ioane!</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><stage TEIform="stage">(sare din somn; e cu totul apucat)</stage>
+<p TEIform="p">Da! Eu sunt vinovat... Maica Domnului mi-a zis s&#259; spui, ca s&#259; nu m&#259; lovi&#355;i... Bate&#355;i-l!... Da&#355;i-i la cap!... Se preface c&#259; e nebun... <stage TEIform="stage">(înduio&#351;at c&#259;tre Dragomir.)</stage> Uite cum îl bate! Uite cum îi d&#259; la cap lui Ion! <stage TEIform="stage">(&#355;ipând de groaz&#259;.)</stage> A!... Nu!... Nu!... Nu da&#355;i! <stage TEIform="stage">(în culmea spaimii.)</stage> O s&#259;-i sparg&#259; oasele, îi turte&#351;te &#355;easta capului... O s&#259;-l omoare!... <stage TEIform="stage">(î&#351;i acopere ochii.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Ioane!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><stage TEIform="stage">(crescendo)</stage>
+<p TEIform="p">De ce-l mai bate pe Ion dac&#259; a murit? <stage TEIform="stage">(d&#259; cu piciorul ca cum ar vrea s&#259; înl&#259;ture ceva.)</stage> S&#259;-l ia de aici... e plin de sânge... <stage TEIform="stage">(mai d&#259; o dat&#259;.)</stage> Nu mai mi&#351;c&#259;... <stage TEIform="stage">(iar.)</stage> A murit... <stage TEIform="stage">(porne&#351;te spre fund.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Pleac&#259;! <stage TEIform="stage">(amândoi se reped dup&#259; el &#351;i vor s&#259;-l apuce.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><stage TEIform="stage">(&#355;ipând)</stage>
+<p TEIform="p">Nu pune&#355;i mâna!... S&#259; nu da&#355;i... Ion a murit! <stage TEIform="stage">(se smuce&#351;te &#351;i le scap&#259;; se repede la tarab&#259;, ia un cu&#355;it mare &#351;i ridicându-l în sus m&#259;re&#355;.)</stage> Nu pune&#355;i mâna!... Ion merge la Maica Domnului. <stage TEIform="stage">(se precipit&#259; în odaia din stânga.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Dup&#259; el!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(oprind-o)</stage>
+<p TEIform="p">A luat cu&#355;itul!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Nu e nimic!... Dup&#259; el, s&#259;-l lini&#351;tim! Daca r&#259;cne&#351;te a&#351;a, aude cineva de pe drum. <stage TEIform="stage">(vrea s&#259; mearg&#259; spre stânga; Ion, cu figura radioas&#259;, reapare &#355;inând în sus cu&#355;itul plin de sânge; face doi pa&#351;i &#351;i se pr&#259;bu&#351;e&#351;te; amândoi se reped la el &#351;i-l ridic&#259;.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">S-a înjunghiat! <stage TEIform="stage">(îl a&#351;eaz&#259; pe o lavi&#355;&#259; lâng&#259; mas&#259;.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Înjunghiat aici!... În casa noastr&#259;! <stage TEIform="stage">(st&#259; pe gânduri; pe chipul ei str&#259;luce&#351;te o inspira&#355;ie.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(dezolat)</stage>
+<p TEIform="p">Ce-ai f&#259;cut, Ioane?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><stage TEIform="stage">(deschizând ochii)</stage>
+<p TEIform="p">D&#259;-mi ap&#259;... mi-e sete!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(cu o b&#259;rdac&#259; de ap&#259;)</stage>
+<p TEIform="p">&#354;ine, Ioane.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><stage TEIform="stage">(bea)</stage>
+<p TEIform="p">Bodaproste... Maica Domnului mi-a zis: scoate-&#355;i m&#259;runtaiele când intr&#259; Necuratul, &#351;i arunc&#259;-le câinelui...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Ascult&#259;, Dragomire.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><p TEIform="p">... C&#259; eu, Maica Domnului, o s&#259; pui stavil&#259; între tine &#351;i rele... &#351;-o s&#259; dormi... o s&#259; dormi... D&#259;-mi ap&#259;... m&#259; arde... <stage TEIform="stage">(Anca îi d&#259;.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker>
+</sp>
+<p TEIform="p">Ioane!</p>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker>
+</sp>
+<stage TEIform="stage">(dând cu mâna într-o parte b&#259;rdaca)</stage>
+<p TEIform="p">Scoate-mi m&#259;runtaiele &#351;i d&#259;-le câinelui s&#259; nu mai urle!... Caut&#259;-m&#259; la picior, din jos de genunchi... am un chimir... S&#259; te duci la ocn&#259; &#351;i s&#259;-l dai de la mine &#259;luia de a omorât pe tat&#259;-s&#259;u...</p>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(scoate chimirul &#351;i-l baz&#259; în buzunarul lui Dragomir)</stage>
+<p TEIform="p">&#354;ine... <stage TEIform="stage">(aparte.)</stage> Nu moare odat&#259;... o s&#259; ne apuce ziua.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ION</speaker><stage TEIform="stage">(iluminat)</stage>
+<p TEIform="p">Uite veveri&#355;a!... colo sus... pe crac&#259;!... Uite-o <stage TEIform="stage">(vrea s&#259; se închine &#351;i-i cade mâna; - în extazul suprem.)</stage> Maica Domnului!... Tu e&#351;ti?... Tu m&#259; chemi?... Stai, c&#259; viu... iac&#259;t&#259;-m&#259;, viu!... <stage TEIform="stage">(expir&#259;.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(închinându-se foarte p&#259;truns&#259;)</stage>
+<p TEIform="p">S-a ispr&#259;vit!... Dumnezeu s&#259; te ierte, omule. <stage TEIform="stage">(Dragomir e zdrobit; ea, schimbând tonul d-odat&#259;.)</stage> Acu-i acu, Dragomire... acu ce ne facem?...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">S&#259; d&#259;m de &#351;tire...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Vrei s&#259; intri, or s&#259; m&#259; bagi pe mine în fundul ocnii! S&#259; zic&#259; c&#259; l-am omorât noi!... Nu. Pân&#259; acuma nu &#351;tie nimeni c-a venit aici: s&#259;-l arunc&#259;m în pu&#355;ul &#259;l p&#259;r&#259;sit. Mâine om astupa, pu&#355;ul &#351;i atât... 'Aide! Nu e vreme de pierdut! Se lumineaz&#259; de ziu&#259;; r&#259;mânem cu mortu-n cas&#259; pân&#259; mâine noaptea... A! S&#259; sting lumina... trece cineva pe drum &#351;i ne vede ie&#351;ind a&#351;a... <stage TEIform="stage">(stinge lampa.)</stage> Pune mâna... <stage TEIform="stage">(Amândoi iau pe Ion &#351;i pornesc spre fund; se aud în dep&#259;rtare clopotele de la biseric&#259;... Ei se opresc s-asculte.)</stage> Toac&#259; de utrenie... Ai avut încai noroc la moarte, Ioane: î&#355;i trage clopotele ca la to&#355;i cre&#351;tinii!... La al&#355;ii nici m&#259;car atâta!... <stage TEIform="stage">(Ies prin fund... Pauz&#259; - în timp ce clopotele urmeaz&#259;. Amândoi reintr&#259;. Anca aprinde lampa &#351;-o aduce pe mas&#259;. Dragomir foarte deprimat &#351;ade; c&#259;ma&#351;a îi e mânjit&#259; pu&#355;in de sânge.)</stage>
+</p>
+</sp>
+</div>
+
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA VI</head>
+
+<stage TEIform="stage">ANCA, DRAGOMIR</stage>
+
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Acu, ce stai? Trebuie s&#259; te g&#259;te&#351;ti de plecare.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">De plecare...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Fire&#351;te.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">De ce s&#259; mai plec?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Ca s&#259; scapi &#351;i tu &#351;i s&#259; m&#259; scapi &#351;i pe mine. Daca se afl&#259;, &#351;i e&#351;ti tot aici, &#351;i eu am t&#259;cut, se cheam&#259; c&#259; amândoi l-am omorât... Eu... sunt nevinovat&#259; &#351;i nu vreau s&#259; caz&#259; vina pe mine. Daca vrei s&#259; stai, eu caut&#259; s&#259; m&#259; duc în sat &#351;i s&#259; spui tot, tot, tot... Daca pleci, m&#259; fac c&#259; g&#259;sesc pe Ion în pu&#355; &#351;i dau de &#351;tire... N-ai grije; î&#355;i las eu vreme destul s-ajungi departe... Tu e&#351;ti fugarul, tu vinovatul... &#351;-am sc&#259;pat amândoi...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Vino &#351;i tu.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Daca fug &#351;i eu, cade vina pe mine; nu poci asta... <stage TEIform="stage">(suie; dup&#259; o pauz&#259; mare, coborând la el cu bra&#355;ele încruci&#351;ate.)</stage> Nu &#355;i-e ru&#351;ine! Nu &#355;i-a fost mil&#259; &#351;i p&#259;cat de Dumnezeu!... Cre&#351;tin e&#351;ti tu?... Om e&#351;ti tu? Vine un biet p&#259;c&#259;tos în casa ta, î&#355;i cere o buc&#259;&#355;ic&#259; de pâine la masa ta, e obosit &#351;i te roag&#259; de ad&#259;post sub acoperemântul t&#259;u, î&#355;i spune taina lui, &#351;i tu, fiar&#259; f&#259;r&#259; de lege, pui mâna pe cu&#355;it &#351;i spinteci omul! <stage TEIform="stage">(Dragomir face ni&#351;te ochi foarte mira&#355;i.)</stage> Cu ce-&#355;i gre&#351;ise bietul nebun?... Ce piedic&#259; &#355;i-era el în lumea asta larg&#259;, unde e loc pentru to&#355;i? <stage TEIform="stage">(cu toat&#259; energia.)</stage> De ce ai omorât pe Ion?</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Eu... pe Ion!...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Pe Ion.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Eu... am omorât... pe Ion! <stage TEIform="stage">(râde febril.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker>
+<p TEIform="p">Râzi? Nu tu, da' cine? <stage TEIform="stage">(el se uit&#259; la ea lung; ea îi înfrunt&#259; c&#259;ut&#259;tura; merge la el &#351;i-l apuc&#259; de pieptull c&#259;m&#259;&#351;ii.)</stage> Asta ce e? Sângele &#259;sta al cui e? Nu-i sângele lui Ion?...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(î&#351;i încheie repede minteanul la piept)</stage>
+<p TEIform="p">Fugi d-aici!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Nu te-ncheia, Dragomire; pe c&#259;ma&#351;e e pu&#355;in; în odaie dincolo e mult; uite, ici e plin... Du-te în curte, e stropit peste tot; mergi de scoate o g&#259;leat&#259; din pu&#355;, s&#259; vezi apa ro&#351;ie... Tu, uciga&#351;ule, tu! O s&#259; te gunoie&#351;ti de viu între pere&#355;ii de sare umezi pân&#259; o socoti Dumnezeu c-a venit ceasul s&#259; te cheme ca s&#259; te judece el mai bine...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Pentru ce?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Pentru c&#259; ai ridicat via&#355;a altuia...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">A cui?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">A lui Ion.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(st&#259; un moment &#351;i se &#351;terge la ochi)</stage>
+<p TEIform="p">Femeie! Daca te-ar întreba cineva pe tine de asta, ce-ai spune?...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Ce-am v&#259;zut.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(ciudit din ce în ce)</stage>
+<p TEIform="p">Ce?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(simplu)</stage>
+<p TEIform="p">C&#259; Dragomir a r&#259;pus pe Ion nu &#351;tiu de ce!...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Tu?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(ia lampa &#351;i o pune la oblon; apoi coboar&#259;)</stage>
+<p TEIform="p">M&#259;car c&#259; tu ai fost r&#259;u cu mine, mie tot mi-e mil&#259; de tine, Dragomire; am s&#259;-&#355;i dau o pova&#355;&#259;... Dac&#259; s-o întâmpla &#351;i n-&#259;i avea noroc s&#259; scapi pân&#259; la urm&#259;; dac&#259; or pune mâna pe tine, nu fi prost &#351;i te-apuca s&#259; t&#259;g&#259;duie&#351;ti cum faci cu mine, c&#259; acolo nu te joci ca aicea: te-or pune la chinuri, vai de via&#355;a ta!... O s&#259;-&#355;i rup&#259; carnea, s&#259;-&#355;i smulg&#259; din&#355;ii &#351;i unghiile, s&#259;-&#355;i descheie &#355;easta capului... Ascult&#259;-m&#259; pe mine, eu î&#355;i vorbesc de binele t&#259;u. <stage TEIform="stage">(se uit&#259; cu neastâmp&#259;r în fund.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Care va s&#259; zic&#259;...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Faci ce-&#355;i spui eu: m&#259;rturise&#351;ti c-ai ucis pe Ion &#351;i te alegi numai cu pedeapsa; încai scapi de chinuri.</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(revoltat, b&#259;tând cu pumnul în mas&#259;)</stage>
+<p TEIform="p">Da' daca nu l-am ucis eu?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Asta e! Începem iar; ba nu, ba da, ba da, ba nu.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(fierbând)</stage>
+<p TEIform="p">Las&#259;-m&#259;! <stage TEIform="stage">(î&#351;i vâr&#259; capu-n mâini, astupându-&#351;i urechile.)</stage>
+</p>
+</sp>
+</div>
+
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA VII</head>
+<stage TEIform="stage">ACEIA&#350;I &#8211; GHEORGHE</stage>
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><stage TEIform="stage">(intr&#259; repede, vede pe Dragomir &#351;i vrea s&#259; se retrag&#259;)</stage>
+<p TEIform="p">Dragomir!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(suind la Gheorghe; foarte repede &#351;i &#351;optit)</stage>
+<p TEIform="p">Mergi în sat, ia pe primar &#351;i oricâ&#355;i oameni g&#259;se&#351;ti, spune c&#259; te-am trimes eu pentru un omor... &#351;i vino cu ei...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><p TEIform="p">Ce e?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Mergi, î&#355;i spui... o s&#259; vezi... Vino iute! <stage TEIform="stage">(îl mân&#259; afar&#259;.)</stage>
+</p>
+</sp>
+</div>
+
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA VIII</head>
+<stage TEIform="stage">ANCA, DRAGOMIR</stage>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(vine cu pasul grav la Dragomir, care st&#259; pe un scaun cu capul în mâini)</stage>
+
+<p TEIform="p">Scoal&#259;, Dragomire, c-a sosit ceasul!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(se scoal&#259;)</stage>
+<p TEIform="p">Ceasul!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Ceasul socotelii. St&#259;i drept... adun&#259;-&#355;i min&#355;ile câte le mai ai &#351;i r&#259;spunde la ce te-oi întreba... Pentru ce l-ai omorât?</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(înecat de ciud&#259; pân&#259; la lacrimi)</stage>
+<p TEIform="p">Nu! Nu l-am omorât eu!... N-ai fost tu aicea? N-ai v&#259;zut tu?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Nu pe Ion... pe Ion las&#259;-l... De altcineva î&#355;i vorbesc eu acuma...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(p&#259;lind, încet)</stage>
+<p TEIform="p">De cine?...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">&#350;tii de cine, nu te mai preface... Tu vrei s&#259; pleci, tu caut&#259; s&#259; pleci. <stage TEIform="stage">(el face trist din cap c&#259; da; ea, aspru.)</stage> Ei!... Nu faci un pas de-aici pân&#259; nu-i zici pe nume... <stage TEIform="stage">(privindu-l cu toat&#259; puterea.)</stage> Zi-i odat&#259; pe nume!</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(încet de tot)</stage>
+<p TEIform="p">Du...mi...tru!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(r&#259;suflând din adânc)</stage>
+<p TEIform="p">Ai v&#259;zut? A&#351;a! Du-mi-tru! <stage TEIform="stage">(&#351;ade jos; el st&#259; în picioare.)</stage> Pentru ce l-ai ucis...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Pentru tine...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Pentru mine...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Ca s&#259; te iau eu...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Cum l-ai ucis? Spune. <stage TEIform="stage">(î&#351;i pune coatele pe mas&#259; &#351;i b&#259;rbia în palma &#351;i ascult&#259; nemi&#351;cat&#259;; el st&#259; drept, se încheie cu îngrijire în mintean &#351;i poveste&#351;te simplu.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">M&#259; tot goneai... Odat&#259;, când ai ie&#351;it de la biseric&#259; la Vinerea Marea, seara - &#355;i-aduci aminte - m-am dat pe lâng&#259; tine &#351;i &#355;i-am zis încet: "Anco! De ce n-ai vrut s&#259; m&#259; iei pe mine? Eu tot te iubesc... Las&#259;-l pe Dumitru &#351;i vino!..." &#354;i-aduci aminte?</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Da, mi-aduc.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Tu mi-ai r&#259;spuns: "Am b&#259;rbat, las&#259;-m&#259;-n pace!..."</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">&#350;i tu?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Eu am plecat acas&#259;, n-am dormit toat&#259; noaptea &#351;i diminea&#355;a... m-am hot&#259;rât.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Cum ai f&#259;cut?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">&#350;tiam când se-ntoarce de la deal pân p&#259;dure... &#351;i l-am a&#351;teptat... Venea &#351;uierând... Ne-am întâlnit, ne-am dat în vorb&#259;... i-am ar&#259;tat o plut&#259; înalt&#259;; el a ridicat ochii în sus. Am tras cu&#355;itul, &#351;i pân&#259; s-aplece iar ochii... <stage TEIform="stage">(se opre&#351;te, stingându-i-se glasul.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(î&#351;i acopere fa&#355;a - un moment - apoi &#351;i-o descopere &#351;i-l prive&#351;te a&#351;teptând)</stage>
+<p TEIform="p">Ei?... Înainte.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Ce s&#259;-&#355;i mai spui?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">El ce-a f&#259;cut?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">A &#355;ipat &#351;-a c&#259;zut în genunchi... a dat s&#259; scoa&#355;&#259; cu&#355;itul... da' m-am repezit &#351;i l-am lovit peste mân&#259; &#351;i la beregat&#259;... când m-am aplecat la el, m-a mu&#351;cat de mân&#259;.</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">De la el era mu&#351;c&#259;tura! <stage TEIform="stage">(îi face semn s&#259; urmeze.)</stage></p>
+</sp>
+
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Pe urm&#259;, l-am întors cu fa&#355;a în jos, am mers la fântân&#259; de m-am sp&#259;lat &#351;i m-am dus acas&#259; s&#259; m&#259; culc, c&#259; nu mai puteam, c&#259;deam d-a-n picioarele de ostenit... Ion l-a g&#259;sit acolo... Pe urm&#259;... &#351;tii...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(sculându-se)</stage>
+<p TEIform="p">&#350;tiu... La un an ai venit &#351;i mi-ai zis: "Anco, nu-&#355;i mai tr&#259;ie&#351;te b&#259;rbatul, m&#259; iei?" Vorba ta &#351;i glasul cum mi-ai spus-o, mi-au dat un junghi pân inim&#259;; nici nu te luam altfel, c&#259; mi-erai urât; de-aia te-am luat ca s&#259; te aduc în sfâr&#351;it aici. De la început te-am b&#259;nuit. Tot ce-ai f&#259;cut pe urm&#259;, întâi grija de sufletul r&#259;posatului, apoi spaimele &#351;i turba ta când î&#355;i pomeneam de el, vorbele tale f&#259;r&#259; &#351;ir tot de omorâtori &#351;i de termenele pân&#259; când încape pedeapsa, &#351;i visurile tale cu capete de mor&#355;i, care te mu&#351;ca, &#351;i câte altele, puneau mai mult temei b&#259;nuielii mele. 
+Mai întâi, m&#259; hot&#259;râsem s&#259; te cur&#259;&#355; - ba era s&#259; bag &#351;i alt suflet în p&#259;cat! - pe urm&#259; am stat s&#259; m&#259; gândesc mai bine. Adineaori credeam c&#259; o s&#259; te sugrume nebunul; era s&#259; las s&#259; te socote&#351;ti cu el, dar aveam &#351;i eu cu tine o r&#259;fuial&#259; mai mare: nu te puteam l&#259;sa s&#259; treci dincolo a&#351;a nejudecat aicea. <stage TEIform="stage">(pauz&#259;.)</stage> Te-am judecat, te-ai m&#259;rturisit, trebuie s&#259;-&#355;i dau acuma pedeapsa ce &#355;i se cade c-ai r&#259;pus pe omul ce mi-era drag ca lumina ochilor, tu, care mi-ai fost urât totdeauna... <stage TEIform="stage">(suie &#351;i-l las&#259;-n urm&#259;.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Eu te-am iubit... &#351;i...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">&#350;i?...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">&#350;i... da' acu e degeaba... Eu trebuie s&#259; plec în lume; tu... poate s&#259; iei pe Gheorghe... <stage TEIform="stage">(înecat &#351;i foarte încet)</stage> dar s&#259; &#351;tii c&#259; tot te iubesc...</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Da? <stage TEIform="stage">(râde.) </stage>A&#351;teapt&#259; s&#259; vezi tu acuma cum o s&#259;-&#355;i pl&#259;tesc eu &#355;ie dragostea. <stage TEIform="stage">(pauz&#259;.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Anco, eu plec... s&#259; m&#259; ier&#355;i!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">S&#259; te iert! D-aia te-am r&#259;bdat eu lâng&#259; mine, d-aia am umblat eu atâta vreme s&#259; te aduc aici, ca s&#259; te iert? <stage TEIform="stage">(râde. Se aud pa&#351;i &#351;i glasuri afar&#259;.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Taci!... Anco, vine cineva...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Da, vine Gheorghe, cu oameni... vin s&#259; te ridice c&#259; ai omorât pe Ion.</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><p TEIform="p">Pe Ion! <stage TEIform="stage">(izbucnind.)</stage> Tu m-ai vândut... cu Gheorghe...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">D-apoi cine?</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(îngrozit, c&#259;utând în toate p&#259;r&#355;ile)</stage>
+<p TEIform="p">Femeie! Vreau s&#259; scap... Nu vreau s&#259; puie mâna pe mine!... Mi-e fric&#259;!... Vreau s&#259; scap!</p>
+
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Nu se mai poate! <stage TEIform="stage">(s-aude glasul lui Gheorghe.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">GHEORGHE</speaker><stage TEIform="stage">(d-afar&#259;)</stage>
+<p TEIform="p">Haide to&#355;i!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker><stage TEIform="stage">(r&#259;cnind)</stage>
+<p TEIform="p">A! <stage TEIform="stage">(&#355;inte&#351;te pe Anca &#351;i se precipit&#259; la ea s-o strâng&#259; de gât.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><stage TEIform="stage">(&#355;ipând &#351;i fugind spre u&#351;e)</stage>
+<p TEIform="p">S&#259;ri&#355;i, fiara! <stage TEIform="stage">(u&#351;a se deschide; Gheorghe &#351;i al&#355;i oameni n&#259;v&#259;lesc în&#259;untru)</stage> m&#259; omoar&#259; &#351;i pe mine!</p>
+
+</sp>
+</div>
+
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA IX</head>
+<stage TEIform="stage">DRAGOMIR, ANCA, GHEORGHE, mai mul&#355;i oameni</stage>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">DRAGOMIR</speaker>
+<stage TEIform="stage">(coboar&#259; aiurit &#351;i se în&#355;epene&#351;te în fa&#355;&#259;; Gheorghe &#351;i al&#355;i doi oameni coboar&#259; la el &#351;i-l apuc&#259; de amândou&#259; bra&#355;ele; el se uit&#259; la ei pierdut &#351;i tremurând)<lb TEIform="lb"/>
+</stage>
+<p TEIform="p">Merg... merg eu... s&#259; nu m&#259; bate&#355;i, merg! <stage TEIform="stage">(rug&#259;tor c&#259;tr&#259; Gheorghe.)</stage> Nu m&#259; strânge a&#351;a tare de-acolo... &#354;i-am spus c&#259; m&#259; doare!</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker><p TEIform="p">Oameni buni... a tras asear&#259; la noi în gazd&#259; un biet drume&#355;; nu &#351;tiu de unde venea, nici unde se ducea... L-a ucis b&#259;rbatu-meu! În odaie &#351;i colea, uita&#355;i-v&#259;, e lac de sânge!... C&#259;uta&#355;i în pu&#355;ul &#259;l p&#259;r&#259;sit de lâng&#259; gr&#259;din&#259;... Avea nenorocitul de el un chimir la picior... acu e la Dragomir în buzunar. <stage TEIform="stage">(Dragomir pune machinal mâna, scoate chimirul &#351;i-l d&#259; râzând proste&#351;te unuia din oameni.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">UN OM</speaker><stage TEIform="stage">(cu o frânghie în mân&#259;)</stage>
+<p TEIform="p">De ce omorâ&#351;i cre&#351;tinul, m&#259;? <stage TEIform="stage">(îl leag&#259;.)</stage>
+</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ALT OM</speaker><p TEIform="p">Lua&#355;i-l!... La prim&#259;rie...</p>
+</sp>
+
+<sp TEIform="sp">
+<speaker TEIform="speaker">ANCA</speaker>
+<p TEIform="p">Oameni buni... eu v-am descoperit fapta; dar omul &#259;sta e b&#259;rbatul meu... 
+O s&#259; mi-l lua&#355;i de tot.. r&#259;mâi singur&#259;. 
+Trebuie s&#259; m&#259; l&#259;sa&#355;i s&#259;-i spui &#351;i eu o vorb&#259;... 
+<stage TEIform="stage">(Oamenii se dau cu respect în l&#259;turi; ea s-apropie de Dragomir, care st&#259; nemi&#351;cat, 
+&#351;i r&#259;spicat îi &#351;opte&#351;te.)</stage> 
+Dragomire, uite-te la mine: <stage TEIform="stage">(el o prive&#351;te)</stage> pentru fapt&#259; r&#259;splat&#259; 
+&#351;i n&#259;past&#259; pentru n&#259;past&#259;!</p>
+</sp>
+
+
+<stage TEIform="stage">(Cortina)</stage>
+</div>
+</div>
+
+
+</body>
+</text>
+</TEI.2>

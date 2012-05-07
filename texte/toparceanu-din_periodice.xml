@@ -1,0 +1,2515 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.5 //EN" "http://www.tei-c.org/Lite/DTD/teixlite.dtd">
+<TEI.2 lang="ro" TEIform="TEI.2">
+<teiHeader type="text" status="new" TEIform="teiHeader">
+	<fileDesc TEIform="fileDesc">
+		<titleStmt TEIform="titleStmt">
+		<title TEIform="title">Din periodice</title>
+		<author TEIform="author">George Topârceanu</author>
+		</titleStmt>
+	
+		<editionStmt TEIform="editionStmt">
+			<edition TEIform="edition">
+			<date TEIform="date">2004-08-10T12:16:11</date>
+			</edition>
+		</editionStmt>
+		
+		<publicationStmt TEIform="publicationStmt">
+			<publisher TEIform="publisher">
+				<name TEIform="name">Scriptorium.ro</name>
+				<address TEIform="address"><addrLine TEIform="addrLine">dadi.at.scriptorium.ro</addrLine></address>
+			</publisher>
+
+			<distributor TEIform="distributor">Scriptorium</distributor>
+		
+			<availability status="unknown" TEIform="availability">
+			<p TEIform="p">Aceasta editie electronica este (c) Adrian Petru Dimulescu si acoperita de licenta Attribution 1.0 a Creative Commons, http://creativecommons.org/licenses/by/1.0/</p>
+			<p TEIform="p">In mare, licenta permite reutilizarea in orice mod, chiar comerciala, a textului, atata vreme cat mentiunile cuvenite referitoare la creatorul acestei versiuni electronice sunt prezente in copii.</p>
+			</availability>
+		</publicationStmt>
+	
+		<sourceDesc default="NO" TEIform="sourceDesc">
+			<bibl default="NO" TEIform="bibl">
+				<author TEIform="author">George Topârceanu</author>
+				<title TEIform="title">Din periodice</title>
+				<imprint TEIform="imprint">
+					<pubPlace TEIform="pubPlace">Bucure&#351;ti</pubPlace>
+					<publisher TEIform="publisher">Editura pentru literatur&#259;</publisher>
+					<date TEIform="date">1969</date>
+				</imprint>
+			</bibl>
+			<p TEIform="p">Written by OpenOffice</p>
+		</sourceDesc>
+	</fileDesc>
+
+	<profileDesc TEIform="profileDesc">
+		<langUsage default="NO" TEIform="langUsage">
+		<language id="ro" TEIform="language">ISO </language>
+		</langUsage>
+	</profileDesc>
+	
+	<revisionDesc TEIform="revisionDesc">
+		<change TEIform="change">
+		<date TEIform="date">2004-09-08T00:48:57</date>
+		<respStmt TEIform="respStmt"><name TEIform="name">Adrian Petru Dimulescu</name></respStmt>
+		<item TEIform="item">creation</item>
+		</change>
+	</revisionDesc>
+</teiHeader>
+
+<text TEIform="text">
+<front TEIform="front">
+	<titlePage TEIform="titlePage">
+		<docTitle TEIform="docTitle"><titlePart type="main" TEIform="titlePart">Din periodice</titlePart></docTitle>
+		<docAuthor TEIform="docAuthor">George Topârceanu</docAuthor>
+	</titlePage>
+</front>
+
+<body TEIform="body">
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Furtuna</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Nimeni n-a r&#259;mas în strad&#259;.</l>
+<l part="N" TEIform="l">Norii negri vin gr&#259;mad&#259;.</l>
+<l part="N" TEIform="l">Zboar&#259; frunzele uscate</l>
+<l part="N" TEIform="l">În v&#259;zduh împr&#259;&#351;tiate</l>
+<l part="N" TEIform="l">&#350;i salcâmii stau s&#259; cad&#259;:</l>
+<l part="N" TEIform="l">Bate vântul, bate...</l>
+<l part="N" TEIform="l">A ie&#351;it de la r&#259;scruce</l>
+<l part="N" TEIform="l">O femeie care duce</l>
+<l part="N" TEIform="l">Un copil de mân&#259;... Sun&#259;</l>
+<l part="N" TEIform="l">Por&#355;i izbite de furtun&#259;</l>
+<l part="N" TEIform="l">&#350;i femeia face cruce:</l>
+<l part="N" TEIform="l">Fulger&#259; &#351;i tun&#259;.</l>
+<l part="N" TEIform="l">Dar a norilor n&#259;fram&#259;</l>
+<l part="N" TEIform="l">Se sfâ&#351;ie... Biata mam&#259;,</l>
+<l part="N" TEIform="l">Cu puterile sc&#259;zute,</l>
+<l part="N" TEIform="l">Vrea copilul s&#259;-&#351;i ajute</l>
+<l part="N" TEIform="l">&#350;i cu glas pierdut îl cheam&#259;:</l>
+<l part="N" TEIform="l">&#8212; Hai cu mama, iute!</l>
+<l part="N" TEIform="l">L-a luat acum în bra&#355;e.</l>
+<l part="N" TEIform="l">Ploaia o izbe&#351;te-n fa&#355;&#259;.</l>
+<l part="N" TEIform="l">Bolta parc&#259;-i spart&#259;-n dou&#259;...</l>
+<l part="N" TEIform="l">Cu mânu&#355;ele-amândou&#259;</l>
+<l part="N" TEIform="l">El de gâtul ei s-aga&#355;&#259;:</l>
+<l part="N" TEIform="l">&#8212; Plou&#259;, mam&#259;, plou&#259;!</l>
+</lg>
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Lacul</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">În gr&#259;mezi greoaie, norii</l>
+<l part="N" TEIform="l">Dintr-o parte str&#259;b&#259;tur&#259;</l>
+<l part="N" TEIform="l">&#350;i de chipul lor p&#259;truns&#259;,</l>
+<l part="N" TEIform="l">Fa&#355;a lacului e sur&#259;.</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+
+<l part="N" TEIform="l">Lâng&#259; ap&#259;, singuratic,</l>
+<l part="N" TEIform="l">Plopul trist, f&#259;r&#259; ve&#351;mânt,</l>
+<l part="N" TEIform="l">Jeluindu-&#351;i frunza moart&#259;</l>
+<l part="N" TEIform="l">Se îndoaie dup&#259; vânt.</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Pleac&#259; unde dup&#259; unde</l>
+<l part="N" TEIform="l">&#350;i mi&#351;carea lor domoal&#259;</l>
+<l part="N" TEIform="l">Colo-n trestie p&#259;trunde,</l>
+<l part="N" TEIform="l">Leg&#259;nând o luntre goal&#259;...</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Mult a&#351; vrea în feeria</l>
+<l part="N" TEIform="l">Unei nop&#355;i de mai, senine,</l>
+<l part="N" TEIform="l">S&#259; plutesc pe apa-&#355;i clar&#259;,</l>
+<l part="N" TEIform="l">Cu iubita lâng&#259; mine,</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">&#350;i a undelor poveste</l>
+<l part="N" TEIform="l">Nesfâr&#351;it&#259;, s-o ascult...</l>
+<l part="N" TEIform="l">Dar a&#351;a, cum e&#351;ti acuma,</l>
+<l part="N" TEIform="l">Lacule, îmi placi mai mult!</l>
+</lg>
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Vin', iubito</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Prin dumbrav&#259; se strecoar&#259;</l>
+<l rend="indent(8)" part="N" TEIform="l">Vânt de var&#259;,</l>
+<l part="N" TEIform="l">&#350;i cocorii, &#351;ir pribeag,</l>
+<l part="N" TEIform="l">În adânc senin plutesc.</l>
+<l part="N" TEIform="l">Cânt&#259; cucu în huceag:</l>
+<l part="N" TEIform="l">Cucule, câ&#355;i ani tr&#259;iesc?</l>
+<l part="N" TEIform="l"/>
+<l part="N" TEIform="l">Îmbr&#259;catu-s-au în floare</l>
+<l rend="indent(8)" part="N" TEIform="l">De ninsoare,</l>
+<l part="N" TEIform="l">Pomii to&#355;i de prin livezi.</l>
+<l part="N" TEIform="l">Râul lunec&#259; pe prund</l>
+<l part="N" TEIform="l">A&#351;a limpede c&#259;-i vezi</l>
+<l part="N" TEIform="l">Pietricelele din fund.</l>
+<l part="N" TEIform="l"/>
+<l part="N" TEIform="l">Jos, în umbr&#259; de r&#259;chite,</l>
+<l rend="indent(8)" part="N" TEIform="l">T&#259;inuite</l>
+<l part="N" TEIform="l">Viorele s-au ivit,</l>
+<l part="N" TEIform="l">&#350;i-n p&#259;r negru la femei</l>
+<l part="N" TEIform="l">Cât de albi au înflorit</l>
+<l part="N" TEIform="l">Parfuma&#355;ii ghiocei!</l>
+<l part="N" TEIform="l"/>
+<l part="N" TEIform="l">Vin', iubito! O poveste</l>
+<l rend="indent(8)" part="N" TEIform="l">Trist&#259; este</l>
+<l part="N" TEIform="l">Via&#355;a noastr&#259; când s-a stins,</l>
+<l part="N" TEIform="l">Dar e rai când o tr&#259;im.</l>
+<l part="N" TEIform="l">Vino! Domnul dinadins</l>
+<l part="N" TEIform="l">Ne-a f&#259;cut s&#259; ne iubim:</l>
+<l part="N" TEIform="l"/>
+<l part="N" TEIform="l">A pus vara în dumbrav&#259;</l>
+<l rend="indent(8)" part="N" TEIform="l">&#350;i-a zis: "Na-v&#259;</l>
+<l part="N" TEIform="l">Crângul plin de cânt&#259;tori,</l>
+<l part="N" TEIform="l">&#350;i copacii înverzi&#355;i,</l>
+<l part="N" TEIform="l">&#350;i poienile cu flori</l>
+<l part="N" TEIform="l">Vi le dau <emph TEIform="emph">s&#259; v&#259; iubi&#355;i!</emph>"</l>
+
+</lg>
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Ter&#355;ine</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">&#350;i acum &#355;in minte &#351;oaptele-i pierdute</l>
+<l part="N" TEIform="l">În vuietul s&#259;lbatic de furtun&#259;:</l>
+<l part="N" TEIform="l">"De ce nu e&#351;ti cuminte? Du-te, du-te!"</l>
+<l part="N" TEIform="l">E vânt, e noapte. Fulger&#259; &#351;i tun&#259;,</l>
+<l part="N" TEIform="l">&#350;i-o ploaie &#8212; acum a început s&#259; cad&#259;</l>
+<l part="N" TEIform="l">În picuri mari cât boaba de alun&#259;.</l>
+<l part="N" TEIform="l">Cuprinsu-i plin ca de sclipiri de spad&#259;,</l>
+<l part="N" TEIform="l">Eu plec încet, ca-n vis, &#351;i nu-mi dau seam&#259;.</l>
+<l part="N" TEIform="l">Un glas... dar cine-ar fi putut s&#259; cread&#259;?</l>
+<l part="N" TEIform="l">P&#259;rea c&#259;-n urm&#259;-mi rug&#259;tor m&#259; cheam&#259;.</l>
+
+</lg>
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">O noapte</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Pe cerul plin de stele nori negri se a&#351;tern</l>
+<l part="N" TEIform="l">Întunecând deodat&#259; al nop&#355;ii far etern.</l>
+<l part="N" TEIform="l">O umbr&#259; fioroas&#259; înv&#259;luie p&#259;mântul</l>
+<l part="N" TEIform="l">&#350;i-n pacea nop&#355;ii negre, vuind s-aude vântul.</l>
+<l part="N" TEIform="l">Mai fi-vor pentru mine vrodat&#259; nop&#355;i cu lun&#259;?</l>
+<l part="N" TEIform="l">Furtun&#259; e afar&#259; &#351;i-n pieptul meu &#8212; furtun&#259;.</l>
+<l part="N" TEIform="l">Sclipesc fulegere repezi pe ceru-ntunecat,</l>
+<l part="N" TEIform="l">Cum gânduri repezi, noaptea, din suflet mi-o str&#259;bat.</l>
+<l part="N" TEIform="l">&#350;i tunetul s-aude gemând în dep&#259;rtare</l>
+<l part="N" TEIform="l">Cum geme-ntr-al meu suflet eterna desperare.</l>
+<l part="N" TEIform="l">B&#259;tut de vânturi, codrul pustiu &#351;i jalnic sun&#259;.</l>
+<l part="N" TEIform="l">Furtun&#259; e afar&#259; &#351;i-n pieptul meu &#8212; furtun&#259;.</l>
+
+</lg>
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">C&#259;rtur&#259;reasa</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">&#8212; Uite, ai un dar în cas&#259;,</l>
+<l part="N" TEIform="l">Vorbe bune, cu temei</l>
+<l part="N" TEIform="l">De la dama cea de verde,</l>
+<l part="N" TEIform="l">Dar s&#259; te fere&#351;ti s&#259;-l iei.</l>
+<l part="N" TEIform="l">Pentru c&#259; nu minte cartea,</l>
+<l part="N" TEIform="l">Ea ghice&#351;te orice gând,</l>
+<l part="N" TEIform="l">Vezi, cu dama cea de tob&#259;,</l>
+<l part="N" TEIform="l">Ceart&#259;, lacrimi pe curând.</l>
+<l part="N" TEIform="l">Dragoste pe drum de sear&#259;</l>
+<l part="N" TEIform="l">Cu un crai de ghind&#259;, &#351;i</l>
+<l part="N" TEIform="l">Gând la gând cu bucurie,</l>
+<l part="N" TEIform="l">Chiar o veste vei primi...</l>
+<l part="N" TEIform="l">Serioas&#259;, vis&#259;toare,</l>
+<l part="N" TEIform="l">Cu ochi negri &#351;i cumin&#355;i,</l>
+<l part="N" TEIform="l">A r&#259;mas privind, copila,</l>
+<l part="N" TEIform="l">Gura babei, f&#259;r&#259; din&#355;i...</l>
+<l part="N" TEIform="l">&#8212; Cum e crai de ghind&#259;, babo?</l>
+<l part="N" TEIform="l">&#8212; Nalt &#351;i oache&#351;, fata mea.</l>
+<l part="N" TEIform="l">&#8212; &#350;i cu ochii mari &#351;i umezi,</l>
+<l part="N" TEIform="l">&#350;i cam palid, nu-i a&#351;a?</l>
+<l part="N" TEIform="l">Seara, când s&#259; se dezbrace,</l>
+<l part="N" TEIform="l">Singuric&#259; în iatac,</l>
+<l part="N" TEIform="l">Pe obrajii ei s-aprinde</l>
+<l part="N" TEIform="l">Floarea rumen&#259; de mac.</l>
+<l part="N" TEIform="l">&#350;i privindu-se-n oglind&#259;</l>
+<l part="N" TEIform="l">Î&#351;i s&#259;rut&#259; bra&#355;ul drept:</l>
+<l part="N" TEIform="l">"Crai de ghind&#259;, crai de gind&#259;,</l>
+<l part="N" TEIform="l">Vin' la mine, c&#259; te-a&#351;tept!"</l>
+</lg>
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">P&#259;catul</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">I</l>
+<l part="N" TEIform="l">Trist vâjâie vântul &#351;i crengile-ndoaie,</l>
+<l part="N" TEIform="l">În negur&#259; cânt&#259; al codrilor glas</l>
+<l part="N" TEIform="l">&#350;i calul str&#259;bate, prin pânze de ploaie,</l>
+<l part="N" TEIform="l">Drum f&#259;r&#259; lumin&#259; &#351;i f&#259;r&#259; popas...</l>
+<l part="N" TEIform="l">Un fulger deasupra tresare o clip&#259;,</l>
+<l part="N" TEIform="l">Se v&#259;d nouri vine&#355;i pe cerul cernit,</l>
+<l part="N" TEIform="l">&#350;i pas&#259;rea nop&#355;ii s&#259;lbatic&#259; &#355;ip&#259;</l>
+<l part="N" TEIform="l">De spaim&#259;, cu glasul prelung, ascu&#355;it.</l>
+<l part="N" TEIform="l">&#350;i &#355;ip&#259;tul jalnic r&#259;sun&#259; departe,</l>
+<l part="N" TEIform="l">Ecou-l repet&#259; cu sute de guri. &#8212;</l>
+<l part="N" TEIform="l">Adânc r&#259;spânde&#351;te o spaim&#259; de moarte</l>
+<l part="N" TEIform="l">Plutind peste-ntinderi de negre p&#259;duri...</l>
+<l part="N" TEIform="l">Noaptea-i oarb&#259;, vântul bate,</l>
+<l part="N" TEIform="l">Ploaia pic&#259;-n picuri reci,</l>
+<l part="N" TEIform="l">Fulgerele dep&#259;rtate</l>
+<l part="N" TEIform="l">Dau lumin&#259; pe poteci.</l>
+<l part="N" TEIform="l">La apus, din vreme-n vreme,</l>
+<l part="N" TEIform="l">Tunetul departe geme, &#8212;</l>
+<l part="N" TEIform="l">Du-te, du-te, nu te teme!</l>
+
+<l part="N" TEIform="l">Noaptea-i neagr&#259;, &#8212; las's&#259; fie,</l>
+<l part="N" TEIform="l">C&#259;-&#355;i arat&#259; drumul greu</l>
+<l part="N" TEIform="l">Doi ochi negri &#8212; &#351;i te-mbie</l>
+<l part="N" TEIform="l">S&#259; te duci spre ei, mereu.</l>
+<l part="N" TEIform="l">Pentru ochii de c&#259;rbune,</l>
+<l part="N" TEIform="l">Iadu-n cale de s-ar pune,</l>
+<l part="N" TEIform="l">Spaima lui nu te-o r&#259;pune.</l>
+<l part="N" TEIform="l">&#350;i de ploaie nu te plânge,</l>
+<l part="N" TEIform="l">Bra&#355;e albe când te-or strânge,</l>
+<l part="N" TEIform="l">Sim&#355;i în vine foc, nu sânge!</l>
+<l part="N" TEIform="l">II</l>
+<l part="N" TEIform="l">Vuind prelung se-ntinde a clopotelor jale</l>
+<l part="N" TEIform="l">În pacea nop&#355;ii negre. La vechea m&#259;n&#259;stire,</l>
+<l part="N" TEIform="l">Chiliile &#8212; b&#259;trâne zidiri medievale &#8212;</l>
+<l part="N" TEIform="l">În sunetul de clopot tresar din amor&#355;ire.</l>
+<l part="N" TEIform="l">Din lini&#351;tea chiliei, prin ferestruici boltite,</l>
+<l part="N" TEIform="l">Str&#259;bate-n întuneric o palid&#259; lumin&#259;,</l>
+<l part="N" TEIform="l">T&#259;iat&#259;-n dungi de groase z&#259;brele ruginite,</l>
+<l part="N" TEIform="l">&#350;i liliacul nop&#355;ii, cu aripa lui fin&#259;,</l>
+<l part="N" TEIform="l">O spintec&#259; în zborul cotit, &#8212; apoi dispare</l>
+<l part="N" TEIform="l">&#355;ipând în întuneric. R&#259;sar de prin chilii</l>
+<l part="N" TEIform="l">C&#259;lug&#259;ri&#355;e &#8212; negre fantome solitare &#8212;</l>
+<l part="N" TEIform="l">Cu haine lungi, cernite, purtând în mâini f&#259;clii.</l>
+<l part="N" TEIform="l">Biserica înalt&#259; începe s&#259; r&#259;sune,</l>
+<l part="N" TEIform="l">Curg note tânguioase în lini&#351;tea adânc&#259;,</l>
+<l part="N" TEIform="l">&#350;i lin plutind în noapte cânt&#259;ri de rug&#259;ciune</l>
+<l part="N" TEIform="l">Se-ntorc &#351;i se repet&#259;, lovite-n zid de stânc&#259;.</l>
+<l part="N" TEIform="l">III</l>
+<l part="N" TEIform="l">.......................</l>
+<l part="N" TEIform="l">&#8212; Epifànio, când toaca te de&#351;teapt&#259; la utrenii</l>
+<l part="N" TEIform="l">&#350;i când maicile vin toate s&#259; se roage la altar,</l>
+<l part="N" TEIform="l">Pentru ce stai în iatacul înc&#259;rcat de mirodenii,</l>
+<l part="N" TEIform="l">Urm&#259;rind, prin întuneric, voluptoasele vedenii</l>
+<l part="N" TEIform="l">Care rând pe rând dispar?</l>
+<l part="N" TEIform="l">În t&#259;cerea din odaie, ale gândurilor &#351;oapte</l>
+<l part="N" TEIform="l">Î&#355;i r&#259;sun&#259;-ncet în suflet, ca un cântec adormit,</l>
+<l part="N" TEIform="l">Din trecutul t&#259;u crâmpeie de icoane &#351;i de fapte</l>
+<l part="N" TEIform="l">Ca prin vis le desf&#259;&#351;oar&#259; a uit&#259;rii neagr&#259; noapte,</l>
+<l part="N" TEIform="l">Parc&#259; altul le-a tr&#259;it...</l>
+<l part="N" TEIform="l">A ascuns în tine Domnul un tezaur de virtute,</l>
+<l part="N" TEIform="l">Dar &#355;i-a dat ochi plini de visuri, negri, mari, cu gene lungi,</l>
+<l part="N" TEIform="l">&#355;i-a s&#259;dit în sânge sâmbur de dorin&#355;i necunoscute,</l>
+<l part="N" TEIform="l">O, credin&#355;a ta e mare, dar cu-atâtea nop&#355;i pierdute,</l>
+<l part="N" TEIform="l">Maic&#259;, unde vrei s-ajungi?</l>
+<l part="N" TEIform="l">Trupul t&#259;u plin de via&#355;&#259; n-a &#351;tiut ce e iubirea,</l>
+<l part="N" TEIform="l">Gura ta nes&#259;rutat&#259; numai sfin&#355;i a s&#259;rutat,</l>
+<l part="N" TEIform="l">Tu e&#351;ti moart&#259; pentru lume, &#8212; dar a&#351;a &#355;i-a fost menirea,</l>
+<l part="N" TEIform="l">Las&#259; gândurile triste, &#8212; maic&#259;, maic&#259;, ia psaltirea</l>
+<l part="N" TEIform="l">&#350;i f&#259;-&#355;i cruce de p&#259;cat!</l>
+<l part="N" TEIform="l">....................</l>
+<l part="N" TEIform="l">Arde candela pe mas&#259;, cu o palid&#259; lumin&#259;,</l>
+<l part="N" TEIform="l">&#350;i bolnavele ei raze întunericu-l p&#259;trund.</l>
+<l part="N" TEIform="l">Neclintit&#259; ca de piatr&#259;, Epifània se-nchin&#259;</l>
+<l part="N" TEIform="l">La icoanele-nnegrite, care stau în umbra fin&#259;,</l>
+<l rend="indent(2)" part="N" TEIform="l">Pe peretele din fund...</l>
+<l rend="indent(6)" part="N" TEIform="l">&#8212; Vezi-mi inima-ntristat&#259;,</l>
+<l rend="indent(10)" part="N" TEIform="l">Maic&#259; preacurat&#259;,</l>
+<l rend="indent(6)" part="N" TEIform="l">&#350;i de sus mi-o lumineaz&#259;</l>
+<l rend="indent(10)" part="N" TEIform="l">Cu cereasc&#259; raz&#259;!</l>
+<l rend="indent(6)" part="N" TEIform="l">C&#259; un demon, plin de ur&#259;,</l>
+<l rend="indent(10)" part="N" TEIform="l">Lini&#351;tea mi-o fur&#259;,</l>
+<l rend="indent(6)" part="N" TEIform="l">Demon r&#259;u, trimis de Domnul,</l>
+<l rend="indent(10)" part="N" TEIform="l">S&#259;-mi alunge somnul.</l>
+<l rend="indent(6)" part="N" TEIform="l">D&#259;-mi credin&#355;&#259; neclintit&#259;,</l>
+<l rend="indent(10)" part="N" TEIform="l">Pav&#259;z&#259;-n ispit&#259;,</l>
+<l rend="indent(6)" part="N" TEIform="l">&#350;i când dorul m&#259; fr&#259;mânt&#259;,</l>
+<l rend="indent(10)" part="N" TEIform="l">D&#259;-mi puteri de sfânt&#259;!</l>
+<l rend="indent(6)" part="N" TEIform="l">C&#259;-mi închin durerea &#355;ie</l>
+<l rend="indent(10)" part="N" TEIform="l">Pentru vecinicie,</l>
+<l rend="indent(6)" part="N" TEIform="l">&#350;i via&#355;a mea &#355;i-o-nchin</l>
+<l rend="indent(10)" part="N" TEIform="l">Pe p&#259;mânt. Amin.</l>
+<l part="N" TEIform="l">Lini&#351;tea ne&#355;&#259;rmurit&#259; iar&#259;&#351;i sufletul i-apas&#259;,</l>
+<l part="N" TEIform="l">Ce pustiu &#351;i ce t&#259;cere! Din bogatul ei pervaz,</l>
+<l part="N" TEIform="l">Maica pururea Fecioar&#259; o prive&#351;te blând miloas&#259;,</l>
+<l part="N" TEIform="l">Cum st&#259; alb&#259;, nemi&#351;cat&#259;, cu un cot lipit de mas&#259;</l>
+<l part="N" TEIform="l">&#350;i cu palma sub obraz.</l>
+<l part="N" TEIform="l">Pe acelea&#351;i c&#259;i natura, oarb&#259;-n veci, pe to&#355;i ne mân&#259;,</l>
+<l part="N" TEIform="l">F&#259;r&#259; voie, tuturora ne d&#259; m&#259;rul lui Adam.</l>
+<l part="N" TEIform="l">În zadar încearc&#259; omul cu neputincioas&#259; mân&#259;</l>
+<l part="N" TEIform="l">S&#259;-i supuie mersul tainic; ea ni-e mam&#259; &#351;i st&#259;pân&#259;...</l>
+<l part="N" TEIform="l">&#8212; Maic&#259;, cine bate-n geam?</l>
+<l part="N" TEIform="l">......................</l>
+<l part="N" TEIform="l">IV</l>
+<l part="N" TEIform="l">Prin trupul ei str&#259;bate un lung fior de ghea&#355;&#259;:</l>
+<l part="N" TEIform="l">E el &#8212; &#351;i-ar vrea s&#259; cread&#259;, ca alte d&#259;&#355;i, c&#259; nu e...</l>
+<l part="N" TEIform="l">Un val aprins de sânge îi n&#259;v&#259;le&#351;te-n fa&#355;&#259;</l>
+<l part="N" TEIform="l">Întunecându-i mintea. Ea sare &#351;i-i descuie.</l>
+<l part="N" TEIform="l">Iar el s-arat&#259;-n u&#351;&#259; ca-ntr-un pervaz de scânduri,</l>
+<l part="N" TEIform="l">&#350;i-un cle&#351;te de foc parc&#259; i-a strâns inima ei.</l>
+<l part="N" TEIform="l">Din noaptea min&#355;ii sale, din v&#259;lm&#259;&#351;ag de gânduri,</l>
+<l part="N" TEIform="l">Un glas adânc îi strig&#259;: ,,E înc&#259; timp de vrei!"</l>
+<l part="N" TEIform="l">Dar buzele lor arse de flac&#259;ra dorin&#355;ii</l>
+<l part="N" TEIform="l">S-apropie în tremur &#351;i lung se împreun&#259;.</l>
+<l part="N" TEIform="l">Uitându-&#351;i m&#259;n&#259;stirea, &#351;i cerul, &#351;i to&#355;i sfin&#355;ii,</l>
+<l part="N" TEIform="l">Ea l-a cuprins în bra&#355;e cu-o patim&#259; nebun&#259;.</l>
+<l part="N" TEIform="l">V</l>
+<l part="N" TEIform="l">Noapte-adânc&#259; &#351;i furtun&#259;,</l>
+<l part="N" TEIform="l">Tunetul deasupra tun&#259;</l>
+<l part="N" TEIform="l">Tot mai tare: o ghiulea</l>
+<l part="N" TEIform="l">Care zguduie natura,</l>
+<l part="N" TEIform="l">Aruncat&#259;-n cer de-a dura</l>
+<l part="N" TEIform="l">Peste-a norilor podea.</l>
+<l part="N" TEIform="l">Ca sclipirile de spad&#259;</l>
+<l part="N" TEIform="l">Fulgerele-ncep s&#259; cad&#259;</l>
+<l part="N" TEIform="l">Luminând de zeci de ori,</l>
+<l part="N" TEIform="l">Jos: puternica armat&#259;</l>
+<l part="N" TEIform="l">De p&#259;dure, zbuciumat&#259;,</l>
+<l part="N" TEIform="l">Sus: gr&#259;mezile de nori...</l>
+<l part="N" TEIform="l">Iar pe drum, un cal ca vântul</l>
+<l part="N" TEIform="l">Bate-n goana lui p&#259;mântul.</l>
+<l part="N" TEIform="l">Printre arborii uimi&#355;i.</l>
+<l part="N" TEIform="l">Zboar&#259; orb, ducând pe spate</l>
+<l part="N" TEIform="l">Dou&#259;-umbre-mbr&#259;&#355;i&#351;ate,</l>
+<l part="N" TEIform="l">Doi aman&#355;i nelegiui&#355;i...</l>
+<l part="N" TEIform="l">VI</l>
+<l part="N" TEIform="l">Zori de ziu&#259;. Norii fug în goan&#259; mare,</l>
+<l part="N" TEIform="l">Un ocean de ghea&#355;&#259; rece &#351;i senin</l>
+<l part="N" TEIform="l">Pare ceru-n urm&#259;. Vântul bate tare,</l>
+<l part="N" TEIform="l">Când din ramuri ude, tremurând apare</l>
+<l part="N" TEIform="l">Discul lunii plin.</l>
+<l part="N" TEIform="l">Aurora clar&#259; &#351;i trandafirie</l>
+<l part="N" TEIform="l">R&#259;s&#259;ritu-n fl&#259;c&#259;ri l-a aprins acum,</l>
+<l part="N" TEIform="l">Pe când, p&#259;r&#259;site, reci pentru vecie,</l>
+<l part="N" TEIform="l">Dou&#259; trupuri albe zac într-o pustie</l>
+<l part="N" TEIform="l">Margine de drum.</l>
+<l part="N" TEIform="l">&#350;i cântând se lupt&#259; r&#259;zvr&#259;tit-armat&#259;,</l>
+<l part="N" TEIform="l">Lupt&#259;tori de veacuri arborii gigan&#355;i,</l>
+<l part="N" TEIform="l">Numai luna rece &#8212; palid chip de fat&#259; &#8212;</l>
+<l part="N" TEIform="l">Dintr-un vârf de paltin se uit&#259; mirat&#259;</l>
+<l part="N" TEIform="l">La cei doi aman&#355;i...</l>
+
+</lg>
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Scrisoare</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Tu, icoana prim&#259;verii,</l>
+<l part="N" TEIform="l">Scump&#259; floare de-alb&#259;stri&#355;&#259;!</l>
+<l part="N" TEIform="l">&#355;i-am trimis pe vântul serii</l>
+<l part="N" TEIform="l">O guri&#355;&#259;.</l>
+<l part="N" TEIform="l">Fat&#259; blând&#259;, vis&#259;toare,</l>
+<l part="N" TEIform="l">Mâine, când r&#259;sare luna,</l>
+<l part="N" TEIform="l">S&#259;-mi trimi&#355;i din dep&#259;rtare</l>
+<l part="N" TEIform="l">&#350;i tu una!</l>
+
+
+
+</lg>
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Iubitei întristate</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">A&#351; vrea un cer albastru, &#351;i pace, &#351;i lumin&#259;,</l>
+<l part="N" TEIform="l">Ca-n basme s&#259;-mi r&#259;sar&#259; în fa&#355;&#259; o gr&#259;din&#259;,</l>
+<l part="N" TEIform="l">Cu largi c&#259;r&#259;ri umbrite, &#351;i flori de liliac,</l>
+<l part="N" TEIform="l">&#350;i s&#259;lcii plâng&#259;toare pe-o margine de lac...</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Iar tu s&#259;-mi fii acolo, izvor de fericire!</l>
+<l part="N" TEIform="l">Cu ochii mari &#351;i limpezi, cu mijlocul sub&#355;ire,</l>
+<l part="N" TEIform="l">Cr&#259;iasa mea iubit&#259; &#8212; regina florilor &#8212;</l>
+<l part="N" TEIform="l">S&#259;-&#355;i dau o ve&#351;nicie de nesfâr&#351;it amor!</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">S&#259; nu te v&#259;d iar trist&#259;, &#8212; ci dornic&#259; de via&#355;&#259;,</l>
+<l part="N" TEIform="l">Cu zâmbetul pe buze &#351;i rumen&#259; la fa&#355;&#259;,</l>
+<l part="N" TEIform="l">S&#259; ui&#355;i c-ai mers odat&#259; pe-al vie&#355;ii aspru drum,</l>
+<l part="N" TEIform="l">&#8212; S&#259; nu te mai ajung&#259; durerile de-acum....</l>
+
+</lg>
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Nebunul</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Am îndr&#259;git, f&#259;r&#259; n&#259;dejde,</l>
+<l part="N" TEIform="l">Pe zâna moart&#259; &#8212; Fericirea.</l>
+<l part="N" TEIform="l">S&#259; nu v&#259; bate&#355;i joc de mine,</l>
+<l part="N" TEIform="l">Sunt om &#8212; ca voi &#8212; în toat&#259; firea...</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">&#350;i-o v&#259;d, în fiecare noapte,</l>
+<l part="N" TEIform="l">Mireasa tân&#259;r&#259; cum vine;</l>
+<l part="N" TEIform="l">Ca o vedenie u&#351;oar&#259;</l>
+<l part="N" TEIform="l">Încet s-apropie de mine.</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Din cre&#351;tet, v&#259;lul alb, sub&#355;ire</l>
+<l part="N" TEIform="l">De-a pururi fa&#355;a i-o ascunde.</l>
+<l part="N" TEIform="l">Prin str&#259;vezimea lui, se vede</l>
+<l part="N" TEIform="l">Z&#259;pada formelor rotunde.</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">În p&#259;rul lung &#351;i negru poart&#259;</l>
+<l part="N" TEIform="l">Uscate flori de l&#259;mâi&#355;&#259;...</l>
+<l part="N" TEIform="l">&#8212; Fiin&#355;&#259;-aievea ori p&#259;rere,</l>
+<l part="N" TEIform="l">Eu te iubesc de mult, zei&#355;&#259;!</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Dar ochii t&#259;i, ascun&#351;i vederii</l>
+<l part="N" TEIform="l">Nu vor, cu dulcea lor otrav&#259;,</l>
+<l part="N" TEIform="l">S&#259;-mi vindece durerea-nfipt&#259;</l>
+<l part="N" TEIform="l">Adânc, în inima bolnav&#259;.</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">O, vino, vino mai aproape,</l>
+<l part="N" TEIform="l">Arunc&#259; v&#259;lul de pe fa&#355;&#259;!</l>
+<l part="N" TEIform="l">S&#259; simt fiorul s&#259;rut&#259;rii,</l>
+<l part="N" TEIform="l">S&#259; te cuprind odat&#259;-n bra&#355;e!...</l>
+</lg>
+
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">&#8212; De la-nceput &#355;i-am fost ursit&#259;,</l>
+<l part="N" TEIform="l">Dar o putere ne desparte</l>
+<l part="N" TEIform="l">&#350;i ne-a menit s&#259; fim, iubite,</l>
+<l part="N" TEIform="l">În veci aproape &#351;i departe.</l>
+</lg>
+
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Pierdut e&#351;ti pentru totdeauna,</l>
+<l part="N" TEIform="l">De-mi ceri s&#259;-&#355;i dau o s&#259;rutare,</l>
+<l part="N" TEIform="l">C&#259;, dac&#259; m&#259; cuprinzi în bra&#355;e,</l>
+<l part="N" TEIform="l">Ca fumul, trupul meu dispare.</l>
+
+</lg>
+
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+
+<l part="N" TEIform="l">E vai de cel ce-n via&#355;a asta,</l>
+<l part="N" TEIform="l">În suflet, taina mea o poart&#259;.</l>
+<l part="N" TEIform="l">Când to&#355;i vor crede c&#259; sunt vie,</l>
+<l part="N" TEIform="l">El singur &#351;tie c&#259; sunt moart&#259;!...</l>
+</lg>
+
+<lg org="uniform" sample="complete" part="N" TEIform="lg"><l part="N" TEIform="l">.....................</l></lg>
+
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Plutind, porne&#351;te pe alee,</l>
+<l part="N" TEIform="l">S-ascunde-n umbr&#259; de palate</l>
+<l part="N" TEIform="l">&#350;i st&#259;, o clip&#259;, lâng&#259; banca</l>
+<l part="N" TEIform="l">Unei perechi înamorate...</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">În cimitir acuma intr&#259;,</l>
+<l part="N" TEIform="l">O v&#259;d cum trece înainte:</l>
+<l part="N" TEIform="l">O ar&#259;tare luminoas&#259;</l>
+<l part="N" TEIform="l">P&#259;&#351;ind încet peste morminte.</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">&#350;i-n col&#355; m-a&#351;teapt&#259; lâng-o groap&#259;:</l>
+<l part="N" TEIform="l">E am&#259;girea cea din urm&#259;...</l>
+<l part="N" TEIform="l">Cu bra&#355;ele întinse dornic,</l>
+<l part="N" TEIform="l">Alerg... Puterea mi se curm&#259;...</l>
+
+</lg>
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Somnul</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Când numai luna singur&#259; din noapte</l>
+<l part="N" TEIform="l">Vegheaz&#259; din întinderea albastr&#259;,</l>
+<l part="N" TEIform="l">&#350;i când o raz&#259; alb&#259;, vis&#259;toare,</l>
+<l part="N" TEIform="l">S-a strecurat sfioas&#259; prin fereastr&#259;</l>
+<l part="N" TEIform="l">&#350;i-a adormit pe pern&#259;, lâng&#259; tine, &#8212;</l>
+<l part="N" TEIform="l">Atunci din cer, cu aripi nev&#259;zute,</l>
+<l part="N" TEIform="l">Copilul mor&#355;ii &#8212; somnul &#8212; tainic vine,</l>
+<l part="N" TEIform="l">Pe ochii-nchi&#351;i, u&#351;or s&#259; te s&#259;rute...</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Tu, dragul meu, dac&#259; te sim&#355;i prea singur</l>
+<l part="N" TEIform="l">&#350;i n-ai pe nime-n camera s&#259;rac&#259;</l>
+<l part="N" TEIform="l">Decât un nou du&#351;man &#351;i oaspe: foamea...</l>
+<l part="N" TEIform="l">Închide ochii! Foamea o s&#259;-&#355;i treac&#259;,</l>
+<l part="N" TEIform="l">&#350;i f&#259;r&#259; veste somnul î&#355;i aduce</l>
+<l part="N" TEIform="l">O mas&#259; cu împ&#259;r&#259;te&#351;ti bucate, &#8212;</l>
+<l part="N" TEIform="l">Bel&#351;ugul unei lumi mai fericite,</l>
+<l part="N" TEIform="l">Cu soare cald &#351;i parcuri, &#351;i palate...</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">&#350;i nu te miri, a&#351;a firesc î&#355;i pare,</l>
+<l part="N" TEIform="l">Când vin din trista lor singur&#259;tate</l>
+<l part="N" TEIform="l">Icoane scumpe de odinioar&#259;,</l>
+<l part="N" TEIform="l">Fiin&#355;e dragi, de mult înmormântate.</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">................</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">O, înger blând, alin&#259;tor durerii!</l>
+<l part="N" TEIform="l">De pe cernita sufletului-zare,</l>
+<l part="N" TEIform="l">Ridic&#259;-mi v&#259;lu-n fiecare noapte</l>
+<l part="N" TEIform="l">S&#259; v&#259;d splendoarea lumii viitoare!...</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Mi-aduc aminte...-n serile de iarn&#259;,</l>
+<l part="N" TEIform="l">La gura sobei, &#8212; f&#259;r&#259; s&#259;-mi dau seama,</l>
+<l part="N" TEIform="l">M&#259; cuprindeai în bra&#355;e moi de visuri,</l>
+<l part="N" TEIform="l">Când îmi spunea pove&#351;ti frumoase mama...</l>
+<l part="N" TEIform="l">&#350;i-acuma simt singur&#259;tatea rece</l>
+<l part="N" TEIform="l">&#350;i tot pustiul nop&#355;ilor târzii.</l>
+<l part="N" TEIform="l">Te chem s&#259;-mi vindeci sufletul, o clip&#259;, &#8212;</l>
+<l part="N" TEIform="l">Dar în zadar te chem, &#8212; c&#259; nu mai vii!</l>
+<l part="N" TEIform="l">O, vino iar... &#351;i s&#259;-mi aduci cu tine</l>
+<l part="N" TEIform="l">Iubitul chip de care sunt departe!</l>
+<l part="N" TEIform="l">Atâta am, în lumea asta mare,</l>
+<l part="N" TEIform="l">&#350;i r&#259;utatea lumii ne desparte...</l>
+<l part="N" TEIform="l">S&#259;rut&#259;-mi ochii! &#8212; Dintre ea &#351;i mine,</l>
+<l part="N" TEIform="l">Pieri-va ca prin farmec dep&#259;rtarea:</l>
+<l part="N" TEIform="l">Zâmbind frumoas&#259; îmi întinde gura</l>
+<l part="N" TEIform="l">&#350;i-n vis e-atât de dulce s&#259;rutarea...</l>
+
+</lg>
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Iubita</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Pe un pat de nouri vine&#355;i, adoarme luna plin&#259;</l>
+<l part="N" TEIform="l">&#350;i lacul doarme-n umbr&#259;.</l>
+<l part="N" TEIform="l">În adieri u&#351;oare, când plopii rari suspin&#259;,</l>
+<l part="N" TEIform="l">Tresar &#351;i-ascult... Natura, din nev&#259;zute strune,</l>
+<l part="N" TEIform="l">Înal&#355;&#259; c&#259;tre ceruri o lung&#259; rug&#259;ciune,</l>
+<l part="N" TEIform="l">&#350;i por&#355;ile t&#259;riei din neguri se desfac</l>
+<l part="N" TEIform="l">De vezi cum, între maluri cu s&#259;lcii plâng&#259;toare,</l>
+<l part="N" TEIform="l">A stelelor popoare</l>
+<l part="N" TEIform="l">Se oglindesc în lac.</l>
+<l part="N" TEIform="l">... &#350;i dou&#259; bol&#355;i cu lun&#259; acum stau fa&#355;&#259;-n fa&#355;&#259;...</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Din umbra de pe maluri iubita-ncet r&#259;sare,</l>
+<l part="N" TEIform="l">&#350;i parc&#259; nici n-atinge p&#259;mântul pe c&#259;rare,</l>
+<l part="N" TEIform="l">S-apropie de mine... acum îmi cade-n bra&#355;e...</l>
+<l part="N" TEIform="l">&#350;i uit de lumea-ntreag&#259;, sorbind curatu-i suflet</l>
+<l part="N" TEIform="l">În calda, nesfâr&#351;ita, sublima s&#259;rutare!...</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Iar luna se de&#351;teapt&#259;, din nori ridic&#259; fruntea</l>
+<l part="N" TEIform="l">&#350;i lung spre noi prive&#351;te, &#8212; dar norii o cuprind</l>
+<l part="N" TEIform="l">În bra&#355;e moi de cea&#355;&#259;, &#351;i ea, copila nop&#355;ii,</l>
+<l part="N" TEIform="l">Adoarme iar, zâmbind...</l>
+<l part="N" TEIform="l">Atunci o umbr&#259; dulce se las&#259; peste fire...</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Un cântec, o poveste duioas&#259;-ncepe vântul,</l>
+<l part="N" TEIform="l">De-o zân&#259; cu ochi limpezi &#351;i mijlocul sub&#355;ire...</l>
+<l part="N" TEIform="l">Tu, lun&#259; alb&#259;, spune-mi, de când prive&#351;ti p&#259;mântul,</l>
+<l part="N" TEIform="l">Ai mai v&#259;zut vrodat&#259; atâta fericire?</l>
+
+</lg>
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<l part="N" TEIform="l">Cântec</l>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">A&#351; vrea s&#259; m&#259;-nve&#355;e pictura</l>
+<l part="N" TEIform="l">Un Rembrandt maestru, &#8212; s&#259;-&#355;i fac</l>
+<l part="N" TEIform="l">Din carmin &#351;i purpur&#259; gura</l>
+<l part="N" TEIform="l">A&#351;a cum &#355;i-a dat-o natura,</l>
+<l part="N" TEIform="l">Aprins&#259; ca floarea de mac.</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">&#350;i taina privirilor tale,</l>
+<l part="N" TEIform="l">Cu zâmbetul cald &#351;i senin,</l>
+<l part="N" TEIform="l">&#350;i gâtul &#351;i bra&#355;ele goale</l>
+<l part="N" TEIform="l">Pl&#259;pânde ca ni&#351;te petale</l>
+<l part="N" TEIform="l">De flori delicate de crin.</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">&#350;i-a&#351; vrea s&#259; mai am, laolalt&#259;,</l>
+<l part="N" TEIform="l">Talentul de sculptor, copilo.</l>
+<l part="N" TEIform="l">&#350;i-atunci s&#259;-mi r&#259;sari de sub dalt&#259;</l>
+<l part="N" TEIform="l">Din marmur&#259;, &#8212; alb&#259;, înalt&#259;,</l>
+<l part="N" TEIform="l">Frumoas&#259; ca Venus din Milo!</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Pe frunte s&#259;-&#355;i pun o coroan&#259;</l>
+<l part="N" TEIform="l">De nunt&#259;, din flori de l&#259;mâi, &#8212;</l>
+<l part="N" TEIform="l">&#350;i astfel în apriga goan&#259;,</l>
+<l part="N" TEIform="l">A anilor, blând&#259; icoan&#259;,</l>
+<l part="N" TEIform="l">De-a pururi a mea s&#259;-mi r&#259;mâi!</l>
+
+</lg>
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Din prag</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Ca steaua serii,</l>
+<l part="N" TEIform="l">M&#259; sting în noapte,</l>
+<l part="N" TEIform="l">&#350;i noaptea cre&#351;te</l>
+<l part="N" TEIform="l">În jurul meu,</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Când tot trecutul</l>
+<l part="N" TEIform="l">În suflet moare,</l>
+<l part="N" TEIform="l">Coboar&#259;-n urm&#259;-i</l>
+<l part="N" TEIform="l">Pustiul greu...</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Icoan&#259; scump&#259;</l>
+<l part="N" TEIform="l">Din alte vremuri,</l>
+<l part="N" TEIform="l">Îmi pari acuma</l>
+<l part="N" TEIform="l">Un vis pierdut...</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Vin' mai aproape,</l>
+<l part="N" TEIform="l">D&#259;-mi mâna alb&#259;</l>
+<l part="N" TEIform="l">&#350;i ochii negri</l>
+<l part="N" TEIform="l">S&#259; &#355;i-i s&#259;rut!</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Aripa mor&#355;ii</l>
+<l part="N" TEIform="l">Arunc&#259; umbre</l>
+<l part="N" TEIform="l">Pe nenorocul</l>
+<l part="N" TEIform="l">Celor învin&#351;i.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Str&#259;in de toate,</l>
+<l part="N" TEIform="l">Simt cum se las&#259;</l>
+<l part="N" TEIform="l">Genele grele</l>
+<l part="N" TEIform="l">Pe ochii stin&#351;i...</l>
+
+</lg>
+
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">C&#259;tre chipul din oglind&#259;</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Cum stai în ram&#259; &#351;i te ui&#355;i</l>
+<l part="N" TEIform="l">Atât de trist la mine,</l>
+<l part="N" TEIform="l">M&#259;-ntreab&#259; ochii t&#259;i mira&#355;i:</l>
+<l part="N" TEIform="l">&#8212; ,,M&#259; mai cuno&#351;ti, str&#259;ine?"</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">&#8212; ,,Urâtule, nu te cunosc!</l>
+<l part="N" TEIform="l">Prea palid e&#351;ti la fa&#355;&#259;</l>
+<l part="N" TEIform="l">&#350;i prea bolnavi ard ochii t&#259;i, &#8212;</l>
+<l part="N" TEIform="l">Privirea lor m&#259;-nghea&#355;&#259;...</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">C&#259; te &#351;tiam copil nebun,</l>
+<l part="N" TEIform="l">Crescut în vânt &#351;i soare, &#8212;</l>
+<l part="N" TEIform="l">Obrazul rumen, ochii vii</l>
+<l part="N" TEIform="l">&#350;i gura zâmbitoare.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Natura toat&#259; se-nchina,</l>
+<l part="N" TEIform="l">Ascult&#259;toare &#355;ie:</l>
+<l part="N" TEIform="l">Aveai palat un crâng întreg</l>
+<l part="N" TEIform="l">&#350;i-o lunc&#259;-mp&#259;r&#259;&#355;ie!</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+
+<l part="N" TEIform="l">De-acolo, într-o zi, te-au dus</l>
+<l part="N" TEIform="l">Între str&#259;ini, departe,</l>
+<l part="N" TEIform="l">S&#259; uzi cu lacrimi de copil</l>
+<l part="N" TEIform="l">O urâcioas&#259; carte.</l>
+
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+
+
+<l part="N" TEIform="l">Dar anii lungi, ducând cu ei</l>
+<l part="N" TEIform="l">Pustiu-nv&#259;&#355;&#259;turii,</l>
+<l part="N" TEIform="l">N-au stins v&#259;paia ochilor,</l>
+<l part="N" TEIform="l">Nici zâmbetele gurii.</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">&#350;tiai s&#259; cân&#355;i &#351;i s&#259; iube&#351;ti,</l>
+<l part="N" TEIform="l">Pornit pe râs &#351;i glume...</l>
+<l part="N" TEIform="l">Dar tot avântul t&#259;u pieri</l>
+<l part="N" TEIform="l">Când ai intrat în lume.</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">A&#351;a pesemne-ai fost ursit</l>
+<l part="N" TEIform="l">S&#259; suferi prea devreme.</l>
+<l part="N" TEIform="l">&#350;i gura ta, nici chiar acum,</l>
+<l part="N" TEIform="l">Nu &#351;tie s&#259; blesteme!</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">................</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">U&#351;or p&#259;streaz&#259; urmele</l>
+<l part="N" TEIform="l">De pa&#351;i adânci nisipul.</l>
+<l part="N" TEIform="l">Ci sufletul meu nu-i a&#351;a</l>
+<l part="N" TEIform="l">Cum mi-l arat&#259; chipul:</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Veninul suferin&#355;elor</l>
+<l part="N" TEIform="l">În piept s&#259; mi se strâng&#259;, &#8212;</l>
+<l part="N" TEIform="l">Eu vreau s&#259; râd!... Dar ochii t&#259;i</l>
+<l part="N" TEIform="l">Au început s&#259; plâng&#259;."</l>
+
+</lg>
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<l part="N" TEIform="l">Chemare</l>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">În zadar te ispite&#351;te visul vie&#355;ii nestatornic!</l>
+<l part="N" TEIform="l">Nu vezi tu c&#259;-n în&#355;elesul strânsului de mân&#259; dornic,</l>
+<l part="N" TEIform="l">Tremur&#259; bel&#351;ugul unei dulci comori nerisipite</l>
+<l part="N" TEIform="l">De dorin&#355;i, pe care ochii nu le las&#259; t&#259;inuite?</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Din pustiul p&#259;cii tale, tres&#259;rind f&#259;r&#259; s&#259; vrei,</l>
+<l part="N" TEIform="l">Ai r&#259;mas a&#351;a, uimit&#259;, cu privirea-n ochii mei,</l>
+<l part="N" TEIform="l">Dar un gând str&#259;in, deodat&#259;, &#355;i-a înm&#259;rmurit avântul &#8212;</l>
+<l part="N" TEIform="l">&#350;i sfielnicele buze n-au putut &#351;opti cuvântul...</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Unde &#355;i-ai l&#259;sat podoaba sufletului de fecioar&#259;,</l>
+<l part="N" TEIform="l">Ca s&#259; tremuri înaintea gândului ce te-nfioar&#259;?</l>
+<l part="N" TEIform="l">Nu vezi tu c&#259; f&#259;r&#259; veste umbra serii te-a cuprins,</l>
+<l part="N" TEIform="l">Când pe cerul t&#259;u v&#259;paia dimine&#355;ii nu s-a stins &#8212;</l>
+<l part="N" TEIform="l">&#350;i comoara ta de visuri vânturile-au risipit-o?...</l>
+<l part="N" TEIform="l">O, -&#355;i cunosc povestea toat&#259;, parc&#259; însumi am tr&#259;it-o.</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">El &#355;i-a fost ursit pe via&#355;&#259;, &#8212; dar e-atâta de str&#259;in</l>
+<l part="N" TEIform="l">&#350;i de inima ta cald&#259;, &#351;i de sufletul senin!</l>
+<l part="N" TEIform="l">Cum s&#259;-i treac&#259; lui prin minte</l>
+<l part="N" TEIform="l">S&#259;-&#355;i cuprind&#259; trupul tân&#259;r &#351;i cu vorba s&#259; te-alinte?</l>
+<l part="N" TEIform="l">&#350;i a&#351;a, nedumerit&#259;, stai pe gânduri ziua-ntreag&#259;,</l>
+<l part="N" TEIform="l">Nici nu-&#355;i mai aduci aminte de &#355;i-a zis vrodat&#259;: drag&#259;!...</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Ci ridic&#259;-te &#351;i-ascult&#259;, în a firii diminea&#355;&#259;,</l>
+<l part="N" TEIform="l">Glasul cântecului tân&#259;r cum te cheam&#259; la via&#355;&#259;,</l>
+<l part="N" TEIform="l">Tremurând te-a&#351;teapt-un suflet s&#259; te-alinte &#351;i s&#259;-&#355;i spun&#259;</l>
+<l part="N" TEIform="l">C&#259; nu-i moart&#259; pentru tine taina nop&#355;ilor cu lun&#259;!</l>
+<l part="N" TEIform="l">Vin' din umbra unde floarea tinere&#355;ii tale moare,</l>
+<l part="N" TEIform="l">Inima s&#259; &#355;i-o-nc&#259;lzeasc&#259; focul razelor de soare,</l>
+<l part="N" TEIform="l">D&#259;-mi-i mie ochii dornici de iubiri necunoscute,</l>
+<l part="N" TEIform="l">&#350;i te-oi s&#259;ruta cum nimeni n-a &#351;tiut s&#259; te s&#259;rute!</l>
+<l part="N" TEIform="l">C&#259; de n-am podoabe scumpe, fericit s&#259; te sl&#259;vesc,</l>
+<l part="N" TEIform="l">Eu am numai o avere: &#351;tiu s&#259; cânt &#351;i s&#259; iubesc!</l>
+</lg>
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Noapte în ploaie</head>
+<head TEIform="head">(Fragment dintr-un poem)</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">...Mai sus, la poalele p&#259;durii,</l>
+<l part="N" TEIform="l">Se-mbin&#259; umbrele-n coroan&#259;</l>
+<l part="N" TEIform="l">&#350;i ca-n poveste se deschide</l>
+<l part="N" TEIform="l">În fa&#355;a noastr&#259; o poain&#259;:</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Mesteceni albi, cu ramuri goale,</l>
+<l part="N" TEIform="l">Pe margini codrul adormit</l>
+<l part="N" TEIform="l">&#350;i-n raza lunii, risipite,</l>
+<l part="N" TEIform="l">C&#259;pi&#355;e mici de fân cosit...</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Aici nu-i nimeni s&#259; ne vad&#259;</l>
+<l part="N" TEIform="l">În pacea nop&#355;ii-ncremenite,</l>
+<l part="N" TEIform="l">O, farmec negr&#259;it de dulce</l>
+<l part="N" TEIform="l">Al s&#259;rut&#259;rilor oprite!...</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Dar un fior prin noapte trece.</l>
+<l part="N" TEIform="l">&#350;optesc copacii îngrozi&#355;i.</l>
+<l part="N" TEIform="l">Un tainic murmur, &#8212; ca o ap&#259;, &#8212;</l>
+<l part="N" TEIform="l">Coboar&#259;-n codrii adormi&#355;i.</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Vin fream&#259;te nel&#259;murite,</l>
+<l part="N" TEIform="l">Prevestitoare de furtun&#259;,</l>
+<l part="N" TEIform="l">&#350;i nouri vine&#355;i, colo-n zare,</l>
+<l part="N" TEIform="l">Deasupra mun&#355;ilor s-adun&#259;...</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Acum pe bolta r&#259;zvr&#259;tit&#259;</l>
+<l part="N" TEIform="l">Alearg&#259; cum îi poart&#259; vântul.</l>
+<l part="N" TEIform="l">În valuri negre luna moare</l>
+<l part="N" TEIform="l">&#350;i umbra-ntunec&#259; p&#259;mântul.</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">O, doamne! Ploaia-n noaptea asta</l>
+<l part="N" TEIform="l">Ne stric&#259; f&#259;r&#259; mil&#259; rostul.</l>
+<l part="N" TEIform="l">Dar colo jos, într-o c&#259;pi&#355;&#259;</l>
+<l part="N" TEIform="l">De fân, g&#259;si-vom ad&#259;postul...</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">St&#259;m bine-a&#351;a, sub bolta moale,</l>
+<l part="N" TEIform="l">Cu frun&#355;ile al&#259;turate</l>
+<l part="N" TEIform="l">Ca doi copii cumin&#355;i. &#8212; Ne-mbat&#259;</l>
+<l part="N" TEIform="l">Mirosul florilor uscate.</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">De peste deal abia s-aude</l>
+<l part="N" TEIform="l">Un ropot repede-n p&#259;duri,</l>
+<l part="N" TEIform="l">E ploaia... Pân' la noi deodat&#259;</l>
+<l part="N" TEIform="l">Ajung r&#259;zle&#355;e pic&#259;turi,</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">&#350;i tot mai dese cad. Un fulger</l>
+<l part="N" TEIform="l">T&#259;ria norilor despic&#259;</l>
+<l part="N" TEIform="l">Vuinid departe-n mun&#355;i. Iubita</l>
+<l part="N" TEIform="l">S-a strâns la pieptul meu cu fric&#259;.</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Sim&#355;eam atunci via&#355;a cald&#259;</l>
+<l part="N" TEIform="l">Cum tremur&#259; ca o v&#259;paie</l>
+<l part="N" TEIform="l">De foc nestins, în trupul tân&#259;r,</l>
+<l part="N" TEIform="l">Sub haina umed&#259; de ploaie...</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Cum norii-ntunecau seninul</l>
+<l part="N" TEIform="l">Nem&#259;rginirilor albastre,</l>
+<l part="N" TEIform="l">O noapte dulce-nv&#259;luise</l>
+<l part="N" TEIform="l">Lumina gândurilor noastre.</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Dar n-a fost patim&#259; nebun&#259;</l>
+<l part="N" TEIform="l">Cu gânduri risipite-n &#351;oapte, &#8212;</l>
+<l part="N" TEIform="l">A fost un vis frumos... &#350;i ploaia</l>
+<l part="N" TEIform="l">Curgea cu ropot lung, în noapte.</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">.......................</l>
+<l part="N" TEIform="l">.......................</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">La r&#259;s&#259;rit încet s-aprinde</l>
+<l part="N" TEIform="l">V&#259;paie rece de rubin</l>
+<l part="N" TEIform="l">Când printre norii rup&#355;i s-arat&#259;</l>
+<l part="N" TEIform="l">Ferestre mari de cer senin.</l>
+</lg>
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<head TEIform="head">Icoanei</head>
+<l part="N" TEIform="l">Împins mereu c&#259;tre p&#259;cate</l>
+<l part="N" TEIform="l">Un suflet trist mi-au dat p&#259;rin&#355;ii &#8212;</l>
+<l part="N" TEIform="l">Bolnav de dorul clipei moarte</l>
+<l part="N" TEIform="l">&#350;i ars de flac&#259;ra dorin&#355;ei.</l>
+<l part="N" TEIform="l">Dar tu mi-ai luminat de-a pururi</l>
+<l part="N" TEIform="l">Al nop&#355;ilor convoi t&#259;cut,</l>
+<l part="N" TEIform="l">Icoan&#259; scump&#259;, &#8212; &#351;i cu tine</l>
+<l part="N" TEIform="l">Mi-ai dus norocul în trecut.</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">La tine-&#351;i caut&#259;, sfioase,</l>
+<l part="N" TEIform="l">Un ad&#259;post în clipe grele,</l>
+<l part="N" TEIform="l">Speran&#355;ele mângâietoare</l>
+<l part="N" TEIform="l">&#350;i toate visurile mele...</l>
+<l part="N" TEIform="l">U&#351;oare zboar&#259; c&#259;tre tine,</l>
+<l part="N" TEIform="l">Cum zboar&#259; fluturii u&#351;ori</l>
+<l part="N" TEIform="l">Spre floarea t&#259;inuit&#259;-n umbr&#259;,</l>
+<l part="N" TEIform="l">Spre cea mai dulce dintre flori...</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Tu, cea dintâi, mi-ai dat putere</l>
+<l part="N" TEIform="l">S&#259; sfarm z&#259;gazurile min&#355;ii</l>
+<l part="N" TEIform="l">Când mi-ai s&#259;dit în piept ispita,</l>
+<l part="N" TEIform="l">Fiorul tainic al dorin&#355;ei.</l>
+<l part="N" TEIform="l">&#350;i coborând în ochii-mi tulburi</l>
+<l part="N" TEIform="l">Adânc, privirea ta de sfânt&#259;,</l>
+<l part="N" TEIform="l">Mi-ai dat bel&#351;ug de via&#355;&#259; nou&#259;</l>
+<l part="N" TEIform="l">&#350;i iubitoare mi-ai zis: cânt&#259;!...</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Acum sunt singur. E&#351;ti departe,</l>
+<l part="N" TEIform="l">Nepre&#355;uita mea comoar&#259;...</l>
+<l part="N" TEIform="l">Dar vii în ceasul mut al serii</l>
+<l part="N" TEIform="l">Când lini&#351;tea din cer coboar&#259;,</l>
+<l part="N" TEIform="l">&#350;i v&#259;d cum genele plecate</l>
+<l part="N" TEIform="l">În tremur necurmat le mi&#351;ti,</l>
+<l part="N" TEIform="l">Întunecând surâsul gurii</l>
+<l part="N" TEIform="l">Cu noaptea ochilor t&#259;i tri&#351;ti.</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Zadarnic pizma altor inimi</l>
+<l part="N" TEIform="l">Ne-a desp&#259;r&#355;it atâta vreme,</l>
+<l part="N" TEIform="l">C&#259; ochii nu mai vor s&#259; plâng&#259;</l>
+<l part="N" TEIform="l">&#350;i gura uit&#259; s&#259; blesteme:</l>
+<l part="N" TEIform="l">Simt umbrele ce m&#259;-nconjoar&#259;</l>
+<l part="N" TEIform="l">C&#259; nu m-apas&#259; atât de greu</l>
+<l part="N" TEIform="l">Când luminezi, icoana scump&#259;,</l>
+<l part="N" TEIform="l">Altarul sufletului meu...</l>
+
+</lg>
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">1908</head>
+<epigraph TEIform="epigraph"><l part="N" TEIform="l">Domnului A. Vlahu&#355;&#259;</l></epigraph>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Bine-ai venit, an nou! &#8212; Cu voie bun&#259;,</l>
+<l part="N" TEIform="l">Încrez&#259;tori &#355;i-ngenunchem-nainte:</l>
+<l part="N" TEIform="l">Ne-aduci comoar&#259; de speran&#355;e sfinte,</l>
+<l part="N" TEIform="l">Ori prevestiri grozave de furtun&#259;?...</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">De pretutindeni se ridic&#259; &#351;oapte</l>
+<l part="N" TEIform="l">&#350;i plâns în&#259;bu&#351;it spre cel ce, &#355;ie,</l>
+<l part="N" TEIform="l">Înduio&#351;at acum, &#355;i-a dat solie</l>
+<l part="N" TEIform="l">S&#259; luminezi odat&#259; trista noapte!</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+
+<l part="N" TEIform="l">C&#259; sunt aici dureri nemângâiate,</l>
+<l part="N" TEIform="l">Blesteme dureroase, &#8212; sunt copii</l>
+<l part="N" TEIform="l">Fl&#259;mânzi &#351;i goi, &#351;i casele pustii, &#8212;</l>
+<l part="N" TEIform="l">Sunt cruci de lemn, la margine de sate...</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">&#350;i mor&#355;ii lor a&#351;teapt&#259; de la tine,</l>
+<l part="N" TEIform="l">An milostiv, în toate s&#259; fii darnic &#8212;</l>
+<l part="N" TEIform="l">&#350;i s&#259; le spui c&#259; n-au jertfit zadarnic</l>
+<l part="N" TEIform="l">Atâta sânge, gloan&#355;ele haine.</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">C-au încetat s&#259;lbaticele goane, &#8212;</l>
+<l part="N" TEIform="l">Iar dac&#259; sunt colibele cernite,</l>
+<l part="N" TEIform="l">Copii orfani &#351;i mame v&#259;duvite</l>
+<l part="N" TEIform="l">Nu vor mai plânge, sara, la icoane...</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">*</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Un glas pornit din inim&#259; curat&#259;,</l>
+<l part="N" TEIform="l">Un tân&#259;r glas te-ntâmpin&#259; acum:</l>
+<l part="N" TEIform="l">Din largul &#355;&#259;rii spulber&#259; odat&#259;</l>
+<l part="N" TEIform="l">Mirosul greu de sânge &#351;i de fum.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">An nou, an sfânt, &#8212; adu bel&#351;ug în &#355;ar&#259;!</l>
+<l part="N" TEIform="l">Dar s&#259; nu lege-n &#355;ern&#259; sângerat&#259;</l>
+<l part="N" TEIform="l">Un rod spurcat, s&#259;mân&#355;a cea bogat&#259;...</l>
+<l part="N" TEIform="l">&#8212; An sfânt, adu-ni alt&#259; prim&#259;var&#259;!</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">S&#259;-nfrâni, cu grija zilelor de mâine,</l>
+<l part="N" TEIform="l">Nelegiuitul râs al l&#259;comiei &#8212;</l>
+<l part="N" TEIform="l">&#350;i din prinosul roadelor câmpiei</l>
+<l part="N" TEIform="l">S&#259; se hr&#259;neasc&#259; cei ce ne dau pâine.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">De fructe multe, pomii înc&#259;rca&#355;i</l>
+<l part="N" TEIform="l">&#350;i spicul greu de boabe s&#259; se rup&#259;!</l>
+<l part="N" TEIform="l">O, an frumos, &#8212; cu bog&#259;&#355;ii astup&#259;</l>
+<l part="N" TEIform="l">Pr&#259;pastia deschis&#259; între fra&#355;i!...</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Împac&#259; vrajba sufletelor noastre!</l>
+<l part="N" TEIform="l">Nici plânsu-amar, nici blestemele gurii,</l>
+<l part="N" TEIform="l">Nici pumnii strân&#351;i de vechiul foc al urii</l>
+<l part="N" TEIform="l">S&#259; n-amenin&#355;e cerurile-albastre...</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Te-om pream&#259;ri în laude, cu to&#355;ii,</l>
+<l part="N" TEIform="l">O, an al p&#259;cii binef&#259;c&#259;toare!</l>
+<l part="N" TEIform="l">&#350;i-&#355;i vor aduce-n veacuri viitoare</l>
+<l part="N" TEIform="l">Prinosul lor de cinste, str&#259;nepo&#355;ii!</l>
+</lg>
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">În taina nop&#355;ii</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Pe c&#259;rare, lâng&#259; codru,</l>
+<l part="N" TEIform="l">Numai pasul meu s-aude...</l>
+<l part="N" TEIform="l">Ploaia picur&#259; din frunze</l>
+<l part="N" TEIform="l">&#350;i din ramurile ude.</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Norii-ntuneca&#355;i îmbrac&#259;</l>
+<l part="N" TEIform="l">Cerul nop&#355;ii f&#259;r&#259; stele, &#8212;</l>
+<l part="N" TEIform="l">Lumino&#351;i mi-arat&#259; calea</l>
+<l part="N" TEIform="l">Numai ochii dragii mele!</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Du-m&#259;, dorule, cu tine,</l>
+<l part="N" TEIform="l">Toat&#259; jalea s&#259; mi-o-ngropi &#8212;</l>
+<l part="N" TEIform="l">Pân' la casa t&#259;inuit&#259;,</l>
+<l part="N" TEIform="l">Casa alb&#259; dintre plopi.</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">................</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Dulce clip&#259; a-ntâlnirii,</l>
+<l part="N" TEIform="l">Mintea-ntreag&#259; mi-o r&#259;pe&#351;ti!...</l>
+<l part="N" TEIform="l">...Dar nu-i nime-n prisp&#259;-afar&#259;,</l>
+<l part="N" TEIform="l">Nici lumin&#259; la fere&#351;ti!</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">...............</l>
+</lg>
+
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Înserarea</head>
+<head TEIform="head">(Fragment dintr-un poem)</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Dup&#259; culmi de piatr&#259; sur&#259; când î&#351;i pleac&#259;-ncet m&#259;rirea,</l>
+<l part="N" TEIform="l">Soarele s&#259;rut&#259; codrii unde doarme mân&#259;stirea.</l>
+<l part="N" TEIform="l">Între brazi feri&#355;i de vânturi, lâng&#259; zid de stânc&#259; drept,</l>
+<l part="N" TEIform="l">A durat-o-n vremuri grele domn viteaz &#351;i în&#355;elept.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Sus, la turla care-apas&#259; bolt&#259; grea de c&#259;r&#259;mid&#259;,</l>
+<l part="N" TEIform="l">Pe o lespede umbrit&#259; în privazul de firid&#259;,</l>
+<l part="N" TEIform="l">Slova veche, ocrotit&#259; de al vremii sfânt Visternic,</l>
+<l part="N" TEIform="l">Spune leatul &#351;i domnia voievodului cucernic.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Umbra lui vegheaz&#259; parc&#259; din b&#259;trânele chilii</l>
+<l part="N" TEIform="l">Prin despic&#259;tura neagr&#259; a ferestrelor pustii...</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Dar acum încremenit&#259; poarta schitului r&#259;mâne,</l>
+<l part="N" TEIform="l">Când coboar&#259; seara, nimeni n-o mai mi&#351;c&#259; din &#355;â&#355;âne.</l>
+<l part="N" TEIform="l">Vremea-i macin&#259; cu-ncetul putregaiul sub z&#259;brele,</l>
+<l part="N" TEIform="l">Pe veriga ruginit&#259; nu mai cad lac&#259;te grele, &#8212;</l>
+<l part="N" TEIform="l">Ci prielnic duhul p&#259;cii st&#259;pâne&#351;te-aici de veacuri...</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Iar pe stâlpi cu zugr&#259;veal&#259;, din înaltele cerdacuri,</l>
+<l part="N" TEIform="l">Ca un semn de biruin&#355;&#259; râde vesel&#259;-n culori</l>
+<l part="N" TEIform="l">Minunata str&#259;lucire a bel&#351;ugului de flori.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">&#350;i-n amurgul serii calde mun&#355;ii Coziei s-arat&#259;</l>
+<l part="N" TEIform="l">Cum î&#351;i zugr&#259;vesc pe ceruri muchea neagr&#259; &#351;i crestat&#259;, &#8212;</l>
+<l part="N" TEIform="l">Tot mai ro&#351;ii scad în zare luminoasele v&#259;p&#259;i,</l>
+<l part="N" TEIform="l">V&#259;lul nop&#355;ii se coboar&#259; tot mai negru peste v&#259;i...</l>
+
+</lg>
+
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Împ&#259;care</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Tovar&#259;&#351; scump de clipe grele</l>
+<l part="N" TEIform="l">Am vrut s&#259;-mi fii pe drumul greu:</l>
+<l part="N" TEIform="l">&#355;i-am dat n&#259;dejdea vie&#355;ii mele,</l>
+<l part="N" TEIform="l">Un cer senin cu mândre stele &#8212;</l>
+<l part="N" TEIform="l">&#350;i floarea sufletului meu.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Dar floarea, când ai vrut s-o scuturi,</l>
+<l part="N" TEIform="l">S-a ve&#351;tejit în mâna ta.</l>
+<l part="N" TEIform="l">Acu-n zadar îmi ceri s&#259;ruturi,</l>
+<l part="N" TEIform="l">Alearg&#259; iar: vei prinde fluturi</l>
+<l part="N" TEIform="l">&#350;i al&#355;i obraji vei s&#259;ruta!...</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Nu-&#355;i mai cer&#351;esc, ca-n alt&#259; vreme,</l>
+<l part="N" TEIform="l">Îngenuncheat surâsul t&#259;u.</l>
+<l part="N" TEIform="l">O, nu, &#8212; cu tainice blesteme,</l>
+<l part="N" TEIform="l">Din calea ta n-or s&#259; te cheme</l>
+<l part="N" TEIform="l">Nici lacrimi, nici p&#259;reri de r&#259;u.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">A mea a fost cea mai frumoas&#259;</l>
+<l part="N" TEIform="l">Din partea minunatei pâini;</l>
+<l part="N" TEIform="l">De restul ei nimic nu-mi pas&#259;:</l>
+<l part="N" TEIform="l">Adun&#259; restul de pe mas&#259;</l>
+<l part="N" TEIform="l">&#350;i-arunc&#259;-l, draga mea, la câni!...</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Pe tine, cea de alt&#259;dat&#259;,</l>
+<l part="N" TEIform="l">Lumin&#259; stins&#259; pentru veci,</l>
+<l part="N" TEIform="l">A&#351;a cum visul meu te-arat&#259;,</l>
+<l part="N" TEIform="l">Eu te iubesc... Dar niciodat&#259;</l>
+<l part="N" TEIform="l">Pe tine, umbr&#259; care pleci!</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">De-aceea, împ&#259;cat cu mine,</l>
+<l part="N" TEIform="l">În urma ta, str&#259;in m&#259; vezi.</l>
+<l part="N" TEIform="l">Nu-&#355;i zic decât: te du cu bine!</l>
+<l part="N" TEIform="l">..........................</l>
+<l part="N" TEIform="l">&#350;i zâmbitor m&#259; uit la tine,</l>
+<l part="N" TEIform="l">Cum tot mai mult te dep&#259;rtezi.</l>
+
+</lg>
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Vecina</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">M&#259; cer&#355;i mereu, dar nu sunt eu de vin&#259;,</l>
+<l part="N" TEIform="l">Ci numai ochii, &#8212; ochii t&#259;i, vecin&#259;, &#8212;</l>
+<l part="N" TEIform="l">C&#259; &#355;i-am f&#259;cut potec&#259; prin gr&#259;din&#259;...</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Adeseori tu la&#351;i la geamuri storul,</l>
+<l part="N" TEIform="l">&#350;i u&#351;a ta e-nchis&#259; cu z&#259;vorul,</l>
+<l part="N" TEIform="l">Dar tot mai viu s-aprinde-n mine dorul!</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">&#350;i tot mai des m&#259; poart&#259; necuratul</l>
+<l part="N" TEIform="l">Spre zâmbetul din ochii t&#259;i, cu sfatul</l>
+<l part="N" TEIform="l">Pe care-l &#355;in ispita &#351;i p&#259;catul.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">De dorul t&#259;u, de dragul suferin&#355;ei,</l>
+<l part="N" TEIform="l">Când am&#259;git mi-oi pierde rostul min&#355;ii, &#8212;</l>
+<l part="N" TEIform="l">Tu vrei s&#259;-mi las &#351;i fra&#355;ii, &#351;i p&#259;rin&#355;ii?</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">S&#259; leg acum ce nu se mai dezleag&#259;,</l>
+<l part="N" TEIform="l">S&#259; isp&#259;&#351;esc via&#355;a mea întreag&#259;</l>
+<l part="N" TEIform="l">P&#259;catul greu c&#259; mi-e&#351;ti atât de drag&#259;?</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Decât s&#259; fug cu tine-n larg&#259; lume,</l>
+<l part="N" TEIform="l">Ori singur eu, s&#259; nu-&#355;i mai &#351;tiu de nume, &#8212;</l>
+<l part="N" TEIform="l">Mai bine-mpac&#259;-mi dragostea cu glume.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Zâmbind s&#259;-mi vindeci inima r&#259;nit&#259;,</l>
+<l part="N" TEIform="l">P&#259;streaz&#259; calda ochilor ispit&#259;,</l>
+<l part="N" TEIform="l">Dar nu mai &#355;ine u&#351;a z&#259;vorât&#259;!</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">C&#259; tu &#355;i-nconjuri via&#355;a cu z&#259;voare</l>
+<l part="N" TEIform="l">&#350;i clipele de-acum le la&#351;i s&#259; zboare,</l>
+<l part="N" TEIform="l">Când duclea tinere&#355;e-i trec&#259;toare...</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">De ce nu vrei s&#259; la&#351;i în prag ve&#351;mântul</l>
+<l part="N" TEIform="l">De datini grele ce-mi ucid avântul,</l>
+<l part="N" TEIform="l">C&#259; nu ne-ar &#351;ti nici vântul, nici p&#259;mântul!</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Când umbra nop&#355;ii cade peste vale,</l>
+<l part="N" TEIform="l">Tu s&#259; m-a&#351;tep&#355;i în pragul casei tale,</l>
+<l part="N" TEIform="l">C-un v&#259;l u&#351;or pe umerele goale.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">S&#259; vin, când luna nop&#355;ilor m&#259;iestre,</l>
+<l part="N" TEIform="l">Frumoas&#259; ca o fat&#259; f&#259;r&#259; zestre, &#8212;</l>
+<l part="N" TEIform="l">Se uit&#259; lung &#351;i tainic prin ferestre...</l>
+
+</lg>
+
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<l part="N" TEIform="l">Clipe de zbucium</l>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Iubita mea, te simt a&#351;a departe...</l>
+<l part="N" TEIform="l">Mi-ai pus pe frumte mâinile sub&#355;iri, &#8212;</l>
+<l part="N" TEIform="l">Dar, ca un zid puternic, ne desparte</l>
+<l part="N" TEIform="l">O pânz&#259; de cernite amintiri.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Fiin&#355;a mea întreag&#259; când te cere,</l>
+<l part="N" TEIform="l">Tu stai visând, nici ochii nu &#355;i-i mi&#351;ti, &#8212;</l>
+<l part="N" TEIform="l">&#350;i câte taine pline de durere</l>
+<l part="N" TEIform="l">Se pierd în noaptea ochilor t&#259;i tri&#351;ti!</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Eu chem osânda care m&#259; omoar&#259;, &#8212;</l>
+<l part="N" TEIform="l">S&#259;lbatic vântul patimii s&#259; bat&#259;, &#8212;</l>
+<l part="N" TEIform="l">Eu cer icoana ta de-odinioar&#259;,</l>
+<l part="N" TEIform="l">Pe care n-am v&#259;zut-o niciodat&#259;.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">O, cum a&#351; vrea durerea s&#259; mi-o-n&#351;ele!</l>
+<l part="N" TEIform="l">Atâtea nop&#355;i pustii am adorat-o,</l>
+<l part="N" TEIform="l">I-am dat &#351;i jertfa tinere&#355;ii mele</l>
+<l part="N" TEIform="l">Zâmbind... Tu numai inima mi-ai dat-o.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Mi-ai dat-o! Floare ginga&#351;&#259; de munte</l>
+<l part="N" TEIform="l">Ce st&#259; deasupra unui larg abis...</l>
+<l part="N" TEIform="l">(&#350;i chiar acum, când m&#259; s&#259;ru&#355;i pe frunte,</l>
+<l part="N" TEIform="l">Tu m&#259; s&#259;ru&#355;i cum se s&#259;rut&#259;-n vis!)</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">C&#259;ci sufletul, ca tristele ruine,</l>
+<l part="N" TEIform="l">P&#259;streaz&#259;-n el lumina altor vremuri, &#8212;</l>
+<l part="N" TEIform="l">&#350;i când o raz&#259;-ajunge pân' la mine</l>
+<l part="N" TEIform="l">Atunci te simt, iubita mea, cum tremuri:</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Ea lumineaz&#259;-n tine, f&#259;r&#259; veste,</l>
+<l part="N" TEIform="l">Pr&#259;pastia trecutului întreg...</l>
+<l part="N" TEIform="l">&#350;i-atunci duioasa inimii poveste</l>
+<l part="N" TEIform="l">Eu o ascult, &#8212; dar n-o mai în&#355;eleg.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">........................</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">De-aceea-n sara asta mi-e totuna,</l>
+<l part="N" TEIform="l">Spore&#351;te-mi iar durerea sau alin-o,</l>
+<l part="N" TEIform="l">Te-ntreb, &#8212; pierdut&#259; pentru totdeauna: &#8212;</l>
+<l part="N" TEIform="l">De unde vii &#351;i cine e&#351;ti, str&#259;ino?...</l>
+
+</lg>
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<l part="N" TEIform="l">Pruncul</l>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Un v&#259;l de cea&#355;&#259; alb&#259; &#351;i sub&#355;ire,</l>
+<l part="N" TEIform="l">Ca un lin&#355;oliu str&#259;veziu de mort,</l>
+<l part="N" TEIform="l">Înconjura biserica b&#259;trân&#259;.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">&#350;i-n diminea&#355;a zilei de aprile</l>
+<l part="N" TEIform="l">Sim&#355;eai plutind în aer, pretundindeni,</l>
+<l part="N" TEIform="l">Fiori, adânci fiori de fericire, &#8212;</l>
+<l part="N" TEIform="l">Prinosul larg al firii, când p&#259;mântul</l>
+<l part="N" TEIform="l">În mii de forme d&#259;ruie luminii</l>
+<l part="N" TEIform="l">Bel&#351;ugul lui puternic de via&#355;&#259;...</l>
+<l part="N" TEIform="l">Pluteau spre cer miresme-ngem&#259;nate</l>
+<l part="N" TEIform="l">C&#259;ci liliacul tân&#259;r înflorise</l>
+<l part="N" TEIform="l">&#350;i crengi plecate ascundeau în umbr&#259;</l>
+<l part="N" TEIform="l">M&#259;nunchiuri de sfioase viorele.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">&#350;i-n diminea&#355;a zilei de aprile</l>
+<l part="N" TEIform="l">Vedeai cum st&#259; încremenit&#259; gloat&#259;</l>
+<l part="N" TEIform="l">De muncitori &#351;i de femei t&#259;cute</l>
+<l part="N" TEIform="l">Pe treptele amvonului pustiu.</l>
+<l part="N" TEIform="l">Iar colo, jos, pe-o lespede de piatr&#259;,</l>
+<l part="N" TEIform="l">În fa&#355;a lor sta pruncul p&#259;r&#259;sit.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Un pumn de &#355;&#259;rn&#259;, o scânteie rupt&#259;</l>
+<l part="N" TEIform="l">Din flac&#259;ra etern&#259; a vie&#355;ii...</l>
+<l part="N" TEIform="l">&#350;i trupul cald topise bruma nop&#355;ii</l>
+<l part="N" TEIform="l">Ce se-nchega în pic&#259;turi curate</l>
+<l part="N" TEIform="l">Ca ni&#351;te lacrimi reci de muceni&#355;&#259;</l>
+<l part="N" TEIform="l">Sclipind pe fa&#355;a lespezilor aspre.</l>
+<l part="N" TEIform="l">P&#259;rea c&#259; piatra neclintit&#259; plânge!...</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Cum se strângea, înfiorat de frig,</l>
+<l part="N" TEIform="l">Pl&#259;pândul trup ursit de-acum durerii,</l>
+<l part="N" TEIform="l">&#350;i fa&#355;a-i mic&#259; s-o cuprinzi în palm&#259;,</l>
+<l part="N" TEIform="l">Cum întindea guri&#355;a dup&#259; hran&#259;,</l>
+<l part="N" TEIform="l">Cu buzele-i atât de diafane</l>
+<l part="N" TEIform="l">Ca dou&#259; foi sub&#355;iri de trandafir!</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Cum, printre voi, nu-i nimeni, &#8212; nici o mam&#259;</l>
+<l part="N" TEIform="l">S&#259;-&#351;i smulg&#259;-acum ve&#351;mântul de la sân?...</l>
+<l part="N" TEIform="l">O, asculta&#355;i micu&#355;ul glas cum plânge.</l>
+<l part="N" TEIform="l">Cum cere pruncul partea lui de soare!</l>
+<l part="N" TEIform="l">Dar unde e&#351;ti, s&#259;-l vezi acum, pierduto,</l>
+<l part="N" TEIform="l">Femeie, tu, de trei ori blestemat&#259;!...</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Te-o blestema bastardul f&#259;r&#259; nume,</l>
+<l part="N" TEIform="l">Nevinovatul osândit s&#259; moar&#259;</l>
+<l part="N" TEIform="l">Când nim&#259;nuia n-a cerut via&#355;&#259;, &#8212;</l>
+<l part="N" TEIform="l">&#350;i când întâiul vânt de patimi grele,</l>
+<l part="N" TEIform="l">Din lumea rea, porni-va s&#259;-l doboare,</l>
+<l part="N" TEIform="l">Te-o blestema copilul trist &#351;i palid</l>
+<l part="N" TEIform="l">C&#259; n-are cui &#351;opti, cu lacrimi: ,,mam&#259;!"</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Te-i blestema tu singur&#259; odat&#259;,</l>
+<l part="N" TEIform="l">Ducând povara vechiului p&#259;cat,</l>
+<l part="N" TEIform="l">Zadarnic vei întinde dup&#259; sprijin</l>
+<l part="N" TEIform="l">Tremur&#259;toare bra&#355;e istovite, &#8212;</l>
+<l part="N" TEIform="l">&#350;i pânza neagr&#259;-a gândurilor tale</l>
+<l part="N" TEIform="l">Cerni-va golul nop&#355;ilor târzii,</l>
+<l part="N" TEIform="l">C&#259; nu-i avea nici trista mângâiere</l>
+<l part="N" TEIform="l">S&#259; gemi plângând: ,,aveam fl&#259;c&#259;u acum!..."</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">De ce nu vii s&#259; &#355;i-l ridici în bra&#355;e?...</l>
+<l part="N" TEIform="l">Cu mânile de munc&#259; sângerate,</l>
+<l part="N" TEIform="l">S&#259; curmi &#355;&#259;râna &#351;i s&#259;-i cau&#355;i hran&#259;,</l>
+<l part="N" TEIform="l">Râzând s&#259; lup&#355;i, &#8212; s&#259; plângi înving&#259;toare,</l>
+<l part="N" TEIform="l">S&#259;-nfrun&#355;i apoi dispre&#355;ul tuturora,</l>
+<l part="N" TEIform="l">Nevrednicul dispre&#355; al celor slabi, &#8212;</l>
+<l part="N" TEIform="l">&#350;i mândr&#259;, cu privirile senine,</l>
+<l part="N" TEIform="l">Punând un bra&#355; pe um&#259;ru-i puternic,</l>
+<l part="N" TEIform="l">Tu s&#259;-l ar&#259;&#355;i atuncea lumii-ntregi:</l>
+<l part="N" TEIform="l">,,Copilul meu, &#8212; al meu &#351;-al nim&#259;nui!..."</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+
+<l part="N" TEIform="l">*</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Dar iat&#259;, &#8212; gloata-ncet se risipe&#351;te...</l>
+<l part="N" TEIform="l">Posomorât, în vinete ve&#351;minte</l>
+<l part="N" TEIform="l">Un om s-apleac&#259; &#351;i ridic&#259; pruncul, &#8212;</l>
+<l part="N" TEIform="l">Apoi cu pa&#351;ii rari &#351;i grei se duce...</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Iar soarele, însângerând altarul,</l>
+<l part="N" TEIform="l">Se ridic&#259; din cea&#355;a dimine&#355;ii</l>
+<l part="N" TEIform="l">&#350;i razele, sclipind tremur&#259;toare,</l>
+<l part="N" TEIform="l">C&#259;deau pe fa&#355;a zidurilor aspre,</l>
+<l part="N" TEIform="l">În diminea&#355;a zilei de aprile,</l>
+<l part="N" TEIform="l">C&#259;deau ca pe-o ruin&#259;...</l>
+
+</lg>
+
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Taina nop&#355;ii</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">În lumina lunii doarme</l>
+<l part="N" TEIform="l">Casa dragii mele,</l>
+<l part="N" TEIform="l">I-au cuprins pridvorul tainic</l>
+<l part="N" TEIform="l">Ramuri de zorele.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Dulci chem&#259;ri nel&#259;murite</l>
+<l part="N" TEIform="l">Tremur&#259; departe.</l>
+<l part="N" TEIform="l">Draga mea a dat sfioas&#259;</l>
+<l part="N" TEIform="l">Crengile-ntr-o parte.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">&#350;i pridvorul parc-a&#351;teapt&#259;,</l>
+<l part="N" TEIform="l">Oaspele gr&#259;dinii,</l>
+<l part="N" TEIform="l">Dar m&#259; bate luna-n fa&#355;&#259;</l>
+<l part="N" TEIform="l">&#350;i m&#259; &#351;tiu vecinii...</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">&#8212; Lun&#259; alb&#259;, lun&#259; mut&#259;,</l>
+<l part="N" TEIform="l">Lun&#259; c&#259;l&#259;toare,</l>
+<l part="N" TEIform="l">Cum te-a&#351; smulge de pe ceruri</l>
+<l part="N" TEIform="l">S&#259; te-arunc în mare!...</l>
+
+</lg>
+
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Epitafuri</head>
+<epigraph TEIform="epigraph"><p TEIform="p">pe mormântul:</p></epigraph>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<head TEIform="head">Unui be&#355;iv</head>
+<l part="N" TEIform="l">De s&#259;r&#259;cie &#351;i necaz</l>
+<l part="N" TEIform="l">Întâia oar&#259; doarme treaz.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<head TEIform="head">Unui so&#355; iubit</head>
+<l part="N" TEIform="l">Ici doarme Ni&#355;&#259; Busuioc, &#8212;</l>
+<l part="N" TEIform="l">&#350;i nu mai sfor&#259;ie deloc!</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<head TEIform="head">Unui vardist</head>
+<l part="N" TEIform="l">Ce te-ai oprit la criptolog?</l>
+<l part="N" TEIform="l">Hai, circula&#355;i, m&#259; rog!</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<head TEIform="head">Unui prost</head>
+<l part="N" TEIform="l">El doarme &#355;eap&#259;n, doarme drept, &#8212;</l>
+<l part="N" TEIform="l">Dar &#351;ti&#355;i voi: când a fost de&#351;tept?</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<head TEIform="head">Lui A. C. Cuza</head>
+<l part="N" TEIform="l">Hei, trec&#259;torule, -napoi!</l>
+<l part="N" TEIform="l">...S&#259; nu-i miro&#351;i a usturoi.</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<head TEIform="head">Iubitei</head>
+<l part="N" TEIform="l">S-a stins. Dar s&#259; n-o plângi, str&#259;ine,</l>
+<l part="N" TEIform="l">Mai mult pe ea decât pe mine!</l>
+</lg>
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Cântec</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">&#350;i-mi f&#259;cui din doruri mute</l>
+<l part="N" TEIform="l">Cântece nepricepute, &#8212;</l>
+<l part="N" TEIform="l">&#350;i din cântecele mele</l>
+<l part="N" TEIform="l">Salb&#259; de m&#259;rgele.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Inim&#259; cu dulce chin,</l>
+<l part="N" TEIform="l">Cine m-a-ndemnat s-anin</l>
+<l part="N" TEIform="l">Dup&#259; gâtul dragii mele</l>
+<l part="N" TEIform="l">Salba de m&#259;rgele?</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">C&#259; le smulse f&#259;r&#259; vin&#259;</l>
+<l part="N" TEIform="l">S&#259; le risipeasc&#259;-n tin&#259;</l>
+<l part="N" TEIform="l">Ro&#351;ii boabe de m&#259;rgele,</l>
+<l part="N" TEIform="l">Dorurile mele!...</l>
+
+</lg>
+
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Fata trist&#259;</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Firul gândului frumos</l>
+<l part="N" TEIform="l">Un suspin mi-l taie,</l>
+<l part="N" TEIform="l">C&#259; de-atâta vreme cos</l>
+<l part="N" TEIform="l">Singur&#259;-n odaie.</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">&#350;i doar mâna mea, cu greu,</l>
+<l part="N" TEIform="l">Flori de fir împarte.</l>
+<l part="N" TEIform="l">Flori aleg, &#8212; dar gândul meu,</l>
+<l part="N" TEIform="l">Gândul mi-e departe!</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Uneori, când &#355;in la piept</l>
+<l part="N" TEIform="l">Strâns&#259; cus&#259;tura,</l>
+<l part="N" TEIform="l">Închid ochii &#351;i-l a&#351;tept</l>
+<l part="N" TEIform="l">S&#259;-mi s&#259;rute gura.</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Iar când umbra serii vine</l>
+<l part="N" TEIform="l">Dorul cre&#351;te-n mine</l>
+<l part="N" TEIform="l">&#350;i triste&#355;ea m&#259; doboar&#259;</l>
+<l part="N" TEIform="l">Grea, ca o povar&#259;...</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">O, &#351;tiu bine c&#259;-n zadar</l>
+<l part="N" TEIform="l">Dragostea m&#259; mân&#259;</l>
+<l part="N" TEIform="l">S&#259;-l a&#351;tept cu lacrimi iar</l>
+<l part="N" TEIform="l">Nopatea, la fântân&#259;.</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Nu mai vine s&#259;-i &#351;optesc</l>
+<l part="N" TEIform="l">Dorurile toate</l>
+<l part="N" TEIform="l">&#350;i la sân s&#259;-i înc&#259;lzesc</l>
+<l part="N" TEIform="l">Mâinile-nghe&#355;ate!</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Ci doar vântul nop&#355;ii rece</l>
+<l part="N" TEIform="l">Fruntea mi-o s&#259;rut&#259;,</l>
+<l part="N" TEIform="l">Peste codri luna trece</l>
+<l part="N" TEIform="l">Galben&#259; &#351;i mut&#259;.</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Lung suspin&#259;-n fream&#259;t greu</l>
+<l part="N" TEIform="l">Fagii de pe coaste...</l>
+<l part="N" TEIform="l">Noapte dulce, dragul meu</l>
+<l part="N" TEIform="l">A plecat în oaste.</l>
+
+</lg>
+
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Ceasornicului meu</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Ce, &#8212; iar ai a&#355;ipit?... Ru&#351;ine</l>
+<l part="N" TEIform="l">C&#259; por&#355;i blazonul de ,,patent"!</l>
+<l part="N" TEIform="l">Te &#355;iu, de-o lun&#259;, eu pe tine</l>
+<l part="N" TEIform="l">Cu mersul vremii în curent.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Ma&#351;in&#259;ria ta perfect&#259;</l>
+<l part="N" TEIform="l">Cunoa&#351;te ordinul legal</l>
+<l part="N" TEIform="l">&#350;i-n fiecare zi respect&#259;</l>
+<l part="N" TEIform="l">Repaosul... duminical.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">*</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Dar poate la&#351;i necontrolate</l>
+<l part="N" TEIform="l">S&#259; curg&#259; clipele în haos, &#8212;</l>
+<l part="N" TEIform="l">C&#259; ai &#351;i tu nevoie, frate,</l>
+<l part="N" TEIform="l">De lini&#351;te &#351;i de repaos.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">E&#351;ti surmenat &#351;i tu pesemne</l>
+<l part="N" TEIform="l">Ca &#351;i st&#259;pânu-t&#259;u, s&#259;racul!</l>
+<l part="N" TEIform="l">Ce lege poate s&#259; te-ndemne</l>
+<l part="N" TEIform="l">S&#259; ba&#355;i necontenit tic-tacul?...</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">E&#351;ti ,,atacat", cu siguran&#355;&#259;.</l>
+<l part="N" TEIform="l">Deci, cât&#259; vreme pulsu-&#355;i bate,</l>
+<l part="N" TEIform="l">Te duc la munte pe vacan&#355;&#259;, &#8212;</l>
+<l part="N" TEIform="l">...La muntele de pietate.</l>
+
+</lg>
+
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Eclips&#259;</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Pe-acelea&#351;i c&#259;i de mii de ani umblate,</l>
+<l part="N" TEIform="l">În goluri vaste leg&#259;nându-&#351;i sfera,</l>
+<l part="N" TEIform="l">Neptun ador&#259; vis&#259;tor pe Terra, &#8212;</l>
+<l part="N" TEIform="l">O biat&#259; lume plin&#259; de p&#259;cate...</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">El niciodat&#259; n-a trecut bariera</l>
+<l part="N" TEIform="l">Singur&#259;t&#259;&#355;ii lui nevinovate, &#8212;</l>
+<l part="N" TEIform="l">&#350;i-n clipa asta ea e moart&#259;, poate:</l>
+<l part="N" TEIform="l">O umbr&#259; deas&#259;-i umple atmosfera.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Neptun, se vede c&#259; tu n-ai lunet&#259;</l>
+<l part="N" TEIform="l">S&#259;-i studiezi eclipsa de departe, &#8212;</l>
+<l part="N" TEIform="l">Când inocenta tân&#259;r&#259; planet&#259;</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Se-ntreab&#259;, cu privirea-ntr-alt&#259; parte:</l>
+<l part="N" TEIform="l">,,Ce face oare Venera cochet&#259;</l>
+<l part="N" TEIform="l">Pe întuneric, singur&#259; cu Marte?"</l>
+</lg>
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Dolean&#355;ele unui cronicar teatral</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Pe cerul plin de sclipitoare puncte,</l>
+<l part="N" TEIform="l">Trec efemere linii de lumin&#259;.</l>
+<l part="N" TEIform="l">Sub pasul meu întârziat, suspin&#259;</l>
+<l part="N" TEIform="l">Sonorul glas al frunzelor defuncte.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Zadarnic luna m&#259; petrece-n cale</l>
+<l part="N" TEIform="l">Pe bulevardul alb &#351;i singuratic, &#8212;</l>
+<l part="N" TEIform="l">C&#259; subsemnatul, ,,cronicar dramatic",</l>
+<l part="N" TEIform="l">Acum e-n rolul misiunii sale.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">De-abia încerc un singur vers de od&#259;, &#8212;</l>
+<l part="N" TEIform="l">&#350;i-n capul meu vin stafii inedite,</l>
+<l part="N" TEIform="l">Cu gesturi largi, &#8212; cu r&#259;cnete cumplite:</l>
+<l part="N" TEIform="l">Mo&#355;oc, Spancioc, Ciub&#259;r &#351;i Despot-vod&#259;!</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">,,Sunt eu?... Sunt treaz?... Deschide-te, morminte!..."</l>
+<l part="N" TEIform="l">Deodat&#259; tace ritmicul meu pas:</l>
+<l part="N" TEIform="l">În scena a III-a, mi-am adus aminte,</l>
+<l part="N" TEIform="l">Madam Pruteanu a strâmbat din nas.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">De ce-a strâmbat?... Probabil, o nuan&#355;&#259;</l>
+<l part="N" TEIform="l">De fin dispre&#355;, când vede pe Carmina, &#8212;</l>
+<l part="N" TEIform="l">Fiindc&#259;-&#351;i pierde ultima speran&#355;&#259;...</l>
+<l part="N" TEIform="l">De n-a&#351; uita nuan&#355;a cu pricina!</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">&#350;i iar pornesc... dar m&#259; opresc deodat&#259;.</l>
+<l part="N" TEIform="l">Ah, sunt dator s&#259; fiu cu mintea-n patru:</l>
+<l part="N" TEIform="l">De ce nu vin ie&#351;enii to&#355;i la teatru?...</l>
+<l part="N" TEIform="l">O chestiune foarte complicat&#259;!</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Francisca... art&#259;... rasa &#351;i talentul...</l>
+<l part="N" TEIform="l">Deci, vas&#259;zic&#259;, vor s&#259; se r&#259;zbune...</l>
+<l part="N" TEIform="l">Ce-i vinovat Onor. Direc&#355;iune?</l>
+<l part="N" TEIform="l">Domnia-sa regret&#259; incidentul...</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">...Vâr degetul în buzunarul vestii,</l>
+<l part="N" TEIform="l">Sunt plictisit &#351;i-mi pare r&#259;u de lun&#259;.</l>
+<l part="N" TEIform="l">Hm!... bulevardul pare o lagun&#259;...</l>
+<l part="N" TEIform="l">Mi-e capul plin cu fel de fel de chestii.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Dar e-n zadar!...</l>
+<l part="N" TEIform="l">Va trebui s&#259; scriu</l>
+<l part="N" TEIform="l">(Chiar dac-ar fi s&#259; nu mai cânt o lun&#259;)</l>
+<l part="N" TEIform="l">De Dragomir, de pies&#259; &#8212; c&#259; e bun&#259;.</l>
+<l part="N" TEIform="l">De Tom&#351;a, de Pisoschi, tot ce &#351;tiu!</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">...A&#351; ataca pe d. Sadoveanu</l>
+<l part="N" TEIform="l">(C&#259;ci n-a aniversat pe d. Iorga),</l>
+<l part="N" TEIform="l">A&#351; l&#259;uda pe d-ra Horga,</l>
+<l part="N" TEIform="l">Dar ce-o s&#259; zic&#259; d. Ibr&#259;ileanu?</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Chiar dac&#259;-n Ilia&#351; a fost perfect&#259;,</l>
+<l part="N" TEIform="l">O s&#259; v&#259; par&#259; c&#259;... mi s-a p&#259;rut!</l>
+<l part="N" TEIform="l">(Dealtminteri, eu &#351;tiam de la-nceput</l>
+<l part="N" TEIform="l">C&#259; voi emite-o laud&#259; suspect&#259;...)</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">*</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">A&#351;a, m&#259; duc ursuz prin promoroac&#259;,</l>
+<l part="N" TEIform="l">În pacea nop&#355;ii albe &#351;i compacte, &#8212;</l>
+<l part="N" TEIform="l">&#350;i nici nu &#351;tiu c&#259;-n capul meu ,,se joac&#259;"</l>
+<l part="N" TEIform="l">O tragedie-n paisprezece acte!...</l>
+
+</lg>
+
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">De profundis</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">I</l>
+<l part="N" TEIform="l">Nu, asta nu pot s-o suport!</l>
+<l part="N" TEIform="l">Curând, e-un an &#351;i jum&#259;tate</l>
+<l part="N" TEIform="l">De când a&#355;i declarat c&#259;-s mort</l>
+<l part="N" TEIform="l">În unanimitate.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">To&#355;i pro&#351;tii câ&#355;i m-au cunoscut</l>
+<l part="N" TEIform="l">Ziceau: ,,Mi-era un fel de rud&#259; &#8212;</l>
+<l part="N" TEIform="l">S&#259;racul! Cine-ar fi crezut?..."</l>
+<l part="N" TEIform="l">Îmi vine s&#259;-nviez de ciud&#259;!</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Profane mâini mi-au r&#259;sfoit,</l>
+<l part="N" TEIform="l">La Ia&#351;i, arhiva.</l>
+<l part="N" TEIform="l">Revistele m-au prohodit,</l>
+<l part="N" TEIform="l">Amicii mi-au mâncat coliva.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">M&#259; pip&#259;i, stau nedumerit.</l>
+<l part="N" TEIform="l">M&#259; trag de p&#259;r, simt c&#259; m&#259; doare...</l>
+<l part="N" TEIform="l">Nu, n-am murit!</l>
+<l part="N" TEIform="l">V&#259; dau cuvântul de onoare.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Scriu versuri proaste, deci exist!</l>
+<l part="N" TEIform="l">Mi-e dor, mi-e foarte dor de-o fat&#259;.</l>
+<l part="N" TEIform="l">Tr&#259;iesc, de vreme ce sunt trist</l>
+<l part="N" TEIform="l">&#350;i râd ca alt&#259;dat&#259;.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Dar ast&#259;zi, negru &#351;i zburlit</l>
+<l part="N" TEIform="l">De cum m-a prins du&#351;manul, &#8212;</l>
+<l part="N" TEIform="l">V&#259; dau de veste c-am sosit</l>
+<l part="N" TEIform="l">Întreg, &#351;i eu, &#351;i geamantanul!</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">II</l>
+<l part="N" TEIform="l">Am fost la început în rai</l>
+<l part="N" TEIform="l">La Neam&#355;, la m&#259;n&#259;stire:</l>
+<l part="N" TEIform="l">P&#259;duri de cetini, flori de plai,</l>
+<l part="N" TEIform="l">Singur&#259;tate &#351;i iubire...</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Pe urm&#259; am intrat în iad</l>
+<l part="N" TEIform="l">La Turtucaia,</l>
+<l part="N" TEIform="l">&#350;i înc&#259; miroseam a brad</l>
+<l part="N" TEIform="l">Când s-a-nceput b&#259;taia.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Acolo jos, un c&#259;pitan</l>
+<l part="N" TEIform="l">Cu barba rar&#259;</l>
+<l part="N" TEIform="l">M-a pus al&#259;turi d-un &#355;igan</l>
+<l part="N" TEIform="l">S&#259;-mi dau via&#355;a pentru &#355;ar&#259;.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Mi se p&#259;rea c&#259; e un basm,</l>
+<l part="N" TEIform="l">Când gloan&#355;ele veneau din vale</l>
+<l part="N" TEIform="l">Spre mine, cu entuziasm</l>
+<l part="N" TEIform="l">&#350;i cu inten&#355;ii criminale.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">M&#259; c&#259;utau prin cucuruz</l>
+<l part="N" TEIform="l">S&#259; m&#259; m&#259;nânce, s&#259; m&#259; frig&#259;!</l>
+<l part="N" TEIform="l">&#350;i când c&#259;dea câte-un obuz</l>
+<l part="N" TEIform="l">Cât un ceaun de m&#259;m&#259;lig&#259;,</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Trosnea, cu flac&#259;r&#259; &#351;i fum,</l>
+<l part="N" TEIform="l">De se cutremura maidanul, &#8212;</l>
+<l part="N" TEIform="l">Încât m&#259; minunez &#351;-acum</l>
+<l part="N" TEIform="l">C&#259; nu mi-au spart timpanul!...</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">De-acuma chiar de m-a&#351; zvârli</l>
+<l part="N" TEIform="l">Într-o vultoare,</l>
+<l part="N" TEIform="l">De mine Moartea va fugi</l>
+<l part="N" TEIform="l">Cu coasa-ntre picioare.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">C&#259;ci î&#351;i va zice-n gândul ei:</l>
+<l part="N" TEIform="l">,,Mor to&#355;i, &#8212; fl&#259;mândul &#351;i s&#259;tulul...</l>
+<l part="N" TEIform="l">Dar &#259;sta are obicei</l>
+<l part="N" TEIform="l">S&#259;-mi trag&#259; chiulul!"</l>
+
+</lg>
+
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Po&#351;ta redac&#355;iei</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Cite&#351;te-mi oda &#351;i repet-o,</l>
+<l part="N" TEIform="l">Amicul meu necunoscut.</l>
+<l part="N" TEIform="l">Tu, colaborator in petto,</l>
+<l part="N" TEIform="l">Prime&#351;te primul meu salut!</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">De cum începe s&#259; vorbeasc&#259;</l>
+<l part="N" TEIform="l">Românul nostru e poet.</l>
+<l part="N" TEIform="l">Nu-i om în &#355;ara româneasc&#259;</l>
+<l part="N" TEIform="l">S&#259; nu fi scris un triolet,</l>
+<l part="N" TEIform="l">O strof&#259; p-un album de fat&#259;</l>
+<l part="N" TEIform="l">Sau cel pu&#355;in un acrosti&#351;</l>
+<l part="N" TEIform="l">Pe care, tremurând, odat&#259;,</l>
+<l part="N" TEIform="l">L-a dat iubitei pe furi&#351;...</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">De-aceea f&#259;r&#259; sup&#259;rare</l>
+<l part="N" TEIform="l">Noi î&#355;i întindem mâna, frate:</l>
+<l part="N" TEIform="l">A tale crime literare</l>
+<l part="N" TEIform="l">Mai dinainte-&#355;i sunt iertate...</l>
+<l part="N" TEIform="l">De vrei s&#259; publici versuri nule,</l>
+<l part="N" TEIform="l">Vreo nuvelet&#259;, un articol, &#8212;</l>
+<l part="N" TEIform="l">Noi am luat m&#259;suri destule</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">S&#259; te sc&#259;p&#259;m de-acest pericol.</l>
+<l part="N" TEIform="l">Consemnul nostru e teribil:</l>
+<l part="N" TEIform="l">S-aduci întâi certificat</l>
+<l part="N" TEIform="l">Precum c&#259; e&#351;ti inamovibil, &#8212;</l>
+<l part="N" TEIform="l">Profesor... pop&#259;... magistrat...</l>
+<l part="N" TEIform="l">S&#259;-&#355;i faci întâi o carier&#259;,</l>
+<l part="N" TEIform="l">Ori cel pu&#355;in o sinecur&#259;,</l>
+<l part="N" TEIform="l">Ceva, un loc în atmosfer&#259;...</l>
+<l part="N" TEIform="l">&#350;i mai apoi literatur&#259;.</l>
+<l part="N" TEIform="l">Credeam &#351;i noi odinioar&#259;</l>
+<l part="N" TEIform="l">&#350;i poate ast&#259;zi credem înc&#259;,</l>
+<l part="N" TEIform="l">De&#351;i iluziile zboar&#259;, &#8212;</l>
+<l part="N" TEIform="l">C&#259; tot ce zboar&#259; se m&#259;nânc&#259;...</l>
+<l part="N" TEIform="l">Da, zboar&#259; gândurile mele</l>
+<l part="N" TEIform="l">&#350;i versul meu e-naripat, &#8212;</l>
+<l part="N" TEIform="l">&#350;i-n loc s&#259; m&#259;nânc eu din ele,</l>
+<l part="N" TEIform="l">Pe mine ele m-au mâncat!</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">*</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Dar dac&#259; sim&#355;i arzând în tine</l>
+<l part="N" TEIform="l">Al artei foc nepotolit,</l>
+<l part="N" TEIform="l">C&#259;ldura ,,fl&#259;c&#259;rii divine"</l>
+<l part="N" TEIform="l">Ce &#351;i pe mine m-au pârlit;</l>
+<l part="N" TEIform="l">De vrei ca vulgul s&#259; te-admire</l>
+<l part="N" TEIform="l">&#350;i orice prost impertinent</l>
+<l part="N" TEIform="l">C-un zâmbet de comp&#259;timire</l>
+<l part="N" TEIform="l">S&#259;-&#355;i zic&#259;: bravo, ai talent!</l>
+<l part="N" TEIform="l">În existen&#355;a ta pribeag&#259;</l>
+<l part="N" TEIform="l">Tot singur, mândru &#351;i s&#259;rac,</l>
+<l part="N" TEIform="l">De vrei s&#259; lup&#355;i cu lumea-ntreag&#259;</l>
+<l part="N" TEIform="l">Ca Cyrano de Bergerac;</l>
+<l part="N" TEIform="l">De-s în zadar a mele sfaturi</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Pe lâng&#259; visul t&#259;u, frumos</l>
+<l part="N" TEIform="l">Ca un castel cu zece caturi</l>
+<l part="N" TEIform="l">Din care cazi cu capu-n jos;</l>
+<l part="N" TEIform="l">De vrei s&#259; fii trimis în frunte</l>
+<l part="N" TEIform="l">Când s-o isca un nou r&#259;zboi,</l>
+<l part="N" TEIform="l">&#350;i nenorocul s&#259; te-nfrunte</l>
+<l part="N" TEIform="l">Când te-i întoarce înapoi, &#8212;</l>
+<l part="N" TEIform="l">Necazuri cu nemiluita</l>
+<l part="N" TEIform="l">În lunga ta captivitate,</l>
+<l part="N" TEIform="l">S&#259;-&#355;i pierzi amicii &#351;i iubita</l>
+<l part="N" TEIform="l">&#350;-un post la Universitate...</l>
+<l part="N" TEIform="l">Visând, în urm&#259;, o balad&#259;</l>
+<l part="N" TEIform="l">Cu mun&#355;i, cu soare, &#351;i cu flori,</l>
+<l part="N" TEIform="l">S&#259; tragi pe Lucifer de coad&#259;</l>
+<l part="N" TEIform="l">Precum l-ai tras de-atâtea ori;</l>
+<l part="N" TEIform="l">&#350;i dac&#259; vrei s&#259; ai, pe lâng&#259;</l>
+<l part="N" TEIform="l">Acestea, &#351;-alte mici belele:</l>
+<l part="N" TEIform="l">De vrei ca gheata s&#259; te strâng&#259;</l>
+<l part="N" TEIform="l">&#350;i ca iubita s&#259; te-n&#351;ele,</l>
+<l part="N" TEIform="l">Flirtând cu primul n&#259;t&#259;flea&#355;&#259;</l>
+<l part="N" TEIform="l">Pe care-l are la-ndemân&#259;,</l>
+<l part="N" TEIform="l">&#350;-apoi din nou s&#259;-&#355;i cad&#259;-n bra&#355;e</l>
+<l part="N" TEIform="l">De &#351;apte ori pe s&#259;pt&#259;mân&#259;;</l>
+<l part="N" TEIform="l">De vrei ca dup&#259; astea toate</l>
+<l part="N" TEIform="l">De-a binele s&#259;-nnebune&#351;ti,</l>
+<l part="N" TEIform="l">C-o hain&#259; verde roas&#259;-n coate</l>
+<l part="N" TEIform="l">&#350;i cu jambiere musc&#259;le&#351;ti;</l>
+<l part="N" TEIform="l">Când &#355;i-ai pierdut complet busola</l>
+<l part="N" TEIform="l">S&#259; faci bucluc dup&#259; bucluc,</l>
+<l part="N" TEIform="l">De vrei s&#259; intri la Socola,</l>
+<l part="N" TEIform="l">S&#259; scapi de-atâta balamuc,</l>
+<l part="N" TEIform="l">Ori s&#259;-&#355;i fii victim&#259; &#351;i gâde</l>
+<l part="N" TEIform="l">Tu &#355;ie singur deopotriv&#259;...</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">&#350;i dac&#259; totu&#351;i î&#355;i surâde</l>
+<l part="N" TEIform="l">Aceast&#259; neagr&#259; perspectiv&#259;,</l>
+<l part="N" TEIform="l">Ia pana, domnul meu, &#351;i... scrie!</l>
+<l part="N" TEIform="l">Eu unul nu pot s&#259; te scap.</l>
+<l part="N" TEIform="l">Dar te previu, ca s&#259; se &#351;tie,</l>
+<l part="N" TEIform="l">C&#259; singur &#355;i-ai f&#259;cut de cap.</l>
+
+</lg>
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Scrisori iubite</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Scrisori p&#259;strate de demult...</l>
+<l part="N" TEIform="l">În lini&#351;tit&#259; zi cu soare, &#8212;</l>
+<l part="N" TEIform="l">Cu fruntea-n mâini m&#259; plec s-ascult</l>
+<l part="N" TEIform="l">T&#259;cerea voastr&#259; vorbitoare.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Ce fericit eram odat&#259;,</l>
+<l part="N" TEIform="l">&#350;i cât sunt ostenit de drum!</l>
+<l part="N" TEIform="l">Dar ea, &#8212; pe unde-o fi acum?</l>
+<l part="N" TEIform="l">Ce s-a f&#259;cut frumoasa fat&#259;?...</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">C&#259; ne-am iubit ca doi nebuni,</l>
+<l part="N" TEIform="l">Iar ast&#259;zi nu mai am în fa&#355;&#259;</l>
+<l part="N" TEIform="l">Decât un mald&#259;r de minciuni</l>
+<l part="N" TEIform="l">Legate cu un fir de a&#355;&#259;.</l>
+
+</lg>
+
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Catrene improvizate</head>
+<epigraph TEIform="epigraph"><l part="N" TEIform="l">(în onoarea ilustrului T&#259;sl&#259;oanu)</l></epigraph>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Ca o comet&#259; f&#259;r&#259; coad&#259;</l>
+<l part="N" TEIform="l">Ai ap&#259;rut pe firmament</l>
+<l part="N" TEIform="l">Cu-al t&#259;u Luceaf&#259;r pus pe sfad&#259;, &#8212;</l>
+<l part="N" TEIform="l">Dar n-ai talent.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Ai tot ce-&#355;i trebuie: hârtie,</l>
+<l part="N" TEIform="l">Cerneal&#259;, public indulgent,</l>
+<l part="N" TEIform="l">Parale &#351;i tipografie, &#8212;</l>
+<l part="N" TEIform="l">Dar n-ai talent.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Te-ai instalat în Capital&#259;</l>
+<l part="N" TEIform="l">Ca s&#259; creezi &#351;i tu curent.</l>
+<l part="N" TEIform="l">Vrei s&#259; te-afirmi ca cap de &#351;coal&#259;, &#8212;</l>
+<l part="N" TEIform="l">Dar n-ai talent.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">La cafenea când vii alene</l>
+<l part="N" TEIform="l">Î&#355;i iei un aer grav, absent...</l>
+<l part="N" TEIform="l">Satisf&#259;cut te umfli-n pene, &#8212;</l>
+<l part="N" TEIform="l">Dar n-ai talent.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Iar când te duci s&#259; scrii acas&#259;</l>
+<l part="N" TEIform="l">Un nou articol vehement,</l>
+<l part="N" TEIform="l">Te strâmbi urât, te-a&#351;ezi la mas&#259;...</l>
+<l part="N" TEIform="l">Dar n-ai talent.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Avântul t&#259;u &#351;i idealul</l>
+<l part="N" TEIform="l">Plasat în &#355;ar&#259; cu procent</l>
+<l part="N" TEIform="l">Î&#355;i salt&#259;-ntruna capitalul, &#8212;</l>
+<l part="N" TEIform="l">Dar n-ai talent.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Consta&#355;i de dou&#259; ori pe lun&#259;</l>
+<l part="N" TEIform="l">C&#259;-&#355;i d&#259; bilan&#355;ul excedent.</l>
+<l part="N" TEIform="l">Negustoria merge strun&#259;, &#8212;</l>
+<l part="N" TEIform="l">Dar n-ai talent!</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">E&#351;ti f&#259;r&#259; scrupul &#351;i m&#259;sur&#259;</l>
+<l part="N" TEIform="l">Când vrei s&#259; scapi de-un concurent.</l>
+<l part="N" TEIform="l">Î&#355;i fierbe sufletul de ur&#259;, &#8212;</l>
+<l part="N" TEIform="l">Dar n-ai talent.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Nu ne distruge dintr-o dat&#259;,</l>
+<l part="N" TEIform="l">Catone, fii mai indulgent!</l>
+<l part="N" TEIform="l">Tu ai o mutr&#259; indignat&#259;, &#8212;</l>
+<l part="N" TEIform="l">Dar n-ai talent...</l>
+
+</lg>
+
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Portret</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Ea are ochii mari,</l>
+<l part="N" TEIform="l">Ea are gura mic&#259;,</l>
+<l part="N" TEIform="l">Un corp cu forme tari</l>
+<l part="N" TEIform="l">&#350;i gra&#355;ii de pisic&#259;.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Dorin&#355;e, pururi noi &#8212;</l>
+<l part="N" TEIform="l">Scântei ascunse-n vatr&#259; &#8212;</l>
+<l part="N" TEIform="l">&#350;i dou&#259; bra&#355;e moi,</l>
+<l part="N" TEIform="l">&#350;i-o inim&#259; de piatr&#259;.</l>
+
+</lg>
+
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">&#350;oapte</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">În noaptea trist&#259; care ne desparte,</l>
+<l part="N" TEIform="l">Tu poate sim&#355;i în jurul t&#259;u suspine</l>
+<l part="N" TEIform="l">&#350;i fâlfâiri de aripi &#351;i de &#351;oapte...</l>
+<l part="N" TEIform="l">E dorul meu ce vine de departe</l>
+<l part="N" TEIform="l">&#350;i ostenit adoarme lâng&#259; tine,</l>
+<l part="N" TEIform="l">Cuminte ca un fluture de noapte</l>
+<l part="N" TEIform="l">Ce s-a l&#259;sat la capul t&#259;u, pe-o carte</l>
+<l part="N" TEIform="l">Închis&#259; de la sine</l>
+<l part="N" TEIform="l">Când ai sim&#355;it c&#259; somnul ne desparte...</l>
+
+</lg>
+
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Fables microscopiques</head>
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Toto et l'auto</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">&#8212; Au revoir! dit Toto</l>
+<l part="N" TEIform="l">Et partit en auto.</l>
+<l part="N" TEIform="l">Il n'avait nul souci.</l>
+<l part="N" TEIform="l">Au tournant dangereux</l>
+<l part="N" TEIform="l">Il lui crêva un pneu...</l>
+<l part="N" TEIform="l">Toto crêva aussi.</l>
+<l part="N" TEIform="l"><emph TEIform="emph">Moralité</emph>:</l>
+<l part="N" TEIform="l">Mourir c'est partir un peu...</l>
+</lg>
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Le vaillant moucheron</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Un moucheron d'un jour piqua le grand Enée...</l>
+<l part="N" TEIform="l"/>
+<l part="N" TEIform="l"><emph TEIform="emph">Moralité:</emph></l>
+<l part="N" TEIform="l">La valeur n'attend pas le nombre des années!</l>
+
+</lg>
+</div>
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Fable esquimaude</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Un grand ours blanc mangea un petit daim.</l>
+<l part="N" TEIform="l">Il assouvit sa faim</l>
+<l part="N" TEIform="l">Au moins pour une fois...</l>
+<l part="N" TEIform="l"><emph TEIform="emph">Moralité</emph>:</l>
+<l part="N" TEIform="l">On a toujours besoin d'un plus petit que soi.</l>
+</lg>
+</div>
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">L'âne philosophe</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Un jeune âne amoureux d'une noble cavale,</l>
+<l part="N" TEIform="l">Lui demanda la main (le sabot de devant).</l>
+<l part="N" TEIform="l">&#8212; Mais... vous êtes du peuple, et moi &#8212; je suis pur sang,</l>
+<l part="N" TEIform="l">Je vous ferai cocu! lui promit-elle.</l>
+<l part="N" TEIform="l">&#8212; J'avale</l>
+<l part="N" TEIform="l">Tout ce que vous voudrez! dit l'âne sans émoi</l>
+<l part="N" TEIform="l">Car...</l>
+<l part="N" TEIform="l"><emph TEIform="emph">Moralité:</emph></l>
+<l part="N" TEIform="l">Promettre c'est noble, tenir serait bourgeois...</l>
+
+</lg>
+</div>
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Lumin&#259;</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Viseaz&#259; plopul, nemi&#351;cat în soare,</l>
+<l part="N" TEIform="l">&#350;i umbra din el, neagr&#259;, îi curge la picioare...</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Un melc î&#351;i taie drumul prin gr&#259;din&#259;</l>
+<l part="N" TEIform="l">De-a dreptul, ca un tanc de gelatin&#259;,</l>
+<l part="N" TEIform="l">Amenin&#355;ând albine &#351;i furnici</l>
+<l part="N" TEIform="l">Cu patru tunuri mici.</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">T&#259;cerea î&#351;i adun&#259; trupul sferic</l>
+<l part="N" TEIform="l">Într-un boboc de nalb&#259;.</l>
+<l part="N" TEIform="l">O musc&#259; trece prin lumina alb&#259;,</l>
+<l part="N" TEIform="l">Ca o scânteie de-ntuneric,</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Un fluture, cu aripi de umbr&#259; &#351;i m&#259;tas&#259;</l>
+<l part="N" TEIform="l">Stropite-n dou&#259; locuri cu carmin,</l>
+<l part="N" TEIform="l">Din zboru-i frânt &#351;i plutitor se las&#259;</l>
+<l part="N" TEIform="l">Pe vârful unui spin.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">&#350;i florile se-nal&#355;&#259;-ntr-un picior</l>
+<l part="N" TEIform="l">S&#259;-l poat&#259; contempla mai bine.</l>
+<l part="N" TEIform="l">Cum doarme-n pragul clipei care vine,</l>
+<l part="N" TEIform="l">Cu aripile desf&#259;cute-n viitor.</l>
+</lg>
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Acuarel&#259;</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">În p&#259;durea de cristal</l>
+<l part="N" TEIform="l">Ca un alb decor de teatru,</l>
+<l part="N" TEIform="l">Stau copacii vertical</l>
+<l part="N" TEIform="l">(Trei plus dou&#259;zeci &#351;i patru).</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Înger trist de abanos,</l>
+<l part="N" TEIform="l">Înger mic</l>
+<l part="N" TEIform="l">S-a trezit cu fa&#355;a-n jos</l>
+<l part="N" TEIform="l">Într-un cuib de borangic.</l>
+<l part="N" TEIform="l">Un luceaf&#259;r ideal,</l>
+<l part="N" TEIform="l">Verde i s-a prins pe gene,</l>
+<l part="N" TEIform="l">Ca un fulg de papagal</l>
+<l part="N" TEIform="l">Din p&#259;duri braziliene.</l>
+<l part="N" TEIform="l">Iar c&#259;p&#351;unii de pe jos</l>
+<l part="N" TEIform="l">Îi trimit în n&#259;ri mireazm&#259;</l>
+<l part="N" TEIform="l">De t&#259;mâie &#351;i aghiazm&#259;,</l>
+<l part="N" TEIform="l">Pruncului de abanos.</l>
+</lg>
+
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Paragini...</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Pe-aici,</l>
+<l part="N" TEIform="l">A fost p&#259;mântul binecuvântat</l>
+<l part="N" TEIform="l">De trei vl&#259;dici</l>
+<l part="N" TEIform="l">&#350;i de-un mitropolit primat.</l>
+<l part="N" TEIform="l">A fost odinioar&#259; &#351;i-un castel</l>
+<l part="N" TEIform="l">Cu brâu multicolor de portolac.</l>
+<l part="N" TEIform="l">&#350;i-n fundul parcului, un lac</l>
+<l part="N" TEIform="l">Cu nuferi de argint pe luciu de o&#355;el.</l>
+<l part="N" TEIform="l">A fost...</l>
+<l part="N" TEIform="l">Acum, abia se mai cunoa&#351;te</l>
+<l part="N" TEIform="l">O balt&#259; p&#259;r&#259;sit&#259;, la o parte,</l>
+<l part="N" TEIform="l">Singur&#259;tatea strig&#259; din apele ei moarte</l>
+<l part="N" TEIform="l">Spre cer, cu glas de broa&#351;te.</l>
+<l part="N" TEIform="l">&#350;i numai calul-dracului,</l>
+<l part="N" TEIform="l">Prin lini&#351;tea s&#259;rac&#259; dimprejur,</l>
+<l part="N" TEIform="l">Atinge fa&#355;a lacului</l>
+<l part="N" TEIform="l">Cu aripi de azur.</l>
+
+</lg>
+
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Biografie</head>
+<epigraph TEIform="epigraph"><l part="N" TEIform="l">(Replic&#259;)</l></epigraph>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">A fost un om ca orice om de treab&#259;</l>
+<l part="N" TEIform="l">Ca tine &#351;i ca mine bun&#259;oar&#259;,</l>
+<l part="N" TEIform="l">&#350;i care niciodat&#259; nu se-ntreab&#259;</l>
+<l part="N" TEIform="l">Ce interes au oamenii s&#259; moar&#259;.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">A&#351;a, fiindc&#259; s-a trezit pe lume</l>
+<l part="N" TEIform="l">Ca omul care n-a cerut anume,</l>
+<l part="N" TEIform="l">El &#351;i-a f&#259;cut în atmosfer&#259; loc,</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">&#350;i-a-nfipt în vânt c&#259;ciula &#355;uguiat&#259;</l>
+<l part="N" TEIform="l">&#350;i s-a-ncrustat în spa&#355;iu ca un bloc</l>
+<l part="N" TEIform="l">De piatr&#259; detunat&#259;.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Dar într-o zi, c&#259;scând prea tare gura,</l>
+<l part="N" TEIform="l">Pe veci i-a-ncremenit f&#259;ptura.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">&#350;i sufletul închis în el, s&#259;racul,</l>
+<l part="N" TEIform="l">Spre cer a dat n&#259;val&#259;,</l>
+<l part="N" TEIform="l">Ca întunericul dintr-o cutie goal&#259;</l>
+<l part="N" TEIform="l">Când ai deschis capacul.</l>
+
+</lg>
+
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Martie</head>
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">I. Singur&#259;tate</head>
+
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Prin lumini&#351;ul crângului t&#259;cut,</l>
+<l part="N" TEIform="l">De-atâta vreme nimeni n-a trecut.</l>
+
+</lg>
+
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Copacii goi, în lung&#259; nemi&#351;care,</l>
+<l part="N" TEIform="l">Pe umbra lor ce st&#259;-n&#259;l&#355;at&#259; în picioare.</l>
+<l part="N" TEIform="l">Arar ajunge pân&#259;-aici</l>
+<l part="N" TEIform="l">O pas&#259;re cu aripile mici,</l>
+<l part="N" TEIform="l">&#350;i glasul ei r&#259;sun&#259; în lini&#351;te prea tare.</l>
+</lg>
+
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Dar Prim&#259;vara, care &#351;tie tot,</l>
+<l part="N" TEIform="l">Va risipi prin iarba dimprejur</l>
+<l part="N" TEIform="l">Scântei de-azur &#8212;</l>
+<l part="N" TEIform="l">Albastru miozot.</l>
+<l part="N" TEIform="l">&#350;i dintre foi tivite cu argint,</l>
+<l part="N" TEIform="l">Vor cre&#351;te ciucuri albi de m&#259;rg&#259;rint.</l>
+</lg>
+
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">*</l>
+</lg>
+
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Pe-aici, o zân&#259; mic&#259; coboar&#259; dintre stele,</l>
+<l part="N" TEIform="l">&#350;i-n fiecare noapte culege viorele.</l>
+<l part="N" TEIform="l">Dar nim&#259;nui pe lume nu-i e dat s-o vad&#259;</l>
+<l part="N" TEIform="l">Cum vine pe c&#259;r&#259;rile din mlad&#259;,</l>
+<l part="N" TEIform="l">F&#259;când în tain&#259; îndelung popas,</l>
+<l part="N" TEIform="l">Din loc în loc, pe unde-a mai r&#259;mas</l>
+<l part="N" TEIform="l">Z&#259;pad&#259;...</l>
+</lg>
+</div>
+
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">II. Vin &#355;ig&#259;ncile la crâng...</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Vin &#355;ig&#259;ncile la crâng</l>
+<l part="N" TEIform="l">S&#259; culeag&#259; viorele,</l>
+<l part="N" TEIform="l">Vin cu fustele-n parâng</l>
+<l part="N" TEIform="l">&#350;i cu dancii dup&#259; ele.</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">&#350;i e soare</l>
+<l part="N" TEIform="l">Pe ponoare,</l>
+<l part="N" TEIform="l">&#350;i miroase-n vânt a floare</l>
+<l part="N" TEIform="l">Pe c&#259;r&#259;rile pustii,</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Prin stufi&#351;urile goale</l>
+<l part="N" TEIform="l">N&#259;p&#259;dite de basmale</l>
+<l part="N" TEIform="l">&#350;i de zdren&#355;e stacojii...</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Vin &#355;ig&#259;ncile gr&#259;bit,</l>
+<l part="N" TEIform="l">S&#259; culeag&#259; pe sub mlad&#259;</l>
+<l part="N" TEIform="l">Flori cu mâzg&#259; de z&#259;pad&#259;</l>
+<l part="N" TEIform="l">Din huceagul adormit,</l>
+<l part="N" TEIform="l">&#350;i s-aduc&#259;-n panera&#351;</l>
+<l part="N" TEIform="l">Prim&#259;vara la ora&#351;:</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">&#8212; Urzicèle, urzicèle,</l>
+<l part="N" TEIform="l">Ghiocei &#351;i viorele,</l>
+<l part="N" TEIform="l">Alb&#259;stri&#355;e de suhat!</l>
+<l part="N" TEIform="l">&#8212; Iarb&#259;-mare, iarb&#259;-mare,</l>
+<l part="N" TEIform="l">S&#259; &#351;i-o puie-n sc&#259;ld&#259;toare</l>
+<l part="N" TEIform="l">Fetele de m&#259;ritat...</l>
+</lg>
+</div></div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Aprilie</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Baloane mari de spum&#259; alb&#259; prin gr&#259;dini</l>
+<l part="N" TEIform="l">(&#350;i zarz&#259;rul, &#351;i vi&#351;inul, &#351;i perii)</l>
+<l part="N" TEIform="l">Stau gata s&#259; se-nal&#355;e din tulpini</l>
+<l part="N" TEIform="l">Spre cerul prim&#259;verii...</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Caisul nostru s-a g&#259;tit la poart&#259;</l>
+<l part="N" TEIform="l">Cu panglici albe, ca-n tablouri vechi,</l>
+<l part="N" TEIform="l">&#350;i cu zulufi de floare la urechi,</l>
+<l part="N" TEIform="l">Cum ast&#259;zi nic&#259;ieri nu se mai poart&#259;.</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Pe strada mare,</l>
+<l part="N" TEIform="l">Ies flori înalte la plimbare</l>
+<l part="N" TEIform="l">În rochii de sezon, u&#351;oare,</l>
+<l part="N" TEIform="l">Cu toate c&#259;-i o vreme a&#351;a de schimb&#259;toare.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Ah, fetele &#8212; &#351;i mai ales cucoanele &#8212;</l>
+<l part="N" TEIform="l">Când vine prim&#259;vara</l>
+<l part="N" TEIform="l">Sunt dulci &#351;i colorate ca bomboanele!</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Pe cea care-a trecut o cheam&#259; Clara,</l>
+<l part="N" TEIform="l">Fiindc&#259; are</l>
+<l part="N" TEIform="l">Ochi alba&#351;tri tare,</l>
+<l part="N" TEIform="l">&#350;i gura ei cu rouge ca de coral</l>
+<l part="N" TEIform="l">Surâde vertical...</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Un mic vârtej, copil al Nefiin&#355;ei,</l>
+<l part="N" TEIform="l">De-a curmezi&#351;ul str&#259;zii r&#259;t&#259;cit,</l>
+<l part="N" TEIform="l">Nebun în jurul lui s-a r&#259;sucit</l>
+<l part="N" TEIform="l">S&#259;-&#351;i prind&#259; coada galben&#259; cu din&#355;ii.</l>
+<l part="N" TEIform="l">Departe, în azurul dintre nori,</l>
+<l part="N" TEIform="l">S-arat&#259; bifurcat pe cer</l>
+<l part="N" TEIform="l">Un &#351;ir sub&#355;ire de cocori,</l>
+<l part="N" TEIform="l">O escadril&#259; de pe vremea lui Homer...</l>
+</lg>
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Câ&#355;i ca voi!</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Sus, pe gardul dinspre vie,</l>
+<l part="N" TEIform="l">O g&#259;in&#259; cenu&#351;ie</l>
+<l part="N" TEIform="l">&#350;i-un coco&#351; împintenat</l>
+<l part="N" TEIform="l">S-au suit &#351;i stau la sfat:</l>
+<l part="N" TEIform="l">&#8212; Ia te uit&#259;, m&#259; rog &#355;ie,</l>
+<l part="N" TEIform="l">Cât de sus ne-am în&#259;l&#355;at!...</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">&#350;i deodat&#259;, cu glas mare,</l>
+<l part="N" TEIform="l">Începur&#259; amândoi,</l>
+<l part="N" TEIform="l">S&#259; cotcod&#259;ceasc&#259;-n soare:</l>
+<l part="N" TEIform="l">&#8212; Nimeni-nu-mai-e-ca-noi!...</l>
+<l part="N" TEIform="l">Nimeni-nu-mai-e-ca-noi!...</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Dar de sus, din corcodu&#351;,</l>
+<l part="N" TEIform="l">Pitulându-se-ntre foi,</l>
+<l part="N" TEIform="l">Mititel &#351;i juc&#259;u&#351;,</l>
+<l part="N" TEIform="l">Le-a r&#259;spuns un pi&#355;igoi:</l>
+<l part="N" TEIform="l">&#8212; Câ&#355;i-ca-voi! Câ&#355;i-ca-voi!...</l>
+</lg>
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Iepurele</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Vine iarna de la munte,</l>
+<l part="N" TEIform="l">Peste ape face punte</l>
+<l part="N" TEIform="l">&#350;i pe câmp f&#259;r&#259; hotar</l>
+<l part="N" TEIform="l">Parc&#259; presur&#259; zahar.</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Uite, colo, mo&#351; Vasile,</l>
+<l part="N" TEIform="l">C-un cojoc de zece chile</l>
+<l part="N" TEIform="l">&#350;i cu flinta la spinare</l>
+<l part="N" TEIform="l">A ie&#351;it la vân&#259;toare.</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Dintr-un codru, din tufi&#351;,</l>
+<l part="N" TEIform="l">Iese-un iepure furi&#351;</l>
+<l part="N" TEIform="l">&#350;i cum scap&#259; pe c&#259;rare...</l>
+<l part="N" TEIform="l">Fuge ca o ar&#259;tare...</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Flinta face bum! iar mo&#351;u</l>
+<l part="N" TEIform="l">St&#259; &#351;i-&#351;i freac&#259; nasu ro&#351;u,</l>
+<l part="N" TEIform="l">&#350;i-nciudat luleaua-&#351;i mu&#351;c&#259;;</l>
+<l part="N" TEIform="l">Iepurele fuge pu&#351;c&#259;.</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Mo&#351;ului îi vine-n minte</l>
+<l part="N" TEIform="l">Ca s&#259;-i ias&#259; înainte;</l>
+<l part="N" TEIform="l">Fuga-n rari&#351;tea de tei:</l>
+<l part="N" TEIform="l">Iepurele e hei-hei!</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Ei, ce faci tu, mo&#351;ulic&#259;,</l>
+<l part="N" TEIform="l">C&#259; n-ai împu&#351;cat nimic&#259;?</l>
+<l part="N" TEIform="l">Du-te-acas&#259; bini&#351;or,</l>
+<l part="N" TEIform="l">C&#259;-i mai bine pe cuptor!</l>
+</lg>
+</div>
+
+<div org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Rândunelul</head>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Un vânt &#351;i-o ploaie nec&#259;jit&#259;</l>
+<l part="N" TEIform="l">S-au repezit ca din senin</l>
+<l part="N" TEIform="l">&#350;i r&#259;p&#259;ie prelung pe frunze</l>
+<l part="N" TEIform="l">&#350;i-mi culc&#259; florile de crin.</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Gr&#259;dina toat&#259;-i r&#259;scolit&#259;...</l>
+<l part="N" TEIform="l">Ce trist&#259; e gr&#259;dina mea!</l>
+<l part="N" TEIform="l">Pe-o creang&#259; tremur&#259; de fric&#259;</l>
+<l part="N" TEIform="l">Un pui pl&#259;pând de rândunic&#259;.</l>
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">E singur, în b&#259;taia ploaiei,</l>
+<l part="N" TEIform="l">&#350;i-n ciripitu-i rug&#259;tor</l>
+<l part="N" TEIform="l">Îmi spune s&#259;-i deschid fereastra:</l>
+<l part="N" TEIform="l">&#350;i eu deschid, el intr&#259;-n zbor.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">&#350;i iat&#259;-mi-l rotind prin cas&#259;</l>
+<l part="N" TEIform="l">&#350;i parc&#259; nu mai e pustiu</l>
+<l part="N" TEIform="l">În casa mea înveselit&#259;</l>
+<l part="N" TEIform="l">De ciripitul lui zglobiu.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">Dar iat&#259;... soarele s-arat&#259;...</l>
+<l part="N" TEIform="l">Pe frunze picurii sclipesc</l>
+<l part="N" TEIform="l">&#350;i rândunelele, pe-afar&#259;,</l>
+<l part="N" TEIform="l">În zboruri vesele vorbesc.</l>
+
+</lg>
+<lg org="uniform" sample="complete" part="N" TEIform="lg">
+<l part="N" TEIform="l">La glasul lor, gr&#259;bit, m&#259; las&#259;,</l>
+<l part="N" TEIform="l">Pl&#259;pândul pui de rândunea...</l>
+<l part="N" TEIform="l">Mai vino, ploaie, înc-o dat&#259;</l>
+<l part="N" TEIform="l">S&#259;-l v&#259;d din nou în casa mea.</l>
+</lg>
+</div>
+
+</body>
+</text>
+</TEI.2>

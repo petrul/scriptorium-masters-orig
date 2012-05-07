@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/P4X/DTD/tei2.dtd">
+<TEI.2 lang="ro" TEIform="TEI.2">
+<teiHeader type="text" status="new" TEIform="teiHeader">
+<fileDesc TEIform="fileDesc">
+<titleStmt TEIform="titleStmt">
+<title TEIform="title">Conu Leonida fa&#355;&#259; cu reac&#355;iunea fars&#259; într-un act (1880)</title>
+<author TEIform="author">Ion-Luca Caragiale</author>
+</titleStmt>
+<editionStmt TEIform="editionStmt">
+<edition TEIform="edition">
+<date TEIform="date">2004-06-06T14:22:06</date>
+</edition>
+</editionStmt>
+<publicationStmt TEIform="publicationStmt">
+<authority TEIform="authority"/>
+<address TEIform="address">
+</address>
+</publicationStmt>
+<sourceDesc default="NO" TEIform="sourceDesc">
+<p TEIform="p">Written by OpenOffice</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc TEIform="profileDesc">
+<langUsage default="NO" TEIform="langUsage">
+<language id="ro" TEIform="language">ISO </language>
+</langUsage>
+</profileDesc>
+<revisionDesc TEIform="revisionDesc">
+<change TEIform="change">
+<date TEIform="date">2004-06-06T22:08:50</date>
+<respStmt TEIform="respStmt">
+<name TEIform="name">Adrian Petru Dimulescu</name>
+</respStmt>
+<item TEIform="item">revision</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text TEIform="text">
+
+
+<front TEIform="front">
+
+<titlePage TEIform="titlePage">
+		<docTitle TEIform="docTitle">
+			<titlePart type="main" TEIform="titlePart">Conu Leonida fa&#355;&#259; cu reac&#355;iunea</titlePart>
+			<titlePart type="sub" TEIform="titlePart">fars&#259; într-un act</titlePart>
+		</docTitle>
+		<docAuthor TEIform="docAuthor">Ion-Luca Caragiale</docAuthor>
+</titlePage>
+
+
+<castList TEIform="castList">
+<head TEIform="head">PERSOANELE</head>
+<castItem type="role" TEIform="castItem">CONUL LEONIDA, pensionar - 60 de ani</castItem>
+<castItem type="role" TEIform="castItem">COANA EFIMI&#354;A, consoarta lui - 56 de ani</castItem>
+<castItem type="role" TEIform="castItem">SAFTA, slujnica lor</castItem>
+</castList>
+<set TEIform="set"><p TEIform="p">În Bucure&#351;ti, la Leonida</p></set>
+</front>
+
+<body TEIform="body">
+<div type="act" org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">Actul I</head>
+<stage TEIform="stage">(O odaie modest&#259; de mahala. În fund, la dreapta, o u&#351;&#259;; la stânga o fereastr&#259;. De-o parte &#351;i de alta a scenii câte un pat de culcare. În mijlocul od&#259;ii o mas&#259; împrejurul c&#259;reia sunt a&#351;ezate scaune de paie. Pe mas&#259;, o lamp&#259; cu gaz; pe globul l&#259;mpii un abat-jour cusut pe canava. În planul întâi, la stânga, o sob&#259; cu u&#351;a deschis&#259; &#351;i cu câ&#355;iva t&#259;ciuni pâlpâind. - Leonida e în halat, în papuci &#351;i cu scufia de noapte; Efimi&#355;a în camizol, fust&#259; de flanel&#259; ro&#351;ie &#351;i legat&#259; la cap cu tulpan alb. Amândoi de vorb&#259; la mas&#259;.)</stage>
+
+
+<div type="scene" org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA I</head>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">A&#351;a, cum î&#355;i spusei, m&#259; scol într-o dimineaz&#259;, &#351;i, &#351;tii obiceiul meu, pui mâna întâi &#351;i-ntâi pe 'Aurora Democratic&#259;', s&#259; v&#259;z cum mai merge &#355;ara. O deschiz... &#351;i ce citesc? Uite, &#355;iu minte ca acuma: '11/23 F&#259;urar... a c&#259;zut tirania! Vivat Republica!'</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<p TEIform="p">Auzi colo!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">R&#259;posata dumneaei - nevast&#259;-mea a d-întâi - nu se sculase înc&#259;. Sar jos din pat &#351;i-i strig: 'Scoal&#259;, cocoan&#259;, &#351;i te bucur&#259;, c&#259; e&#351;ti &#351;i dumneata mum&#259; din popor; scoal&#259;, c-a venit libertatea la putere!'</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(afirmativ)</p>
+</stage>
+<p TEIform="p">Ei!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">Când aude de libertate, sale &#351;i dumneei r&#259;posata din pat... c&#259; era republican&#259;! Zic: g&#259;te&#351;te-te degrab', Mi&#355;ule, &#351;i... hai &#351;i noi pe la revulu&#355;ie. Ne îmbr&#259;c&#259;m, domnule, frumos, &#351;i o lu&#259;m repede pe jos pân' la teatru... <emph TEIform="emph">(Cu gravitate:) </emph>Ei, când am v&#259;zut... &#351;tii c&#259; eu nu intru la idee cu una cu dou&#259;...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<p TEIform="p">&#354;i-ai g&#259;sit!... dumneata nu e&#351;ti d-&#259;ia. Ehei! Ca dumneata, bobocule, mai rar cineva.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">Ori s&#259; zici nu &#351;tiu ce &#351;i nu &#351;tiu cum, c&#259; adic&#259;tele 'acu, unde e&#351;ti tu republican, &#355;ii parte na&#355;iunii...'</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<p TEIform="p">A&#351;!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">Dar, când am v&#259;zut, am zis &#351;i eu: s&#259; te fereasc&#259; Dumnezeu de furia poporului!... Ce s&#259; vezi, domnule? Steaguri, muzici, chiote, t&#259;mb&#259;l&#259;u, lucru mare, &#351;i lume, lume,... de-&#355;i venea ame&#355;eal&#259; nu altceva.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<p TEIform="p">Bine c&#259; n-am fost în Bucure&#351;ti pe vremea aia! Cum sunt eu nevricoas&#259;, Doamne fere&#351;te! P&#259;&#355;eam alte alea...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">Ba nu zi asta; puteai trage un ce profit. <emph TEIform="emph">(Schimbând tonul:) </emph>Ei, cât gânde&#351;ti c-a &#355;inut toiul revulu&#355;iei?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<p TEIform="p">Pân&#259; seara.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(zâmbind de a&#351;a naivitate, apoi cu seriozitate)</p>
+</stage>
+<p TEIform="p">Trei s&#259;pt&#259;mâni de zile, domnule.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(minunându-se)</p>
+</stage>
+<p TEIform="p">Nu m&#259;-nnebuni, soro!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">Ce te gânde&#351;ti dumneata, c&#259; a fost a&#351;a un bagadel lucru? F&#259;-&#355;i idee: dac&#259; chiar Galibardi, de-acolo, de unde este el, a scris atunci o scrisoare c&#259;tr&#259; na&#355;iunea român&#259;.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(cu interes)</p>
+</stage>
+<p TEIform="p">Z&#259;u?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">Mai e vorb&#259;!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<p TEIform="p">Adic&#259; cum?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">Vezi dumneata, i-a pl&#259;cut &#351;i lui cum am adus noi lucrul cu un sul sub&#355;ire ca s&#259; d&#259;m exemplu Evropii, &#351;i s-a crezut omul dator, ca un ce de politic&#259;, pentru ca s&#259; ne firitiseasc&#259;...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(curioas&#259;)</p>
+</stage>
+<p TEIform="p">Da'... ce spunea în scrisoare?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(cu importan&#355;&#259;)</p>
+</stage>
+<p TEIform="p">Patru vorbe, numai patru, da' vorbe, ce-i drept! Uite, &#355;iu minte ca acuma: 'Bravos na&#355;iune! Halal s&#259;-&#355;i fie! S&#259; tr&#259;iasc&#259; Republica! Vivat Prin&#355;ipatele Unite!' &#350;i jos isc&#259;lit în original 'Galibardi'.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(satisf&#259;cut&#259;)</p>
+</stage>
+<p TEIform="p">Apoi, atunci dac&#259;-i a&#351;a, a vorbit destul de frumos omul!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">Hehei! Unul e Galibardi: om, o dat&#259; &#351;i jum&#259;tate! <emph TEIform="emph">(Cu mândrie &#351;i siguran&#355;&#259;:)</emph> Ei! Giant&#259; latin&#259;, domnule, n-ai ce-i mai zice. De ce a b&#259;gat el în r&#259;cori, gânde&#351;ti, pe to&#355;i împ&#259;ra&#355;ii &#351;i pe Papa de la Roma?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(mirat&#259;)</p>
+</stage>
+<p TEIform="p">&#350;i pe Papa de la Roma? Auzi, soro?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">Ba înc&#259; ce! I-a tras un tighel, de i-a pl&#259;cut &#351;i lui. Ce-a zis Papa - iezuit, aminteri nu-i prost! - când a v&#259;zut c&#259; n-o scoate la c&#259;p&#259;tâi cu el?... 'M&#259;, nene, &#259;sta nu-i glum&#259;; cu &#259;sta, cum v&#259;z eu, nu merge ca de cu fitecine; ia mai bine s&#259; m&#259; iau eu cu politic&#259; pe lâng&#259; el, s&#259; mi-l fac cum&#259;tru.' &#350;i de colea pân&#259; colea, tura vura, c-o fi tuns&#259;, c-o fi ras&#259;, l-a pus pe Galibardi de i-a botezat un copil.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(cu ironie)</p>
+</stage>
+<p TEIform="p">&#350;i-a cunoscut omul na&#351;ul!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">Vezi bine!... Acu ia spune, cam câ&#355;i oameni te bate gândul c&#259; s&#259; aib&#259; Galibardi?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<p TEIform="p">Sumedenie!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">O mie, domnule, numa' o mie.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<p TEIform="p">Ei! Fugi c&#259; mor! &#350;i adic&#259; numa' cu o mie s&#259;...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(întrerupând-o)</p>
+</stage>
+<p TEIform="p">Da, da' întreab&#259;-m&#259; s&#259;-&#355;i spun ce fel de oameni sunt.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<p TEIform="p">Ceva tot unul &#351;i unul.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">&#258;i mai prima, domnule, ale&#351;i pe sprincean&#259;, care mai de care, d&#259; cu pu&#351;ca-n Dumnezeu; volintiri, m&#259; rog: azi aici, mâine-n Foc&#351;ani, ce-am avut &#351;i ce-am pierdut!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<p TEIform="p">Ei! A&#351;a da.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">&#350;i to&#355;i se-nchin&#259; la el ca la Christos; de hatârul lui, sunt în stare, trei zile d-a rândul, s&#259; nu m&#259;nânce &#351;i s&#259; nu bea, dac&#259; n-or avea ce.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<p TEIform="p">Ce spui, soro?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">Ce-&#355;i spui eu, &#351;i câte &#351;i mai câte altele &#351;i mai &#351;i.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<p TEIform="p">Bravos!</p>
+<stage TEIform="stage">
+<p TEIform="p">(O mic&#259; pauz&#259; &#351;i c&#259;sc&#259;turi de amândou&#259; p&#259;r&#355;ile.)</p>
+</stage>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">Trebuie s&#259; fie târziu, Mi&#355;ule; ne culc&#259;m?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(se scoal&#259; &#351;i se uit&#259; la ceas)</p>
+</stage>
+<p TEIform="p">Dou&#259;spce trecute, bobocule.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(sculându-se &#351;i el &#351;i mergând spre patul din stânga)</p>
+</stage>
+<p TEIform="p">Vezi dumneata cum trece vremea cu vorba...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(dregându-&#351;i patul)</p>
+</stage>
+<p TEIform="p">Ei! Cum le spui dumneata, s&#259; tot stai s-ascul&#355;i; ca dumneata, bobocule, mai rar cineva.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(la pat &#351;i intrând sub plapum&#259;)</p>
+</stage>
+<p TEIform="p">Mi&#355;o, ai zis matale fetii s&#259; vie mâine mai de diminea&#355;&#259; ca s&#259; fac&#259; focul?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(stingând lampa)</p>
+</stage>
+<p TEIform="p">Da. <emph TEIform="emph">(Se-nchin&#259; &#351;i se a&#351;az&#259; în pat la dreapta.)</emph>
+</p>
+<stage TEIform="stage">
+<p TEIform="p">(Odaia r&#259;mâne luminat&#259; numai de flac&#259;ra t&#259;ciunilor din sob&#259;.) </p>
+</stage>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(dup&#259; ce s-a învârtit în pat pân&#259; s&#259;-&#351;i fac&#259; culcu&#351;ul, cu satisfac&#355;ie)</p>
+</stage>
+<p TEIform="p">A! Aa&#351;a!</p>
+<stage TEIform="stage">
+<p TEIform="p">(Un moment pauz&#259;, în timp ce fiecare se a&#351;az&#259; bine în a&#351;ternutul s&#259;u.)</p>
+</stage>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(din a&#351;ternut)</p>
+</stage>
+<p TEIform="p">&#350;i zi a&#351;a cu Galibardi, 'ai?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(asemenea)</p>
+</stage>
+<p TEIform="p">A&#351;a z&#259;u!... Ei! mai d&#259;-mi înc&#259; unul ca el, &#351;i pân&#259; mâine seara, - nu-mi trebuie mai mult, - s&#259;-&#355;i fac republic&#259;... <emph TEIform="emph">(Cu regret:)</emph> Da' nu e! Da' o s&#259;-mi zici c&#259; cu încetul se face o&#355;etul, ori c&#259; mai rabd&#259;, c&#259; n-a intrat zilele-n sac. <emph TEIform="emph">(Cu t&#259;rie:)</emph> D-apoi bine, frate, pân&#259; când tot rabd&#259; azi, rabd&#259; mâine? C&#259; nu mai merge, domnule, s-a s&#259;turat poporul de tiranie, trebuie republic&#259;!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<p TEIform="p">Adic&#259;, z&#259;u, bobocule, de! Eu, cu mintea ca de femeie, pardon s&#259; te-ntreb &#351;i eu un lucru: ce procopseal&#259; ar fi &#351;i cu republica?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(minunat de-a&#351;a întrebare)</p>
+</stage>
+<p TEIform="p">Ei! Bravos! &#350;-asta-i bun&#259;! Cum, ce procopseal&#259;? Vezi asta-i vorba: cap ei, minte ce-&#355;i mai trebuie? Apoi, închipuie&#351;te-&#355;i dumneata numai un condei, st&#259;i s&#259;-&#355;i spui: mai întâi &#351;i-ntâi c&#259; dac&#259; e republic&#259;, nu mai pl&#259;te&#351;te niminea bir...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<p TEIform="p">Z&#259;u?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">Z&#259;u... Al doilea c&#259; fie&#351;tecare cet&#259;&#355;ean ia câte o leaf&#259; bun&#259; pe lun&#259;, to&#355;i într-o egalitate.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<p TEIform="p">Parol?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">Parol... Par egzamplu, eu...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<p TEIform="p">Pe lâng&#259; pensie?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">Vezi bine; pensia e ba&#351;ca, o am dup&#259; legea a veche, e dreptul meu; mai ales când e republic&#259;, dreptul e sfânt: republica este garan&#355;iunea tuturor drepturilor.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(cu toat&#259; aprobarea)</p>
+</stage>
+<p TEIform="p">A&#351;a da.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">&#350;i al treilea, c&#259; se face &#351;i lege de mur&#259;turi.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<p TEIform="p">Cum lege de mur&#259;turi?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">Adic&#259;tele c&#259; nimini s&#259; nu mai aib&#259; drept s&#259;-&#351;i pl&#259;teasc&#259; datoriile.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(crucindu-se de mirare)</p>
+</stage>
+<p TEIform="p">Maic&#259; Precist&#259;, Doamne! Apoi dac&#259;-i a&#351;a, de ce nu se face mai curând republic&#259;, soro?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">Hei! Te las&#259; reac&#355;ionarii, domnule? Fire&#351;te, nu le vine lor la socoteaz&#259; s&#259; nu mai pl&#259;teasc&#259; niminea bir! E aproape de mintea omului: de unde ar mai mânca ei lefurile cu lingura?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<p TEIform="p">A&#351;a e... da'... <emph TEIform="emph">(Reflectând mai adânc:)</emph> un lucru nu-n&#355;eleg eu.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">Ce lucru?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<p TEIform="p">Dac&#259; n-o mai pl&#259;ti niminea bir, soro, de unde or s&#259; aib&#259; cet&#259;&#355;enii leaf&#259;?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(în lupt&#259; cu somnul)</p>
+</stage>
+<p TEIform="p">Treaba statului, domnule, el ce grije are? Pentru ce-l avem pe el? E datoria lui s&#259;-ngrijeasc&#259; s&#259; aib&#259; oamenii lefurile la vreme...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<p TEIform="p">A&#351;a da... vezi, mie nu-mi d&#259;dea-n gând. <emph TEIform="emph">(Dup&#259; o pauz&#259; de reflec&#355;ie:)</emph> Ce bine ar fi! Unde d&#259; Dumnezeu odat&#259; s&#259; o mai vedem &#351;-asta, republic&#259;! <emph TEIform="emph">(Leonida începe s&#259; sfor&#259;ie:) </emph>Dormi, soro?... <emph TEIform="emph">(Leonida sfor&#259;ie-nainte.)</emph> A adormit.</p>
+<stage TEIform="stage">
+<p TEIform="p">(Coana Efimi&#355;a se a&#351;az&#259; pe o ureche &#351;i adoarme &#351;i ea. - Unul dup&#259; miezul nop&#355;ii sun&#259; rar în vecin&#259;tate: patru b&#259;t&#259;i pentru sferturi, apoi o b&#259;taie mai grav&#259; pentru ceas. În orchestr&#259; melodram&#259; 'misterioso'. Câteva momente pauz&#259;, dup&#259; care s-aud în dep&#259;rtare dou&#259;-trei detun&#259;turi de pu&#351;c&#259; &#351;i chiote surde; apoi, altele mai multe &#351;i strig&#259;te mai distincte, &#351;i înc&#259; o dat&#259;.)</p>
+</stage>
+</sp>
+</div>
+<div type="scene" org="uniform" sample="complete" part="N" TEIform="div">
+
+<head TEIform="head">SCENA II</head>
+<stage TEIform="stage">
+<p TEIform="p">(Coana Efimi&#355;a se a&#351;az&#259; pe o ureche &#351;i adoarme &#351;i ea. - Unul dup&#259; miezul nop&#355;ii sun&#259; rar în vecin&#259;tate: patru b&#259;t&#259;i pentru sferturi, apoi o b&#259;taie mai grav&#259; pentru ceas. În orchestr&#259; melodram&#259; 'misterioso'. Câteva momente pauz&#259;, dup&#259; care s-aud în dep&#259;rtare dou&#259;-trei detun&#259;turi de pu&#351;c&#259; &#351;i chiote surde; apoi, altele mai multe &#351;i strig&#259;te mai distincte, &#351;i înc&#259; o dat&#259;.)</p>
+</stage>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(Se de&#351;teapt&#259; &#351;i se ridic&#259;-n pat, privind cu nedomirire c&#259;tre u&#351;e &#351;i întrebând cu neastâmp&#259;r.)</p>
+</stage>
+<p TEIform="p">Cine e? <emph TEIform="emph">(Pauz&#259;.)</emph> Cine e? <emph TEIform="emph">(Pauz&#259;; sare din pat, alearg&#259; repede la u&#351;&#259; &#351;i o încearc&#259; dac&#259; e bine încuiat&#259;, asemenea la fereastr&#259;, &#351;i se-ntoarce mai pu&#355;in îngrijat&#259; s&#259; se a&#351;eze iar la loc, f&#259;cându-&#351;i o cruce.)</emph> Cine &#351;tie ce-oi fi visat!... <emph TEIform="emph">(Se culc&#259; &#351;i a&#355;ipe&#351;te iar; în orchestr&#259; melodram&#259;; pauz&#259;; o salv&#259; de detun&#259;turi &#351;i strig&#259;te înmul&#355;ite; cocoana sare din pat cât colo.)...</emph> Cine e?... <emph TEIform="emph">(O pauz&#259;; merge tremurând la mas&#259;, caut&#259; p-întunerec chibriturile &#351;i aprinde lampa; foarte emo&#355;ionat&#259;, încearc&#259; înc&#259; o dat&#259; u&#351;a, merge în vârful degetelor la dulapul de haine, îl încuie repede, ca &#351;i cum ar fi prins pe cineva în el, &#351;i ascult&#259; cu palpita&#355;ie ce se petrece în&#259;untru; se uit&#259; apoi pe sub paturi &#351;i prin toate col&#355;urile, stinge lampa, se-nchin&#259; &#351;i se urc&#259; iar în pat.)</emph> Ce-o fi &#351;-asta? <emph TEIform="emph">(Deodat&#259;, s-aud o nou&#259; salv&#259; &#351;i chiote prelungite; coana Efimi&#355;a sare jos &#351;i r&#259;mâne înm&#259;rmurit&#259; în picioare ascultând; o alt&#259; salv&#259; &#351;i strig&#259;te.) </emph>Leonido! <emph TEIform="emph">(Zgomotul se repet&#259;.) </emph>Leonido! <emph TEIform="emph">(Pauz&#259;; zgomotul se repet&#259; cu putere; cocoana se repede peste un scaun cu exasperare, se împiedec&#259; &#351;i cade peste patul lui Leonida.)</emph> Leonido!!!</p>
+</sp>
+</div>
+
+
+<div type="scene" org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA III</head>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(sculându-se din somn sp&#259;imântat)</p>
+</stage>
+<p TEIform="p">Ai! Ce e?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<p TEIform="p">Leonido! Scoal' c&#259;-i foc, Leonido!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(speriat)</p>
+</stage>
+<p TEIform="p">Unde-i foc?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<p TEIform="p">Scoal' c&#259;-i revulu&#355;ie, b&#259;t&#259;lie mare afar&#259;!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">A&#351;! Vorb&#259; s&#259; fie! Ce te pomene&#351;ti vorbind, domnule?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<p TEIform="p">B&#259;t&#259;lie la poart&#259;, soro: pistoale, pu&#351;ti, tunuri, Leonido, &#355;ipete, chiote, lucru mare, de am s&#259;rit din somn!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(luând-o cu bini&#351;orul)</p>
+</stage>
+<p TEIform="p">Mi&#355;ule, nu-i nimica; &#351;tii cum este dumneata nevricoas&#259;, unde am vorbit toat&#259; seara de politic&#259;, t-ei fi culcat &#351;i cu fa&#355;a-n sus &#351;i ai visat cine &#351;tie ce.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(impacientat&#259;)</p>
+</stage>
+<p TEIform="p">Leonido, de&#351;teapt&#259; sunt eu acuma?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">Apoi de! Mi&#355;ule, asta dumneata &#351;tii.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(atins&#259;)</p>
+</stage>
+<p TEIform="p">Bravos, bobocule! Nu m-a&#351;teptam ca tocmai dumneata s&#259; te pronun&#355;i cu a&#351;a iluzii în contra mea; te credeam mai altfel... îmi pare r&#259;u!... Cocoane Leonido, sunt de&#351;teapt&#259;; am auzit cum te-auz &#351;i m-auzi... revulu&#355;ie, b&#259;t&#259;lie mare!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">Bine, Mi&#355;ule, st&#259;i, nu te importa degeaba. De când m-ai de&#351;teptat pe mine, ai mai auzit ceva?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<p TEIform="p">Nu.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">Apoi de! Cum vine treaba asta. Spune matale...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(cam în nedomirire)</p>
+</stage>
+<p TEIform="p">De, soro, &#351;tiu &#351;i eu?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">Apoi, vezi? Dar... s-o mai lu&#259;m &#351;i pe partea ailalt&#259;, s&#259; vedem ce-ai s&#259; mai zici. Bine, chiar revulu&#355;ie s&#259; fi fost, s&#259; zicem;... nu &#351;tii dumneata c&#259; n-are nimini voie s&#259; descarce focuri în ora&#351;? E ordin de la poli&#355;ie...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(aproape r&#259;sconvins&#259;)</p>
+</stage>
+<p TEIform="p">De! Bobocule, s&#259; zic &#351;i eu cum zici, c&#259; dup&#259; cum le spui dumneata, una &#351;i cu una fac dou&#259;, n-are de unde s&#259; te mai apuce omul... <emph TEIform="emph">(Stând la gânduri &#351;i iar îndoindu-se:) </emph>Da' bine, soro, am auzit, am a-u-zit; cum s-auz ce nu era? Ce-am auzit dac&#259; nu era nimica?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">Ei! Domnule, câte d-astea n-am citit eu, n-am p&#259;r în cap! Glume&#351;ti cu omul! Se-ntâmpl&#259;... <emph TEIform="emph">(cu tonul unei teorii sigure:) </emph>c&#259; fiinc&#259; de ce? O s&#259; m&#259;-ntrebi... Omul, bunioar&#259;, de par egzamplu, dintr-un nu-&#351;tiu-ce ori ceva, cum e nevricos, de curiozitate, intr&#259; la o idee; a intrat la o idee? Fandacsia gata; ei! &#351;i dup&#259; aia, din fandacsie cade în ipohondrie. Pe urm&#259;, fire&#351;te, &#351;i nimica mi&#351;c&#259;.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<p TEIform="p">Comedie, soro! <emph TEIform="emph">(Minunându-se:) </emph>A&#351;a o fi!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">Bunioar&#259; &#351;i la dumneata acuma, o ipohondrie trec&#259;toare; nu-i nimica... Hai s&#259; ne culc&#259;m: noapte bun&#259;, Mi&#355;ule.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<p TEIform="p">Noapte bun&#259;. <emph TEIform="emph">(Înc&#259; nedomirit&#259; oarecum, stinge lampa &#351;i se vâr&#259; în pat.)</emph>
+</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(dup&#259; o pauz&#259;)</p>
+</stage>
+<p TEIform="p">Nu te mai culca cu fa&#355;a-n sus, Mi&#355;ule, c&#259; iar visezi.</p>
+<stage TEIform="stage">
+<p TEIform="p">(Cocoana s-a&#351;az&#259; p-o ureche; în odaie întunerec, în orchestr&#259; melodram&#259;; o pauz&#259;, dup&#259; care d-odat&#259; se aud în dep&#259;rtare chiote, strig&#259;te &#351;i detun&#259;turi.)</p>
+</stage>
+<p TEIform="p"> </p>
+</sp>
+</div>
+
+
+<div type="scene" org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA IV</head>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<p TEIform="p">Ai auzit?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">Ai auzit?</p>
+<stage TEIform="stage">
+<p TEIform="p">(Amândoi, d-odat&#259;, se ridic&#259; înfiora&#355;i. Zgomotul s-apropie.)</p>
+</stage>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(s&#259;rind din pat)</p>
+</stage>
+<p TEIform="p">E idee, Leonido?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(cu spaim&#259;)</p>
+</stage>
+<p TEIform="p">Aprinde lampa... <emph TEIform="emph">(Sare &#351;i el din pat.)</emph>
+</p>
+<stage TEIform="stage">
+<p TEIform="p">(Zgomotul mai aproape.)</p>
+</stage>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(aprinzând lampa)</p>
+</stage>
+<p TEIform="p">E fandacsie, bobocule?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(tremurând)</p>
+</stage>
+<p TEIform="p">Nu-i lucru curat, Mi&#355;ule!</p>
+<stage TEIform="stage">
+<p TEIform="p">(Zgomotul tot mai tare.)</p>
+</stage>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<p TEIform="p">E ipohondrie, soro?</p>
+<stage TEIform="stage">
+<p TEIform="p">(Zgomotul cre&#351;te mereu.)</p>
+</stage>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">E primejdie mare, domnule! Ce s&#259; fie?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<p TEIform="p">Ce s&#259; fie? Dumneata nu vezi, ce s&#259; fie? Revulu&#355;ie, b&#259;t&#259;lie mare, Leonido!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">Bine, frate, revulu&#355;ie ca revulu&#355;ie, da' nu-&#355;i spusei c&#259; nu-i voie de la poli&#355;ie s&#259; dai focuri în ora&#351;?</p>
+<stage TEIform="stage">
+<p TEIform="p">(Zgomotul cre&#351;te înainte.)</p>
+</stage>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(tremurând)</p>
+</stage>
+<p TEIform="p">Voie, ne-voie, auzi?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(asemenea)</p>
+</stage>
+<p TEIform="p">Auz; da' nu e, nu se poate s&#259; fie revulu&#355;ie... Cât&#259; vreme sunt ai no&#351;tri la putere, cine s&#259; stea s&#259; fac&#259; revulu&#355;ie?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<p TEIform="p">De! Întreab&#259;-m&#259; s&#259; te-ntreb... <emph TEIform="emph">(Zgomot mare.)</emph> Auzi?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">Unde mi-este gazeta? <emph TEIform="emph">(nervos:) </emph>c&#259; dac&#259; o fi s&#259; fie revulu&#355;ie, trebuie s&#259; spuie la 'Ultime &#351;tiri'. Unde mi-e gazeta? <emph TEIform="emph">(Merge la mas&#259;, ia gazeta, î&#351;i arunc&#259; ochii pe pagina a treia &#351;i d&#259; un &#355;ip&#259;t.)</emph> A!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<p TEIform="p">Ei!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(pierdut)</p>
+</stage>
+<p TEIform="p">Nu e revulu&#355;ie, domnule, e reac&#355;iune; ascult&#259;: <emph TEIform="emph">(cite&#351;te tremurând:)</emph> 'Reac&#355;iunea a prins iar la limb&#259;. Ca un strigoi în întunere, ea st&#259; la pând&#259; ascu&#355;indu-&#351;i ghearele &#351;i a&#351;teptând momentul oportun pentru poftele ei antina&#355;ionale... Na&#355;iune, fii de&#351;teapt&#259;!' <emph TEIform="emph">(cu dezolare:) </emph>&#350;i noi dormim, domnule!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(asemenea)</p>
+</stage>
+<p TEIform="p">Cine stric&#259;, soro, dac&#259; nu mi-ai citit gazeta de cu seara!</p>
+<stage TEIform="stage">
+<p TEIform="p">(Zgomot tare.)</p>
+</stage>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(pr&#259;p&#259;dit)</p>
+</stage>
+<p TEIform="p">&#350;i pe mine m&#259; &#351;tiu to&#355;i reac&#355;ionarii c&#259; sunt republican, c&#259; sunt pentru na&#355;iune.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(tremurând &#351;i începând s&#259; plâng&#259;)</p>
+</stage>
+<p TEIform="p">Ce-i de f&#259;cut, soro?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(st&#259;pânindu-se ca s&#259;-i fac&#259; curaj)</p>
+</stage>
+<p TEIform="p">Nu te speria, Mi&#355;ule, nu te speria...</p>
+<stage TEIform="stage">
+<p TEIform="p">(Salve &#351;i chiote foarte apropiate.)</p>
+</stage>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<p TEIform="p">Iute, soro, pune mâna.</p>
+<stage TEIform="stage">
+<p TEIform="p">(Amândoi trag cear&#351;afurile din paturi în mijlocul casii, golesc dulapul, scrinul, &#351;i fac dou&#259; leg&#259;turi mari; apoi baricadeaz&#259; u&#351;a cu paturile &#351;i cu mobilele.)</p>
+</stage>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(lucrând)</p>
+</stage>
+<p TEIform="p">Mergem la gar&#259; prin dosul Ci&#351;megiului, &#351;i plec&#259;m pân&#259;-n ziu&#259; cu trenul la Ploie&#351;ti... Acolo nu mai mi-e fric&#259;: sunt între ai mei! Republicani to&#355;i, s&#259;racii!</p>
+<stage TEIform="stage">
+<p TEIform="p">(Zgomot &#351;i mai aproape.)</p>
+</stage>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(îngrozit&#259;, oprindu-se din lucru &#351;i ascultând)</p>
+</stage>
+<p TEIform="p">Soro! Soro! Auzi dumneata? Zavragiii vin încoace!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(asemenea)</p>
+</stage>
+<p TEIform="p">Auz... <emph TEIform="emph">(Tremur&#259;.)</emph> &#350;i cum sunt eu deochiat, drept aicea vin, s&#259; ne d&#259;râme casa.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(îndoindu-se de genunchi &#351;i înecându-se)</p>
+</stage>
+<p TEIform="p">Nu-mi spune, soro, c&#259; mor!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">F&#259; iute, iute!</p>
+<stage TEIform="stage">
+<p TEIform="p">(Zgomotul &#351;i mai aproape; Leonida cade-n genunchi.)</p>
+</stage>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<p TEIform="p">Soro, mor! A intrat în uli&#355;a noastr&#259;...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">Stinge lampa!</p>
+<stage TEIform="stage">
+<p TEIform="p">(Cocoana sufl&#259; iute în lamp&#259;; zgomotul este sub ferestre. Amândoi sunt tr&#259;sni&#355;i. O pauz&#259;, zgomot &#351;i apoi câteva b&#259;t&#259;i în u&#351;a d-afar&#259;.)</p>
+</stage>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(&#351;optind)</p>
+</stage>
+<p TEIform="p">Sunt la u&#351;&#259;.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">Atât mi-a fost!... Nu te mi&#351;ca. <emph TEIform="emph">(B&#259;t&#259;ile se repet&#259; mai tare; zgomotul s-a cam dep&#259;rtat.)</emph> S&#259; ne ascundem în dulap...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<p TEIform="p">S&#259; l&#259;s&#259;m calabalâcul &#351;i s&#259; s&#259;rim pe fereastr&#259;...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">Dar dac&#259; or fi intrat în curte?</p>
+<stage TEIform="stage">
+<p TEIform="p">(B&#259;t&#259;ile în u&#351;&#259; se îndesesc cu ner&#259;bdare; zgomotul se dep&#259;rteaz&#259; mereu.)</p>
+</stage>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">UN GLAS DE FEMEIE</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(d-afar&#259;)</p>
+</stage>
+<p TEIform="p">Dar asta, comedie!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(cu uimire, plecându-se spre u&#351;&#259; s-asculte)</p>
+</stage>
+<p TEIform="p">'Ai?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(oprind-o)</p>
+</stage>
+<p TEIform="p">St! Nu te mi&#351;ca!</p>
+<stage TEIform="stage">
+<p TEIform="p">(Pumni tari în u&#351;&#259;; zgomotul &#351;i mai departe.)</p>
+</stage>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">GLASUL</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(d-afar&#259;)</p>
+</stage>
+<p TEIform="p">Ei! Doamne! <emph TEIform="emph">(Strigând:)</emph> Coni&#355;&#259;!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(uimit&#259;)</p>
+</stage>
+<p TEIform="p">E slujnica, Leonido, Safta.</p>
+<stage TEIform="stage">
+<p TEIform="p">(Chiotele &#351;i împu&#351;c&#259;turile d-abia se mai aud foarte departe.)</p>
+</stage>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<p TEIform="p">St! Parc&#259; s-a mai dep&#259;rtat zavera!</p>
+<stage TEIform="stage">
+<p TEIform="p">(B&#259;t&#259;i desperate în u&#351;&#259;.)</p>
+</stage>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">GLASUL</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(d-afar&#259;)</p>
+</stage>
+<p TEIform="p">Deschide, cocoan&#259;, s&#259; fac focul. <emph TEIform="emph">(O pauz&#259;. Leonida &#351;i Efimi&#355;a ascult&#259; uimi&#355;i, ne&#351;tiind ce s&#259; creaz&#259;.)</emph> Vai de mine! Nu-i bun&#259; asta! A p&#259;&#355;it boierii ceva!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<p TEIform="p">E Safta... <emph TEIform="emph">(Vrea s&#259; mearg&#259; la u&#351;&#259;.)</emph>
+</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(oprind-o)</p>
+</stage>
+<p TEIform="p">St! Nu deschide o dat&#259; cu capul!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(nemaiputând r&#259;bda &#351;i zmucindu-se)</p>
+</stage>
+<p TEIform="p">Trebuie s&#259; deschiz, soro, c&#259;-ncepe dobitoaca s&#259; &#355;ipe &#351;i-i mai r&#259;u: ne d&#259; de gol la zavragii!</p>
+<stage TEIform="stage">
+<p TEIform="p">(B&#259;t&#259;i din toate puterile în u&#351;&#259;.)</p>
+</stage>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(comprimându-&#351;i inima &#351;i cu un ton de suprem&#259; resignare)</p>
+</stage>
+<p TEIform="p">Deschide!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(mergând în vârful degetelor la u&#351;&#259;, întreab&#259; cu gura jum&#259;tate)</p>
+</stage>
+<p TEIform="p">Cine e?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">GLASUL</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(d-afar&#259;)</p>
+</stage>
+<p TEIform="p">Eu, cocoan&#259;; am venit s&#259; fac focul.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(st&#259; un minut la îndoial&#259;, apoi se hot&#259;r&#259;&#351;te &#351;i, dând în l&#259;turi baricada, deschide, &#351;i cu glasul alterat)</p>
+</stage>
+<p TEIform="p">Haide, intr&#259;.</p>
+<stage TEIform="stage">
+<p TEIform="p">(În odaie e întunerec. Coana Efimi&#355;a &#355;ine piept Saftii la u&#351;&#259;.)</p>
+</stage>
+</sp>
+</div>
+
+
+<div type="scene" org="uniform" sample="complete" part="N" TEIform="div">
+<head TEIform="head">SCENA V</head>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(mi&#351;cat&#259;, cu tonul misterios)</p>
+</stage>
+<p TEIform="p">Ce-i afar&#259;, Safto?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SAFTA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(care a intrat cu un bra&#355; de lemne)</p>
+</stage>
+<p TEIform="p">Bine, cocoan&#259;, ce s&#259; fie! Da' pân-acuma n-am putut închide ochii: toat&#259; noaptea a fost mas&#259; mare la b&#259;canul din col&#355;; acu d-abia s-a spart cheful. Adineaori a trecut p-aici vreo câ&#355;iva, se duceau acas&#259; pe dou&#259; c&#259;r&#259;ri; era &#351;i Nae Ipingescu, ipistatul, beat frânt; chiuia &#351;i tr&#259;gea la pistoale... obicei mitoc&#259;nesc.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(nedomirit)</p>
+</stage>
+<p TEIform="p">Ce obicei?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">SAFTA</speaker>
+<p TEIform="p">&#350;tii, a f&#259;cut oamenii chef, c-asear&#259; a fost l&#259;sata secului.</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(înseninându-se &#351;i prinzând limb&#259;, c&#259;tr&#259; Leonida cu umor)</p>
+</stage>
+<p TEIform="p">A fost l&#259;sata, secule!</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(îmb&#259;rb&#259;tat)</p>
+</stage>
+<p TEIform="p">Ei vezi? <emph TEIform="emph">(Plin de triumful teoriei:)</emph> Tot vorba mea, domnule! Omul, bunioar&#259;, de par egzamplu, dintr-un nu-&#351;tiu-ce ori ceva, cum e nevricos, de curiozitate, intr&#259; la o idee; a intrat la o idee? Fandacsia e gata; ei! &#350;i dup&#259; aia, din fandacsie cade în ipohondrie. <emph TEIform="emph">(C&#259;tre cocoana:)</emph> V&#259;zu&#351;i?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(cu chef)</p>
+</stage>
+<p TEIform="p">Ei! Soro! Parc&#259; ziceai c&#259; nu e voie de la poli&#355;ie s&#259; se dea cu pistoale în ora&#351;?</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">LEONIDA</speaker>
+<stage TEIform="stage">
+<p TEIform="p">(sigur)</p>
+</stage>
+<p TEIform="p">Apoi bine, nu vezi dumneata c&#259; aici a fost chiar poli&#355;ia în persoan&#259;...</p>
+</sp>
+<sp TEIform="sp">
+<speaker TEIform="speaker">EFIMI&#354;A</speaker>
+<p TEIform="p">Ei, bobocule, ap&#259;i cum le &#351;tii dumneata toate, mai rar cineva! <emph TEIform="emph">(Aprinde lampa.)</emph>
+</p>
+<stage TEIform="stage">
+<p TEIform="p">(Amândoi sunt foarte veseli. Safta r&#259;mâne încremenit&#259; v&#259;zând r&#259;sturnarea od&#259;ii.)</p>
+</stage>
+<stage TEIform="stage">
+<p TEIform="p">(Cortina) </p>
+</stage>
+</sp>
+</div>
+</div>
+</body>
+</text>
+</TEI.2>
